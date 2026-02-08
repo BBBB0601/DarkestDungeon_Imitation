@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc03db583ff943742bd97455e97573c1, type: 3}
+  m_Name: "\uB178\uC0C1\uAC15\uB3C4"
+  m_EditorClassIdentifier: 
+  _entityName: "\uB178\uC0C1\uAC15\uB3C4"
+  _maxHp: 23
+  _currHp: 23
+  _speed: 5
+  _level: 0
+  _dodge: 10
+  _protection: 0
+  _correction: 0
+  _critical: 0.05
+  _minDamage: 5
+  _maxDamage: 10
+  _stunResist: 0.3
+  _poisonResist: 0.3
+  _diseaseResist: 0.3
+  _deathblowResist: 0.67
+  _moveResist: 0.3
+  _bleedResist: 0.3
+  _debuffResist: 0.3
+  _trapDisable: 0.4
+  skills:
+  - {fileID: 11400000, guid: 9cf4c89b6c5e40b4c92d55aecb238776, type: 2}
+  - {fileID: 11400000, guid: 0a588a27b6367354197f3b51a1b1ef78, type: 2}
+  - {fileID: 11400000, guid: d3e73d153d1a1c64090c210f270e0d89, type: 2}
+  - {fileID: 11400000, guid: 31493e396b60e624f8303e8f024524e7, type: 2}
+  - {fileID: 11400000, guid: 073345fa317bde34a83b3825ab89181e, type: 2}
+  - {fileID: 11400000, guid: eba47cd527ac97446b76370a09d15ccc, type: 2}
+  - {fileID: 11400000, guid: 13a6592a898581a4e8b5d7a3ef05feec, type: 2}
