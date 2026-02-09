@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 673c778f8532fb9469c1d7e2b94fed6e, type: 3}
+  m_Name: "\uBBF8\uD639\uC758 \uC220\uC794"
+  m_EditorClassIdentifier: 
+  _skillName: "\uBBF8\uD639\uC758 \uC220\uC794"
+  _targetRanks: 01010101
+  _isTargetChained: 0
+  _usableRanks: 00010101
+  _isUsableChained: 0
+  _accuracy: 92
+  _crit: 0
+  _minDmg: 2
+  _maxDmg: 0
+  note: "\uB300\uC0C1: \uC2A4\uD2B8\uB808\uC2A4 \uC99D\uAC00 +15\n\uB300\uC0C1 \uC57D\uD654:
+    \uCE58\uBA85\uD0C0\uC728 -3% (120%) (\uBCA0\uD14C\uB791)"
