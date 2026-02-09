@@ -21,7 +21,4 @@ MonoBehaviour:
   _accuracy: 75
   _damageMod: 0
   _critMod: 3
-  _useFixedDamage: 0
-  _minDamage: 0
-  _maxDamage: 0
   note: 

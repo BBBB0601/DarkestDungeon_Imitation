@@ -21,9 +21,6 @@ MonoBehaviour:
   _accuracy: 80
   _damageMod: -25
   _critMod: 1
-  _useFixedDamage: 0
-  _minDamage: 0
-  _maxDamage: 0
   note: "\uC790\uC2E0: \uC55E\uC73C\uB85C 1\uC5F4 \uC774\uB3D9\n\uB300\uC0C1: \uB4A4\uB85C
     2\uC5F4 \uBC00\uCE58\uAE30 (\uAE30\uBCF8 100%)\n\uC57D\uD654 (\uAE30\uBCF8 100%):
     \uD68C\uD53C -10, \uC18D\uB3C4 -2"

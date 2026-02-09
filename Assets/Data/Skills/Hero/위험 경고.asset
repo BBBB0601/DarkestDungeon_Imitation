@@ -21,7 +21,4 @@ MonoBehaviour:
   _accuracy: 0
   _damageMod: 0
   _critMod: 0
-  _useFixedDamage: 0
-  _minDamage: 0
-  _maxDamage: 0
   note: "\uC2A4\uD2B8\uB808\uC2A4 -2 (66% \uD655\uB960) (\uAC1C\uBCC4 \uC801\uC6A9)"

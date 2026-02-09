@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc03db583ff943742bd97455e97573c1, type: 3}
+  m_Name: "\uAD11\uB300"
+  m_EditorClassIdentifier: 
+  _heroName: "\uAD11\uB300"
+  _maxHp: 19
+  _speed: 7
+  _level: 0
+  _dodge: 15
+  _protection: 0
+  _correction: 0
+  _critical: 0.04
+  _minDamage: 4
+  _maxDamage: 7
+  _stunResist: 0.2
+  _poisonResist: 0.4
+  _diseaseResist: 0.2
+  _deathblowResist: 0.67
+  _moveResist: 0.2
+  _bleedResist: 0.3
+  _debuffResist: 0.4
+  _trapDisable: 0.3
+  skills:
+  - {fileID: 11400000, guid: 2c3aaaee863a083498963dfe0842dd0f, type: 2}
+  - {fileID: 11400000, guid: a718fd020c32998419845702aa56b2f2, type: 2}
+  - {fileID: 11400000, guid: 569030b686de1a74ca59c08ba0bc319b, type: 2}
+  - {fileID: 11400000, guid: 92c0cbfadc6b33c448626c40fc8d9589, type: 2}
+  - {fileID: 11400000, guid: 349a4af0c01138544bf3023b716d04cc, type: 2}
+  - {fileID: 11400000, guid: 0ae85d2d3cd3f8c41a938f5803a3c868, type: 2}
+  - {fileID: 11400000, guid: 2f2fefdbf3c09944db5974cadcfcae2e, type: 2}

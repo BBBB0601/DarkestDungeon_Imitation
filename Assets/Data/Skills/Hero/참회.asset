@@ -21,8 +21,5 @@ MonoBehaviour:
   _accuracy: 0
   _damageMod: 0
   _critMod: 5
-  _useFixedDamage: 0
-  _minDamage: 0
-  _maxDamage: 0
   note: "\uCE58\uBA85\uD0C0 5% \uACE0\uC815\n\uC790\uC2E0: \uC2A4\uD2B8\uB808\uC2A4
     -7\n\uCCB4\uB825 3 \uD68C\uBCF5"
