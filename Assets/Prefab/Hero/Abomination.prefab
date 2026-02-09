@@ -266,7 +266,7 @@ GameObject:
   - component: {fileID: 613773651342476230}
   - component: {fileID: 2088217133917621087}
   m_Layer: 0
-  m_Name: PlagueDocter
+  m_Name: Abomination
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -355,7 +355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 410351cd54116ac46bc1d2bb02ce8a7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  heroData: {fileID: 11400000, guid: cb44d4c931e2c0d4fad5227f995aa106, type: 2}
+  heroData: {fileID: 11400000, guid: 139753c873964fc4db01da5a0d204fbd, type: 2}
   monsterData: {fileID: 0}
   isHero: 1
 --- !u!114 &2088217133917621087
@@ -577,7 +577,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uC5ED\uBCD1\uC758\uC0AC\n"
+  m_text: "\uAD34\uC778\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8b331e7360697aa45a27a71e1ff656b1, type: 2}
   m_sharedMaterial: {fileID: 9185422877436535433, guid: 8b331e7360697aa45a27a71e1ff656b1, type: 2}
@@ -604,8 +604,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 25
-  m_fontSizeBase: 25
+  m_fontSize: 32
+  m_fontSizeBase: 32
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
