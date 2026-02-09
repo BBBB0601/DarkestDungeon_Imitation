@@ -23,5 +23,4 @@ MonoBehaviour:
   _bleedResist: 2
   _debuffResist: 2
   _moveResist: 3
-  skills:
-  - {fileID: 11400000, guid: dfe6f47ca3527ae4da21c19aa70f4534, type: 2}
+  skills: []
