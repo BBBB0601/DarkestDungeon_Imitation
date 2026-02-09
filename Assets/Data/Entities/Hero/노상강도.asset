@@ -12,9 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc03db583ff943742bd97455e97573c1, type: 3}
   m_Name: "\uB178\uC0C1\uAC15\uB3C4"
   m_EditorClassIdentifier: 
-  _entityName: "\uB178\uC0C1\uAC15\uB3C4"
+  _heroName: "\uB178\uC0C1\uAC15\uB3C4"
   _maxHp: 23
-  _currHp: 23
   _speed: 5
   _level: 0
   _dodge: 10

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad73d4d4253aaa488718ecff9914501, type: 3}
+  m_Name: "\uB3C4\uC801 \uCD9C\uD608\uAE30\uC220\uC790"
+  m_EditorClassIdentifier: 
+  _monsterName: "\uB3C4\uC801 \uCD9C\uD608\uAE30\uC220\uC790"
+  _maxHp: 35
+  _dodge: 0
+  _protection: 0
+  _speed: 1
+  _monsterTypes: 00000000
+  _stunResist: 0.5
+  _poisonResist: 0.2
+  _bleedResist: 0.2
+  _debuffResist: 0.15
+  _moveResist: 0.75
+  skills:
+  - {fileID: 11400000, guid: 5ca487f9c4649884187223bb2f84477d, type: 2}
+  - {fileID: 11400000, guid: a59fd1f87bbf4424ba064425a1b84af6, type: 2}
+  - {fileID: 11400000, guid: 5faef38869d33eb4d9956d6527c9315b, type: 2}

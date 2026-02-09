@@ -1,4 +1,4 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using UnityEditor;
 using System.IO;
 using System.Text.RegularExpressions;
@@ -9,10 +9,10 @@ public class CSVToHeroImporter
     [MenuItem("Tools/Import Heroes and Link Skills")]
     public static void ImportHeroes()
     {
-        string path = "Assets/CSV/[DB]¿µ¿õ_´É·ÂÄ¡_µ¥ÀÌÅÍ.csv";
+        string path = "Assets/CSV/[DB]ì˜ì›…_ëŠ¥ë ¥ì¹˜_ë°ì´í„°.csv";
         if (!File.Exists(path))
         {
-            Debug.LogError("¿µ¿õ CSV ÆÄÀÏÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.");
+            Debug.LogError("ì˜ì›… CSV íŒŒì¼ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.");
             return;
         }
 
@@ -23,9 +23,9 @@ public class CSVToHeroImporter
             string[] data = Regex.Split(lines[i], ",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)");
             if (data.Length < 17) continue;
 
-            EntityData hero = ScriptableObject.CreateInstance<EntityData>();
+            HeroData hero = ScriptableObject.CreateInstance<HeroData>();
 
-            // ½ºÅÈ ÆÄ½Ì ¿µ¿õ µ¥ÀÌÅÍ...csv]
+            // ìŠ¤íƒ¯ íŒŒì‹± ì˜ì›… ë°ì´í„°...csv]
             string hName = data[0].Trim('"');
             int hp = int.Parse(data[1]);
             int dodge = int.Parse(data[2]);
@@ -36,48 +36,48 @@ public class CSVToHeroImporter
             int minAtk = int.Parse(data[7]);
             int maxAtk = int.Parse(data[8]);
 
-            // ½ºÅ³ ¿¬°á (9¹ø ¿­: »ç¿ë ±â¼ú) ¿µ¿õ µ¥ÀÌÅÍ...csv]
+            // ìŠ¤í‚¬ ì—°ê²° (9ë²ˆ ì—´: ì‚¬ìš© ê¸°ìˆ ) ì˜ì›… ë°ì´í„°...csv]
             string[] skillNames = data[9].Trim('"').Split(',');
-            List<SkillData> linkedSkills = new List<SkillData>();
+            List<HeroSkillData> linkedSkills = new List<HeroSkillData>();
 
             foreach (string sName in skillNames)
             {
                 string cleanName = sName.Trim();
-                Debug.Log($"[°Ë»ö ½Ãµµ] ¿µ¿õ: {hName}, ½ºÅ³¸í: '{cleanName}'");
+                Debug.Log($"[ê²€ìƒ‰ ì‹œë„] ì˜ì›…: {hName}, ìŠ¤í‚¬ëª…: '{cleanName}'");
 
-                // "Assets/Data/Skills" Æú´õ¿¡¼­ ÀÌ¸§ÀÌ ÀÏÄ¡ÇÏ´Â ½ºÅ³ ¿¡¼Â Ã£±â
-                string[] guids = AssetDatabase.FindAssets($"{cleanName} t:SkillData", new[] { "Assets/Data/Skills" });
+                // "Assets/Data/Skills/Hero" í´ë”ì—ì„œ ì´ë¦„ì´ ì¼ì¹˜í•˜ëŠ” ìŠ¤í‚¬ ì—ì…‹ ì°¾ê¸°
+                string[] guids = AssetDatabase.FindAssets($"{cleanName} t:HeroSkillData", new[] { "Assets/Data/Skills/Hero" });
 
                 if (guids.Length > 0)
                 {
                     string assetPath = AssetDatabase.GUIDToAssetPath(guids[0]);
-                    linkedSkills.Add(AssetDatabase.LoadAssetAtPath<SkillData>(assetPath));
-                    Debug.Log($"[°Ë»ö ¼º°ø] '{cleanName}' ¿¡¼ÂÀ» Ã£¾Æ ¿¬°áÇß½À´Ï´Ù.");
+                    linkedSkills.Add(AssetDatabase.LoadAssetAtPath<HeroSkillData>(assetPath));
+                    Debug.Log($"[ê²€ìƒ‰ ì„±ê³µ] '{cleanName}' ì—ì…‹ì„ ì°¾ì•„ ì—°ê²°í–ˆìŠµë‹ˆë‹¤.");
                 }
                 else
                 {
-                    Debug.LogWarning($"{hName}ÀÇ ½ºÅ³ '{cleanName}' ¿¡¼ÂÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.");
+                    Debug.LogWarning($"{hName}ì˜ ìŠ¤í‚¬ '{cleanName}' ì—ì…‹ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.");
                 }
             }
 
-            // ÀúÇ×·Â ÆÄ½Ì (10~17¹ø ¿­)
+            // ì €í•­ë ¥ íŒŒì‹± (10~17ë²ˆ ì—´)
             float[] resists = new float[8];
             for (int j = 0; j < 8; j++)
             {
                 resists[j] = float.Parse(data[10 + j].Replace("%", "")) / 100f;
             }
 
-            // ÃÊ±âÈ­ ¹× ÀúÀå
+            // ì´ˆê¸°í™” ë° ì €ì¥
             hero.Initialize(hName, hp, dodge, prot, spd, correct, crit, minAtk, maxAtk, resists, linkedSkills.ToArray());
 
-            EditorUtility.SetDirty(hero);   // º¯°æ »çÇ×À» À¯´ÏÆ¼¿¡ ¾Ë¸²
+            EditorUtility.SetDirty(hero);   // ë³€ê²½ ì‚¬í•­ì„ ìœ ë‹ˆí‹°ì— ì•Œë¦¼
 
-            if (!Directory.Exists("Assets/Data/Entities/Hero")) Directory.CreateDirectory("Assets/Data/Entities/Player");
+            if (!Directory.Exists("Assets/Data/Entities/Hero")) Directory.CreateDirectory("Assets/Data/Entities/Hero");
             AssetDatabase.CreateAsset(hero, $"Assets/Data/Entities/Hero/{hName}.asset");
         }
 
         AssetDatabase.SaveAssets();
         AssetDatabase.Refresh();
-        Debug.Log("¸ğµç ¿µ¿õ µ¥ÀÌÅÍ ¹× ½ºÅ³ ¿¬°á ¿Ï·á");
+        Debug.Log("ëª¨ë“  ì˜ì›… ë°ì´í„° ë° ìŠ¤í‚¬ ì—°ê²° ì™„ë£Œ");
     }
 }

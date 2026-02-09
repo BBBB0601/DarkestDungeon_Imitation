@@ -1,17 +1,17 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using UnityEditor;
 using System.IO;
 using System.Text.RegularExpressions;
 
 public class CSVToHeroSkillImporter
 {
-    [MenuItem("Tools/Import All Skills")]
+    [MenuItem("Tools/Import All Hero Skills")]
     public static void ImportSkills()
     {
-        string path = "Assets/CSV/[DB]¿µ¿õ_ÀüÃ¼_½ºÅ³_¸ñ·Ï.csv";
+        string path = "Assets/CSV/[DB]ì˜ì›…_ì „ì²´_ìŠ¤í‚¬_ëª©ë¡.csv";
         if (!File.Exists(path))
         {
-            Debug.LogError("CSV ÆÄÀÏÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù: " + path);
+            Debug.LogError("CSV íŒŒì¼ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤: " + path);
             return;
         }
 
@@ -21,57 +21,47 @@ public class CSVToHeroSkillImporter
 
         for (int i = 1; i < lines.Length; i++)
         {
-            if (string.IsNullOrWhiteSpace(lines[i])) continue;  // ºó ÁÙ °Ç³Ê¶Ü
+            if (string.IsNullOrWhiteSpace(lines[i])) continue;  // ë¹ˆ ì¤„ ê±´ë„ˆëœ€
 
             string[] data = Regex.Split(lines[i], ",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)");
             if (data.Length < 9) continue;
 
             string sName = data[0].Trim('"');
-            Debug.Log("ÀÌ¸§ ÀĞ±â ¿Ï·á: " +  sName);
+            Debug.Log("ì´ë¦„ ì½ê¸° ì™„ë£Œ: " +  sName);
 
-            // 1. ±â¼ú À¯Çü ¸ÅÇÎ
+            // 1. ê¸°ìˆ  ìœ í˜• ë§¤í•‘
             SkillType sType = SkillType.Melee;
             string rawType = data[2].Trim();
-            if (rawType.Contains("¿ø°Å¸®")) sType = SkillType.Ranged;
-            else if (rawType.Contains("¹öÇÁ")) sType = SkillType.Buff;
-            else if (rawType.Contains("Ä¡·á")) sType = SkillType.Heal;
-            Debug.Log("±â¼ú À¯Çü ÀĞ±â ¿Ï·á: " + sType.ToString());
+            if (rawType.Contains("ì›ê±°ë¦¬")) sType = SkillType.Ranged;
+            else if (rawType.Contains("ë²„í”„")) sType = SkillType.Buff;
+            else if (rawType.Contains("ì¹˜ë£Œ")) sType = SkillType.Heal;
+            Debug.Log("ê¸°ìˆ  ìœ í˜• ì½ê¸° ì™„ë£Œ: " + sType.ToString());
 
-            // 2. À§Ä¡ µ¥ÀÌÅÍ ¹× "¿¬°áµÊ" ¿©ºÎ ÆÄ½ÌÀüÃ¼_½ºÅ³_¸ñ·Ï.csv]
+            // 2. ìœ„ì¹˜ ë°ì´í„° ë° "ì—°ê²°ë¨" ì—¬ë¶€ íŒŒì‹±ì „ì²´_ìŠ¤í‚¬_ëª©ë¡.csv
             bool[] usable = ParseRanks(data[3]);
-            bool usableChained = data[3].Contains("¿¬°áµÊ"); // "¿¬°áµÊ" ÅÂ±× ÃßÀû
-            Debug.Log("±â¼ú »ç¿ë °¡´É À§Ä¡ ÀĞ±â ¿Ï·á");
+            bool usableChained = data[3].Contains("ì—°ê²°ë¨"); // "ì—°ê²°ë¨" íƒœê·¸ ì¶”ì 
+            Debug.Log("ê¸°ìˆ  ì‚¬ìš© ê°€ëŠ¥ ìœ„ì¹˜ ì½ê¸° ì™„ë£Œ");
 
             bool[] target = ParseRanks(data[4]);
-            bool targetChained = data[4].Contains("¿¬°áµÊ"); // "¿¬°áµÊ" ÅÂ±× ÃßÀû
-            Debug.Log("±â¼ú Å¸°Ù À§Ä¡ ÀĞ±â ¿Ï·á");
+            bool targetChained = data[4].Contains("ì—°ê²°ë¨"); // "ì—°ê²°ë¨" íƒœê·¸ ì¶”ì 
+            Debug.Log("ê¸°ìˆ  íƒ€ê²Ÿ ìœ„ì¹˜ ì½ê¸° ì™„ë£Œ");
 
-            // 3. ¼öÄ¡ ÆÄ½ÌÀüÃ¼_½ºÅ³_¸ñ·Ï.csv]
+            // 3. ìˆ˜ì¹˜ íŒŒì‹±ì „ì²´_ìŠ¤í‚¬_ëª©ë¡.csv
             int acc = ParseInt(data[5]);
-            Debug.Log("¸íÁß·ü º¸Á¤Ä¡ ÀĞ±â ¿Ï·á");
+            Debug.Log("ëª…ì¤‘ë¥  ë³´ì •ì¹˜ ì½ê¸° ì™„ë£Œ");
 
             float dmgMod = ParseFloat(data[6]);
-            Debug.Log("´ë¹ÌÁö º¸Á¤Ä¡ ÀĞ±â ¿Ï·á");
+            Debug.Log("ëŒ€ë¯¸ì§€ ë³´ì •ì¹˜ ì½ê¸° ì™„ë£Œ");
             
             float critMod = ParseFloat(data[7]);
-            Debug.Log("Ä¡¸íÅ¸ º¸Á¤Ä¡ ÀĞ±â ¿Ï·á");
+            Debug.Log("ì¹˜ëª…íƒ€ ë³´ì •ì¹˜ ì½ê¸° ì™„ë£Œ");
             
             string note = data[8].Trim('"');
-            Debug.Log("Æ¯ÀÌ »çÇ× ÀĞ±â ¿Ï·á");
+            Debug.Log("íŠ¹ì´ ì‚¬í•­ ì½ê¸° ì™„ë£Œ");
 
-            // 4. ¸ó½ºÅÍ ½ºÅ³ ¿©ºÎ ¹× µ¥¹ÌÁö (CSV ¿­ÀÌ ´õ ÀÖÀ» °æ¿ì ´ëºñ)
-            bool monsterSkill = false;
-            int minDmg = 0, maxDmg = 0;
-            if (data.Length >= 11)
-            {
-                monsterSkill = true;
-                minDmg = ParseInt(data[9]);
-                maxDmg = ParseInt(data[10]);
-            }
-
-            // 5. ScriptableObject »ı¼º ¹× »õ·Î¿î Initialize È£Ãâ
-            SkillData skill = ScriptableObject.CreateInstance<SkillData>();
-            skill.Initialize(sName, sType, usable, usableChained, target, targetChained, acc, dmgMod, critMod, monsterSkill, minDmg, maxDmg, note);
+            // 5. ScriptableObject ìƒì„± ë° ìƒˆë¡œìš´ Initialize í˜¸ì¶œ
+            HeroSkillData skill = ScriptableObject.CreateInstance<HeroSkillData>();
+            skill.Initialize(sName, sType, usable, usableChained, target, targetChained, acc, dmgMod, critMod, note);
 
             if (!Directory.Exists("Assets/Data/Skills/Hero")) Directory.CreateDirectory("Assets/Data/Skills/Hero");
             AssetDatabase.CreateAsset(skill, $"Assets/Data/Skills/Hero/{sName}.asset");
@@ -79,15 +69,15 @@ public class CSVToHeroSkillImporter
 
         AssetDatabase.SaveAssets();
         AssetDatabase.Refresh();
-        Debug.Log("¸ğµç ½ºÅ³ ÀÓÆ÷Æ® ¿Ï·á (¿¬°áµÊ ÅÂ±× ¹İ¿µ)");
+        Debug.Log("ëª¨ë“  ìŠ¤í‚¬ ì„í¬íŠ¸ ì™„ë£Œ (ì—°ê²°ë¨ íƒœê·¸ ë°˜ì˜)");
     }
 
     private static bool[] ParseRanks(string raw)
     {
         bool[] ranks = new bool[4];
         if (string.IsNullOrEmpty(raw)) return ranks;
-        for (int j = 1; j <= 4; j++) if (raw.Contains(j + "¿­")) ranks[j - 1] = true;
-        if (raw.Contains("ÀüÃ¼")) { for (int j = 0; j < 4; j++) ranks[j] = true; }
+        for (int j = 1; j <= 4; j++) if (raw.Contains(j + "ì—´")) ranks[j - 1] = true;
+        if (raw.Contains("ì „ì²´")) { for (int j = 0; j < 4; j++) ranks[j] = true; }
         return ranks;
     }
 
@@ -96,7 +86,7 @@ public class CSVToHeroSkillImporter
         if (string.IsNullOrWhiteSpace(val) || val.Contains("NaN") || val.Trim() == "-1")
             return 0;
 
-        // ¸ğµç Á¾·ùÀÇ °ø¹é°ú %, µû¿ÈÇ¥ Á¦°Å
+        // ëª¨ë“  ì¢…ë¥˜ì˜ ê³µë°±ê³¼ %, ë”°ì˜´í‘œ ì œê±°
         string cleanVal = Regex.Replace(val, @"[\s%\""]", "");
 
         if (int.TryParse(cleanVal, out int result))
@@ -104,7 +94,7 @@ public class CSVToHeroSkillImporter
             return result;
         }
 
-        // ¸¸¾à ¼Ò¼öÁ¡ÀÌ ¼¯¿© µé¾î¿Â °æ¿ì
+        // ë§Œì•½ ì†Œìˆ˜ì ì´ ì„ì—¬ ë“¤ì–´ì˜¨ ê²½ìš°
         if (float.TryParse(cleanVal, out float fResult))
         {
             return Mathf.RoundToInt(fResult);
