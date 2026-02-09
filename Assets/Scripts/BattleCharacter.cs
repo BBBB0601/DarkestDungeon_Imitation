@@ -10,9 +10,14 @@ public class BattleCharacter : MonoBehaviour
     [Header("UI & Visual")]
     private CharacterUI _characterUI;
 
-    // 현제 채력 추적
+    // 현제 체력 추적
     private int _currHp;
     public int CurrHp => _currHp;
+
+    // 현제 스트레스 수치 추적
+    private int _currStress;
+    public int Stress => _currStress;
+    private const int maxStress = 200;
 
     void Start()
     {
@@ -20,6 +25,8 @@ public class BattleCharacter : MonoBehaviour
             _currHp = heroData.MaxHp;
         else if(monsterData != null)
             _currHp = monsterData.MaxHp;
+
+        _currStress = 0;
 
         Initialize();
     }
@@ -39,6 +46,7 @@ public class BattleCharacter : MonoBehaviour
         if(isHero && heroData != null)
         {
             _characterUI.SetHealthBar(_currHp, heroData.MaxHp);
+            _characterUI.SetStressBar(_currStress);
         }
         else if(!isHero && monsterData != null)
         {
