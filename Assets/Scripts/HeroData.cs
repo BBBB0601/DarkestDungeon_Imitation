@@ -50,8 +50,8 @@ public class HeroData : ScriptableObject
     [SerializeField] private float _stunResist;
     public float StunResist => _stunResist;
 
-    [SerializeField] private float _poisonResist;
-    public float PoisonResist => _poisonResist;
+    [SerializeField] private float _blightResist;
+    public float BlightResist => _blightResist;
 
     [SerializeField] private float _diseaseResist;
     public float DiseaseResist => _diseaseResist;
@@ -89,7 +89,7 @@ public class HeroData : ScriptableObject
 
         // 저항력 순서: 기절, 중독, 질병, 죽음의일격, 이동, 출혈, 약화, 함정
         _stunResist = resists[0];
-        _poisonResist = resists[1];
+        _blightResist = resists[1];
         _diseaseResist = resists[2];
         _deathblowResist = resists[3];
         _moveResist = resists[4];

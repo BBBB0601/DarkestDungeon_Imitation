@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
 
 public enum SkillType
 {
@@ -16,6 +17,29 @@ public class HeroSkillData : ScriptableObject
 
     [SerializeField] private SkillType _type;                    // 스킬 유형
     public SkillType Type => _type;
+
+    [System.Serializable]
+    public struct SkillEffectData
+    {
+        public EffectType type; // 출혈, 중독, 스턴, 버프
+        public float chance;    // 상태 부여 확률
+        public int value;       // 위력 또는 수치
+        public int duration;    // 지속 시간
+    }
+    
+    // 상태 이상 리스트
+    public List<SkillEffectData> effects = new List<SkillEffectData>();
+
+
+    [System.Serializable]
+    public struct ConditionalModifier
+    {
+        public MonsterType targetType; // 대상이 이 종족일 때
+        public float damageMod;        // 데미지 보정치 (+0.25f 등)
+    }
+
+    // HeroSkillData에 추가
+    public List<ConditionalModifier> conditionalMods = new List<ConditionalModifier>();
 
     [Header("스킬 사용 위치 | 대상 위치")]
     

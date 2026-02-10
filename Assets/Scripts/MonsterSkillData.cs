@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
 
 [CreateAssetMenu(fileName = "NewMonsterSkill", menuName = "Data/Skill")]
 public class MonsterSkillData : ScriptableObject
@@ -29,6 +30,18 @@ public class MonsterSkillData : ScriptableObject
 
     [SerializeField] private int _maxDmg;                           // 최대 대미지
     public int MaxDmg => _maxDmg;
+
+    [System.Serializable]
+    public struct SkillEffectData
+    {
+        public EffectType type; // 출혈, 중독, 스턴, 버프
+        public float chance;    // 상태 부여 확률
+        public int value;       // 위력 또는 수치
+        public int duration;    // 지속 시간
+    }
+
+    // 상태 이상 리스트
+    public List<SkillEffectData> effects = new List<SkillEffectData>();
 
     public string note;                 // 특이 사항
 
