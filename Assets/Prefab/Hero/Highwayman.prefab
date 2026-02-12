@@ -355,7 +355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 410351cd54116ac46bc1d2bb02ce8a7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  heroData: {fileID: 0}
+  heroData: {fileID: 11400000, guid: 7fe02c214364f514898723da6d3fd5fc, type: 2}
   monsterData: {fileID: 0}
   isHero: 1
 --- !u!114 &2088217133917621087
