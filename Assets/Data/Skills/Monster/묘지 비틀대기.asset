@@ -17,8 +17,9 @@ MonoBehaviour:
   _isTargetChained: 0
   _usableRanks: 00000001
   _isUsableChained: 0
-  _accuracy: 42
+  _accuracy: 0.425
   _crit: 0
   _minDmg: 2
   _maxDmg: 5
+  effects: []
   note: "\uC790\uC2E0: 1\uCE78 \uC804\uC9C4"

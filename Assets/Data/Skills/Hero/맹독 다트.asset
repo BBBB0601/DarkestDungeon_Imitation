@@ -14,12 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _skillName: "\uB9F9\uB3C5 \uB2E4\uD2B8"
   _type: 1
+  effects: []
+  conditionalMods: []
   _usableRanks: 00010101
   _isUsableChained: 0
   _targetRanks: 01010101
   _isTargetChained: 0
-  _accuracy: 95
-  _damageMod: -60
-  _critMod: 7.5
+  _accuracy: 0.95
+  _damageMod: -0.6
+  _critMod: 0.075
   note: "\uC911\uB3C5 (\uAE30\uBCF8 100%): \uD53C\uD574 2 x 4 \uB77C\uC6B4\uB4DC\n\uC57D\uD654
     (\uAE30\uBCF8 100%): \uC911\uB3C5 \uC800\uD56D -20%"

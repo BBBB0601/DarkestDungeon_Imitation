@@ -25,11 +25,11 @@ public class CSVToMonsterImporter : MonoBehaviour
 
             MonsterData monster = ScriptableObject.CreateInstance<MonsterData>();
 
-            // 스탯 파싱 영웅 데이터...csv]
+            // 스탯 파싱 몬스터 데이터...csv]
             string mName = data[0].Trim('"');
             int hp = int.Parse(data[1]);
-            float dodge = float.Parse(data[2].Replace("%", "")) / 100f;
-            float prot = float.Parse(data[3].Replace("%", "")) / 100f;
+            float dodge = float.Parse(data[2]);
+            float prot = float.Parse(data[3]);
             int spd = int.Parse(data[4]);
 
             string rawTypes = data[5].Trim('"');        // 다중 타입 구분
@@ -47,7 +47,7 @@ public class CSVToMonsterImporter : MonoBehaviour
             float[] resists = new float[6];
             for (int j = 0; j < 5; j++)
             {
-                resists[j] = float.Parse(data[6 + j].Replace("%", "")) / 100f;
+                resists[j] = float.Parse(data[6 + j]);
             }
 
             string[] skillNames = data[11].Trim('"').Split(",");

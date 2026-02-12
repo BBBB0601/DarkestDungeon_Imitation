@@ -19,8 +19,9 @@ MonoBehaviour:
   _speed: 0
   _monsterTypes: 05000000
   _stunResist: 2
-  _poisonResist: 2
+  _blightResist: 2
   _bleedResist: 2
   _debuffResist: 2
   _moveResist: 3
-  skills: []
+  skills:
+  - {fileID: 11400000, guid: dfe6f47ca3527ae4da21c19aa70f4534, type: 2}

@@ -17,8 +17,9 @@ MonoBehaviour:
   _isTargetChained: 0
   _usableRanks: 00000101
   _isUsableChained: 0
-  _accuracy: 82
-  _crit: 12
+  _accuracy: 0.825
+  _crit: 0.12
   _minDmg: 3
   _maxDmg: 5
+  effects: []
   note: "+100% \uB300\uBBF8\uC9C0 vs \uD45C\uC2DD"

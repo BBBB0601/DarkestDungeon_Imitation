@@ -17,8 +17,9 @@ MonoBehaviour:
   _isTargetChained: 1
   _usableRanks: 01010101
   _isUsableChained: 0
-  _accuracy: 102
+  _accuracy: 1.025
   _crit: 0
   _minDmg: 0
   _maxDmg: 0
+  effects: []
   note: "\uB300\uC0C1: \uC2A4\uD2B8\uB808\uC2A4 \uC99D\uAC00 +7"

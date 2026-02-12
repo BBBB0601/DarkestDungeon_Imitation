@@ -57,8 +57,8 @@ public class HeroSkillData : ScriptableObject
 
     [Header("스킬 능력치")]
     
-    [SerializeField] private int _accuracy;    // 명중률
-    public int Accuracy => _accuracy;
+    [SerializeField] private float _accuracy;    // 명중률
+    public float Accuracy => _accuracy;
 
     [SerializeField] private float _damageMod;   // dmg 보정
     public float DamageMod => _damageMod;
@@ -70,7 +70,7 @@ public class HeroSkillData : ScriptableObject
 
     public void Initialize(string skillName, SkillType skillType, bool[] usable,
                            bool isUsableChained, bool[] target, bool isTargetChained,
-                           int acc, float dmg, float crit, string note)
+                           float acc, float dmg, float crit, string note)
     {
         // 영웅 | 몬스터 공통 적용
         _skillName = skillName;

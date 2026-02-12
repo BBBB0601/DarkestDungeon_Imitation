@@ -14,11 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _skillName: "\uADF8\uB9BC\uC790 \uC740\uC2E0"
   _type: 2
+  effects: []
+  conditionalMods: []
   _usableRanks: 01010000
   _isUsableChained: 0
   _targetRanks: 00000000
   _isTargetChained: 0
-  _accuracy: 95
+  _accuracy: 0.95
   _damageMod: 0
   _critMod: 0
   note: "\uC790\uC2E0: \uB4A4\uB85C 2\uC5F4 \uC774\uB3D9\n\uC740\uC2E0 (2\uCC28\uB840)\n\uAC15\uD654:

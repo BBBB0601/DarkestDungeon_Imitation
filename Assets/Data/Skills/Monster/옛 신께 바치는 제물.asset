@@ -17,9 +17,10 @@ MonoBehaviour:
   _isTargetChained: 0
   _usableRanks: 01010000
   _isUsableChained: 0
-  _accuracy: 72
-  _crit: 12
+  _accuracy: 0.725
+  _crit: 0.12
   _minDmg: 2
   _maxDmg: 4
+  effects: []
   note: "\uB300\uC0C1: \uCD9C\uD608 1 x 3 \uB77C\uC6B4\uB4DC (100%)\n\uB300\uC0C1
     \uC57D\uD654: \uC2A4\uD2B8\uB808\uC2A4 +10% (100%)\n\uC790\uC2E0: 1\uCE78 \uC804\uC9C4"

@@ -38,7 +38,7 @@ public class CSVToMonsterSkillImporter : MonoBehaviour
             Debug.Log("기술 사용 가능 위치 읽기 완료");
 
             // 3. 수치 파싱전체_스킬_목록.csv
-            int acc = ParseInt(data[4]);
+            float acc = ParseFloat(data[4]);
             Debug.Log("명중률 읽기 완료");
 
             float crit = ParseFloat(data[5]);
@@ -66,7 +66,7 @@ public class CSVToMonsterSkillImporter : MonoBehaviour
     {
         bool[] ranks = new bool[4];
         if (string.IsNullOrEmpty(raw)) return ranks;
-        for (int j = 1; j <= 4; j++) if (raw.Contains(j + "열")) ranks[j - 1] = true;
+        for (int j = 1; j <= 4; j++) if (raw.Contains(j.ToString())) ranks[j - 1] = true;
         if (raw.Contains("전체")) { for (int j = 0; j < 4; j++) ranks[j] = true; }
         return ranks;
     }

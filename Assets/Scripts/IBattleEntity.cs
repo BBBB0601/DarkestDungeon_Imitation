@@ -50,7 +50,7 @@ public interface IBattleEntity
     /// </summary>
     /// <param name="type">위력 또는 보정치를 알아낼 효과(Effect)</param>
     /// <returns>총 보정치 또는 위력 반환</returns>
-    int GetTotalEffModifier(EffectType type);
+    float GetTotalEffModifier(EffectType type);
 
     /// <summary>
     /// 특정 type 종족인지 확인

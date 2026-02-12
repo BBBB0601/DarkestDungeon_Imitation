@@ -14,11 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _skillName: "\uAC15\uCCA0\uC758 \uCD94\uBAA8\uACE1"
   _type: 0
+  effects: []
+  conditionalMods: []
   _usableRanks: 01000000
   _isUsableChained: 0
   _targetRanks: 00000001
   _isTargetChained: 0
-  _accuracy: 85
+  _accuracy: 0.85
   _damageMod: 0
-  _critMod: 5
+  _critMod: 0.05
   note: 

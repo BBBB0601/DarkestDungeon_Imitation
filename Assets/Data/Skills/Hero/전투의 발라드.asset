@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _skillName: "\uC804\uD22C\uC758 \uBC1C\uB77C\uB4DC"
   _type: 2
+  effects: []
+  conditionalMods: []
   _usableRanks: 00000101
   _isUsableChained: 0
   _targetRanks: 01010101

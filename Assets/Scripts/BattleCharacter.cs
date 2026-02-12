@@ -20,7 +20,7 @@ public class BattleCharacter : MonoBehaviour, IBattleEntity
     private int _currStress;
 
     // 기본 명중 보정치 = 5%
-    private const int HIDDEN_ACC = 5;
+    private const float HIDDEN_ACC = 0.05f;
 
     // 인터페이스 IBattleEntity 필드
     public string Name => isHero ? heroData.name : monsterData.name;
@@ -105,7 +105,7 @@ public class BattleCharacter : MonoBehaviour, IBattleEntity
     public void Attack(IBattleEntity target, HeroSkillData skill)
     {
         // 명중 버프 보정치 합산
-        int accMod = GetTotalEffModifier(EffectType.Accuracy);
+        float accMod = GetTotalEffModifier(EffectType.Accuracy);
         float targetDodgeMod = target.GetTotalEffModifier(EffectType.Dodge);    // 타겟의 Dodge 보정치
 
         // 기본 능력치에서 min ~ max dmg 불러옴
@@ -129,10 +129,9 @@ public class BattleCharacter : MonoBehaviour, IBattleEntity
         // 명중률 계산
 
         // 타겟(몬스터)의 회피율
-        // 몬스터는 회피율이 % 형태이므로, 영웅의 회피율과 계산을 위해 100을 곱해줌
-        int finalTargetDodge = Mathf.RoundToInt((target.Dodge + targetDodgeMod) * 100);
+        float finalTargetDodge = target.Dodge + targetDodgeMod;
 
-        int finalAcc = Mathf.RoundToInt(skill.Accuracy + heroData.Correction + accMod + HIDDEN_ACC - finalTargetDodge);
+        int finalAcc = Mathf.RoundToInt(100 * (skill.Accuracy + heroData.Correction + accMod + HIDDEN_ACC - finalTargetDodge));
         finalAcc = Mathf.Clamp(finalAcc, 5, 100);
 
         // 명중 성공시 target의 피격 함수 부르기, 실패시 회피 판정
@@ -170,11 +169,8 @@ public class BattleCharacter : MonoBehaviour, IBattleEntity
     public void Attack(IBattleEntity target, MonsterSkillData skill)
     {
         // 명중 버프 보정치 합산
-        int accMod = GetTotalEffModifier(EffectType.Accuracy);
+        float accMod = GetTotalEffModifier(EffectType.Accuracy);
         float targetDodgeMod = target.GetTotalEffModifier(EffectType.Dodge);    // 타겟의 Dodge 보정치
-
-        // 영웅의 경우 회피율이 100이 곱해진 정수 형태이므로, 100으로 나눔
-        targetDodgeMod /= 100f;
 
         // 사용할 스킬에서 min ~ max dmg 불러옴
         int baseDmg = Random.Range(skill.MinDmg, skill.MaxDmg + 1);
@@ -184,8 +180,8 @@ public class BattleCharacter : MonoBehaviour, IBattleEntity
         float modDmg = baseDmg * (1 + dmgEffMod);
 
         // 명중률 계산
-        float finalTargetDodge = (target.Dodge / 100f) + targetDodgeMod;
-        int finalAcc = Mathf.RoundToInt(skill.Accuracy + accMod + HIDDEN_ACC - finalTargetDodge);
+        float finalTargetDodge = target.Dodge + targetDodgeMod;
+        int finalAcc = Mathf.RoundToInt(100 * (skill.Accuracy + accMod + HIDDEN_ACC - finalTargetDodge));
         finalAcc = Mathf.Clamp(finalAcc, 5, 100);
 
         // 명중 성공시 target의 피격 함수 부르기, 실패시 회피 판정
@@ -252,9 +248,9 @@ public class BattleCharacter : MonoBehaviour, IBattleEntity
         else return 0;
     }
 
-    public int GetTotalEffModifier(EffectType type)
+    public float GetTotalEffModifier(EffectType type)
     {
-        int total = 0;
+        float total = 0;
         foreach(var eff in _activeEffects)
         {
             if (eff.Type == type)
