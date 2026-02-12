@@ -267,7 +267,7 @@ GameObject:
   - component: {fileID: 2088217133917621087}
   m_Layer: 0
   m_Name: BountyHunter
-  m_TagString: Untagged
+  m_TagString: Hero
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

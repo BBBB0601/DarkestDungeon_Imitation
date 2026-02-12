@@ -119,7 +119,7 @@ public class BattleCharacter : MonoBehaviour, IBattleEntity
         {
             if (target.HasType(cond.targetType))
             {
-                dmgEffMod += cond.damageMod * 100;
+                dmgEffMod += cond.damageMod;
             }
         }
 
@@ -141,18 +141,20 @@ public class BattleCharacter : MonoBehaviour, IBattleEntity
         {
             target.TakeDamage(Mathf.RoundToInt(finalModDmg));
 
-            // 스킬에 붙은 상태 이상 부여
-            foreach(var eff in skill.effects)
-            {
-                float effResist = GetTargetResist(target, eff.type);
 
-                float effDice = eff.chance - effResist;
+            //// 스킬에 붙은 상태 이상 부여, 상태 이상은 우선 보류
+            //foreach(var eff in skill.effects)
+            //{
+            //    float effResist = GetTargetResist(target, eff.type);
 
-                if(effDice > 0 && Random.Range(0f, 1f) <= effDice)      // 상태 이상 저항 실패
-                    target.AddEffect(new BattleEffect(eff.type, eff.value, eff.duration));
-                // TODO: 상태 이상 저항 성공시 로직 필요
+            //    float effDice = eff.chance - effResist;
 
-            }
+            //    if(effDice > 0 && Random.Range(0f, 1f) <= effDice)      // 상태 이상 저항 실패
+            //        target.AddEffect(new BattleEffect(eff.type, eff.value, eff.duration));
+            //    // TODO: 상태 이상 저항 성공시 로직 필요
+
+            //}
+
         }
         else                    // 명중 실패
         {
@@ -191,18 +193,19 @@ public class BattleCharacter : MonoBehaviour, IBattleEntity
         {
             target.TakeDamage(Mathf.RoundToInt(modDmg));
 
-            // 스킬에 붙은 상태 이상 부여
-            foreach (var eff in skill.effects)
-            {
-                float effResist = GetTargetResist(target, eff.type);
 
-                float effDice = eff.chance - effResist;
+            //// 스킬에 붙은 상태 이상 부여, 상태 이상은 일단 보류
+            //foreach (var eff in skill.effects)
+            //{
+            //    float effResist = GetTargetResist(target, eff.type);
 
-                if (effDice > 0 && Random.Range(0f, 1f) <= effDice)      // 상태 이상 저항 실패
-                    target.AddEffect(new BattleEffect(eff.type, eff.value, eff.duration));
-                // TODO: 상태 이상 저항 성공시 로직 필요
+            //    float effDice = eff.chance - effResist;
 
-            }
+            //    if (effDice > 0 && Random.Range(0f, 1f) <= effDice)      // 상태 이상 저항 실패
+            //        target.AddEffect(new BattleEffect(eff.type, eff.value, eff.duration));
+            //    // TODO: 상태 이상 저항 성공시 로직 필요
+
+            //}
         }
         else                    // 명중 실패
         {

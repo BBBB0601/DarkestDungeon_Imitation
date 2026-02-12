@@ -267,7 +267,7 @@ GameObject:
   - component: {fileID: 2088217133917621087}
   m_Layer: 0
   m_Name: PlagueDocter
-  m_TagString: Untagged
+  m_TagString: Hero
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -355,7 +355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 410351cd54116ac46bc1d2bb02ce8a7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  heroData: {fileID: 11400000, guid: cb44d4c931e2c0d4fad5227f995aa106, type: 2}
+  heroData: {fileID: 0}
   monsterData: {fileID: 0}
   isHero: 1
 --- !u!114 &2088217133917621087
