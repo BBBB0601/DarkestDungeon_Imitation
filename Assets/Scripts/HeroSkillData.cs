@@ -22,6 +22,7 @@ public class HeroSkillData : ScriptableObject
     public struct SkillEffectData
     {
         public EffectType type; // 출혈, 중독, 스턴, 버프
+        public int MaxUsesPerBattle;    // 0이면 제한 없음, 1이나 2면 횟수 제한
         public float chance;    // 상태 부여 확률
         public int value;       // 위력 또는 수치
         public int duration;    // 지속 시간
