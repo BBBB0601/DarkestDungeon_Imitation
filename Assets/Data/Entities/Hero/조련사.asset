@@ -16,14 +16,14 @@ MonoBehaviour:
   _maxHp: 21
   _speed: 6
   _level: 0
-  _dodge: 10
+  _dodge: 0.1
   _protection: 0
   _correction: 0
   _critical: 0.05
   _minDamage: 4
   _maxDamage: 7
   _stunResist: 0.4
-  _poisonResist: 0.4
+  _blightResist: 0.4
   _diseaseResist: 0.3
   _deathblowResist: 0.67
   _moveResist: 0.4

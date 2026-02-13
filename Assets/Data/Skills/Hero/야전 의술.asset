@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _skillName: "\uC57C\uC804 \uC758\uC220"
   _type: 3
+  effects: []
+  conditionalMods: []
   _usableRanks: 00000101
   _isUsableChained: 0
   _targetRanks: 01010101
@@ -21,8 +23,5 @@ MonoBehaviour:
   _accuracy: 0
   _damageMod: 0
   _critMod: 0
-  _useFixedDamage: 0
-  _minDamage: 0
-  _maxDamage: 0
   note: "\uB300\uC0C1: 1-1 \uD68C\uBCF5, \uC911\uB3C5/\uCD9C\uD608 \uCE58\uB8CC\n\uC790\uC2E0:
     \uC911\uB3C5/\uCD9C\uD608 \uCE58\uB8CC"

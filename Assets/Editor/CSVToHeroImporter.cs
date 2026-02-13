@@ -28,11 +28,11 @@ public class CSVToHeroImporter
             // 스탯 파싱 영웅 데이터...csv]
             string hName = data[0].Trim('"');
             int hp = int.Parse(data[1]);
-            int dodge = int.Parse(data[2]);
-            float prot = float.Parse(data[3].Replace("%", "")) / 100f;
+            float dodge = float.Parse(data[2]);
+            float prot = float.Parse(data[3]);
             int spd = int.Parse(data[4]);
-            int correct = int.Parse(data[5]);
-            float crit = float.Parse(data[6].Replace("%", "")) / 100f;
+            float correct = float.Parse(data[5]);
+            float crit = float.Parse(data[6]);
             int minAtk = int.Parse(data[7]);
             int maxAtk = int.Parse(data[8]);
 
@@ -63,9 +63,7 @@ public class CSVToHeroImporter
             // 저항력 파싱 (10~17번 열)
             float[] resists = new float[8];
             for (int j = 0; j < 8; j++)
-            {
-                resists[j] = float.Parse(data[10 + j].Replace("%", "")) / 100f;
-            }
+                resists[j] = float.Parse(data[10 + j]);
 
             // 초기화 및 저장
             hero.Initialize(hName, hp, dodge, prot, spd, correct, crit, minAtk, maxAtk, resists, linkedSkills.ToArray());

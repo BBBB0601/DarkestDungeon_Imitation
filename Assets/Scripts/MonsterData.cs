@@ -27,7 +27,7 @@ public class MonsterData : ScriptableObject
     public float Protection => _protection;
 
     [SerializeField] private int _speed;            // 속도
-    public float Speed => _speed;
+    public int Speed => _speed;
 
     [SerializeField] private List<MonsterType> _monsterTypes;  // 몬스터 유형
     public List<MonsterType> MonsterTypes => _monsterTypes;
@@ -38,8 +38,8 @@ public class MonsterData : ScriptableObject
     [SerializeField] private float _stunResist;         // 기절 저항력
     public float StunResist => _stunResist;
 
-    [SerializeField] private float _poisonResist;       // 중독 저항력
-    public float PoisonResist => _poisonResist;
+    [SerializeField] private float _blightResist;       // 중독 저항력
+    public float BlightResist => _blightResist;
 
     [SerializeField] private float _bleedResist;        // 출혈 저항력
     public float BleedResist => _bleedResist;
@@ -67,7 +67,7 @@ public class MonsterData : ScriptableObject
         // __여기 밑으로 저항력__
 
         _stunResist = resists[0];
-        _poisonResist = resists[1];
+        _blightResist = resists[1];
         _bleedResist = resists[2];
         _debuffResist = resists[3];
         _moveResist = resists[4];

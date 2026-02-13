@@ -17,8 +17,9 @@ MonoBehaviour:
   _isTargetChained: 0
   _usableRanks: 01010100
   _isUsableChained: 0
-  _accuracy: 82
-  _crit: 6
+  _accuracy: 0.825
+  _crit: 0.06
   _minDmg: 3
   _maxDmg: 8
+  effects: []
   note: 

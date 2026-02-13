@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: b9e030bd3fdb85446b9c0fe3dbe6927e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6641640386406241061
+    second: abomination.sprite.combat_0
+  - first:
+      213: -279963006193824351
+    second: abomination.sprite.combat_1
+  - first:
+      213: 2763004224165547693
+    second: abomination.sprite.combat_2
+  - first:
+      213: 5705789460849515337
+    second: abomination.sprite.combat_3
+  - first:
+      213: 4632599560222626484
+    second: abomination.sprite.combat_4
+  - first:
+      213: -91947472044057783
+    second: abomination.sprite.combat_5
+  - first:
+      213: -1095820152788794254
+    second: abomination.sprite.combat_6
+  - first:
+      213: -5243395964226346828
+    second: abomination.sprite.combat_7
+  - first:
+      213: 5075827328183054135
+    second: abomination.sprite.combat_8
+  - first:
+      213: -7401115142045613322
+    second: abomination.sprite.combat_9
+  - first:
+      213: 7241452722454877
+    second: abomination.sprite.combat_10
+  - first:
+      213: 6704784502123907658
+    second: abomination.sprite.combat_11
+  - first:
+      213: -2173128521465452798
+    second: abomination.sprite.combat_12
+  - first:
+      213: 8464363784421317184
+    second: abomination.sprite.combat_13
+  - first:
+      213: 2999358717953710460
+    second: abomination.sprite.combat_14
+  - first:
+      213: -7723045746186767917
+    second: abomination.sprite.combat_15
+  - first:
+      213: 3521661690794554006
+    second: abomination.sprite.combat_16
+  - first:
+      213: -8992389755713128714
+    second: abomination.sprite.combat_17
+  - first:
+      213: -8099778821715765550
+    second: abomination.sprite.combat_18
+  - first:
+      213: 3194823214450339542
+    second: abomination.sprite.combat_19
+  - first:
+      213: 7405033517913131542
+    second: abomination.sprite.combat_20
+  - first:
+      213: 3567649698498505093
+    second: abomination.sprite.combat_21
+  - first:
+      213: -937857293451892916
+    second: abomination.sprite.combat_22
+  - first:
+      213: 7280172571815772484
+    second: abomination.sprite.combat_23
+  - first:
+      213: -4221880315624003880
+    second: abomination.sprite.combat_24
+  - first:
+      213: 8499541457088411290
+    second: abomination.sprite.combat_25
+  - first:
+      213: 5840045674486661085
+    second: abomination.sprite.combat_26
+  - first:
+      213: 8464849020155073418
+    second: abomination.sprite.combat_27
+  - first:
+      213: 6532897263768559718
+    second: abomination.sprite.combat_28
+  - first:
+      213: -4174356039372539574
+    second: abomination.sprite.combat_29
+  - first:
+      213: 3487643883546836695
+    second: abomination.sprite.combat_30
+  - first:
+      213: 4897938597725725365
+    second: abomination.sprite.combat_31
+  - first:
+      213: 6681455143815722228
+    second: abomination.sprite.combat_32
+  - first:
+      213: -8369739111616279877
+    second: abomination.sprite.combat_33
+  - first:
+      213: -2618507244175399154
+    second: abomination.sprite.combat_34
+  - first:
+      213: -4247631010981273940
+    second: abomination.sprite.combat_35
+  - first:
+      213: -2513042351021806162
+    second: abomination.sprite.combat_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: abomination.sprite.combat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1829
+        width: 86
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc2e5ae14724d3a0800000000000000
+      internalID: -6641640386406241061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1991
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad0191112f5d1cf0800000000000000
+      internalID: -279963006193824351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1872
+        width: 103
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae8a4ee3b9285620800000000000000
+      internalID: 2763004224165547693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1991
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b5a19b8490f2f40800000000000000
+      internalID: 5705789460849515337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1968
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b253b561cc4a4040800000000000000
+      internalID: 4632599560222626484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1971
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b91d6e24659bef0800000000000000
+      internalID: -91947472044057783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1872
+        width: 51
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2744f4f706ddac0f0800000000000000
+      internalID: -1095820152788794254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1871
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b06297b627bb37b0800000000000000
+      internalID: -5243395964226346828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1871
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f2295ef06f07640800000000000000
+      internalID: 5075827328183054135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1911
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f24b98bdf4f94990800000000000000
+      internalID: -7401115142045613322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1842
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d510e29101ab91000800000000000000
+      internalID: 7241452722454877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1754
+        width: 139
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ac3a03bfd2c0d50800000000000000
+      internalID: 6704784502123907658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1831
+        width: 117
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20728ca9f1f77d1e0800000000000000
+      internalID: -2173128521465452798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1773
+        width: 133
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a1d1c0406777570800000000000000
+      internalID: 8464363784421317184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1754
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c791a99dcdcdf9920800000000000000
+      internalID: 2999358717953710460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1516
+        width: 89
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d13272ffca32d490800000000000000
+      internalID: -7723045746186767917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1516
+        width: 158
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69239e236a47fd030800000000000000
+      internalID: 3521661690794554006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1681
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f67bd0392d943380800000000000000
+      internalID: -8992389755713128714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1512
+        width: 126
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6566c731ec79f80800000000000000
+      internalID: -8099778821715765550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_19
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1512
+        width: 39
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deeb7169ca465c20800000000000000
+      internalID: 3194823214450339542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1157
+        width: 65
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ac21140c6f3c660800000000000000
+      internalID: 7405033517913131542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1414
+        width: 173
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5896802af76d28130800000000000000
+      internalID: 3567649698498505093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1157
+        width: 166
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c476ac5b2cf0cf2f0800000000000000
+      internalID: -937857293451892916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1411
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4410f9ec16e580560800000000000000
+      internalID: 7280172571815772484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1275
+        width: 156
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6640fa83ed865c0800000000000000
+      internalID: -4221880315624003880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1130
+        width: 160
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96f5773cef64f570800000000000000
+      internalID: 8499541457088411290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_26
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1275
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf75db59920c0150800000000000000
+      internalID: 5840045674486661085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 913
+        width: 214
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8318abc55f297570800000000000000
+      internalID: 8464849020155073418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1071
+        width: 204
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660eb09d27389aa50800000000000000
+      internalID: 6532897263768559718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 978
+        width: 209
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4971338c45b116c0800000000000000
+      internalID: -4174356039372539574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 610
+        width: 229
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de7fdd32a9966030800000000000000
+      internalID: 3487643883546836695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 754
+        width: 172
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2ed194439f8f340800000000000000
+      internalID: 4897938597725725365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 575
+        width: 185
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4b7ddad0c49bc50800000000000000
+      internalID: 6681455143815722228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 310
+        width: 234
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba0b6d6f96b8db80800000000000000
+      internalID: -8369739111616279877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 418
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07632de88139abd0800000000000000
+      internalID: -2618507244175399154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_35
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 310
+        width: 159
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae1785b9126d05c0800000000000000
+      internalID: -4247631010981273940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.combat_36
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 310
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead25d1eb41ef1dd0800000000000000
+      internalID: -2513042351021806162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      abomination.sprite.combat_0: -6641640386406241061
+      abomination.sprite.combat_1: -279963006193824351
+      abomination.sprite.combat_10: 7241452722454877
+      abomination.sprite.combat_11: 6704784502123907658
+      abomination.sprite.combat_12: -2173128521465452798
+      abomination.sprite.combat_13: 8464363784421317184
+      abomination.sprite.combat_14: 2999358717953710460
+      abomination.sprite.combat_15: -7723045746186767917
+      abomination.sprite.combat_16: 3521661690794554006
+      abomination.sprite.combat_17: -8992389755713128714
+      abomination.sprite.combat_18: -8099778821715765550
+      abomination.sprite.combat_19: 3194823214450339542
+      abomination.sprite.combat_2: 2763004224165547693
+      abomination.sprite.combat_20: 7405033517913131542
+      abomination.sprite.combat_21: 3567649698498505093
+      abomination.sprite.combat_22: -937857293451892916
+      abomination.sprite.combat_23: 7280172571815772484
+      abomination.sprite.combat_24: -4221880315624003880
+      abomination.sprite.combat_25: 8499541457088411290
+      abomination.sprite.combat_26: 5840045674486661085
+      abomination.sprite.combat_27: 8464849020155073418
+      abomination.sprite.combat_28: 6532897263768559718
+      abomination.sprite.combat_29: -4174356039372539574
+      abomination.sprite.combat_3: 5705789460849515337
+      abomination.sprite.combat_30: 3487643883546836695
+      abomination.sprite.combat_31: 4897938597725725365
+      abomination.sprite.combat_32: 6681455143815722228
+      abomination.sprite.combat_33: -8369739111616279877
+      abomination.sprite.combat_34: -2618507244175399154
+      abomination.sprite.combat_35: -4247631010981273940
+      abomination.sprite.combat_36: -2513042351021806162
+      abomination.sprite.combat_4: 4632599560222626484
+      abomination.sprite.combat_5: -91947472044057783
+      abomination.sprite.combat_6: -1095820152788794254
+      abomination.sprite.combat_7: -5243395964226346828
+      abomination.sprite.combat_8: 5075827328183054135
+      abomination.sprite.combat_9: -7401115142045613322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

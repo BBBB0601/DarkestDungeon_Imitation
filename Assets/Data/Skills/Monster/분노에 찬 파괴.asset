@@ -17,10 +17,11 @@ MonoBehaviour:
   _isTargetChained: 1
   _usableRanks: 01010101
   _isUsableChained: 0
-  _accuracy: 92
-  _crit: 6
+  _accuracy: 0.925
+  _crit: 0.06
   _minDmg: 5
   _maxDmg: 9
+  effects: []
   note: "\u2018\uC70C\uBC84\u2019\uAC00 \uACF5\uACA9\uC758 \uB300\uC0C1\uC774 \uB418\uC5C8\uC744
     \uC2DC \uD604\uC7AC \uC0C1\uD0DC \uBB34\uC2DC\uD558\uACE0 \uC0AC\uC6A9\n\u2019\uC70C\uBC84\u2019\uAC00
     \uC0AC\uB9DD\uD588\uC744 \uACBD\uC6B0 \uB9E4\uD134\uB9C8\uB2E4 \uC0AC\uC6A9\n\uB300\uC0C1:

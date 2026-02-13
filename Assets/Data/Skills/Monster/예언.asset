@@ -17,10 +17,11 @@ MonoBehaviour:
   _isTargetChained: 0
   _usableRanks: 01010101
   _isUsableChained: 0
-  _accuracy: 202
+  _accuracy: 2.025
   _crit: 0
   _minDmg: 0
   _maxDmg: 0
+  effects: []
   note: "\uB9E4 \uD134 \uC2DC\uC791 \uC2DC \uC790\uB3D9 \uC0AC\uC6A9\n\uCD94\uAC00
     \uB300\uC0C1 +1 (50%)\n\uC544\uAD70 \uC5F4 \uC911 1~2\uAC1C\uB97C \uC9C0\uC815.\n\uC9C0\uC815\uB41C
     \uC5F4\uC740 \uBD89\uC740 \uBE5B\uC73C\uB85C \uD45C\uC2DC"

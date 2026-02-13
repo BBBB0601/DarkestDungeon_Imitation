@@ -22,16 +22,16 @@ public class HeroData : ScriptableObject
     public int Level => _level;
 
     // 회피
-    [SerializeField] private int _dodge;
-    public int Dodge => _dodge;
+    [SerializeField] private float _dodge;
+    public float Dodge => _dodge;
 
     // 방어력
     [SerializeField] private float _protection;
     public float Protection => _protection;
 
     // 명중률 보정
-    [SerializeField] private int _correction;
-    public int Correction => _correction;
+    [SerializeField] private float _correction;
+    public float Correction => _correction;
 
     // 치명타 확률
     [SerializeField] private float _critical;
@@ -50,8 +50,8 @@ public class HeroData : ScriptableObject
     [SerializeField] private float _stunResist;
     public float StunResist => _stunResist;
 
-    [SerializeField] private float _poisonResist;
-    public float PoisonResist => _poisonResist;
+    [SerializeField] private float _blightResist;
+    public float BlightResist => _blightResist;
 
     [SerializeField] private float _diseaseResist;
     public float DiseaseResist => _diseaseResist;
@@ -74,7 +74,7 @@ public class HeroData : ScriptableObject
     [Header("사용 기술")]
     public HeroSkillData[] skills;
 
-    public void Initialize(string name, int hp, int dodge, float prot, int speed, int correct,
+    public void Initialize(string name, int hp, float dodge, float prot, int speed, float correct,
                            float crit, int minAtk, int maxAtk, float[] resists, HeroSkillData[] skillAssets)
     {
         _heroName = name;
@@ -89,7 +89,7 @@ public class HeroData : ScriptableObject
 
         // 저항력 순서: 기절, 중독, 질병, 죽음의일격, 이동, 출혈, 약화, 함정
         _stunResist = resists[0];
-        _poisonResist = resists[1];
+        _blightResist = resists[1];
         _diseaseResist = resists[2];
         _deathblowResist = resists[3];
         _moveResist = resists[4];

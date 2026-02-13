@@ -23,7 +23,7 @@ MonoBehaviour:
   _minDamage: 4
   _maxDamage: 9
   _stunResist: 0.3
-  _poisonResist: 0.3
+  _blightResist: 0.3
   _diseaseResist: 0.3
   _deathblowResist: 0.67
   _moveResist: 0.3

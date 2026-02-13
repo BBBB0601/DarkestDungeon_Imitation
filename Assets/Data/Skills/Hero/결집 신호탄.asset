@@ -14,16 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _skillName: "\uACB0\uC9D1 \uC2E0\uD638\uD0C4"
   _type: 2
+  effects: []
+  conditionalMods: []
   _usableRanks: 01010101
   _isUsableChained: 0
   _targetRanks: 01010101
   _isTargetChained: 1
   _accuracy: 0
-  _damageMod: -100
+  _damageMod: 0
   _critMod: 0
-  _useFixedDamage: 0
-  _minDamage: 0
-  _maxDamage: 0
   note: "\uCE58\uBA85\uD0C0 \uC5C6\uC74C\n\uC740\uC2E0 \uBB34\uC2DC, \uB300\uC0C1:
     \uC740\uC2E0 \uD574\uC81C\n\uC6D0\uC815\uB300: \uAE30\uC808 / \uD45C\uC2DD \uC81C\uAC70,
     \uBC1D\uAE30 +3\n\uC2A4\uD2B8\uB808\uC2A4 -1 (60% \uD655\uB960) (\uC77C\uAD04

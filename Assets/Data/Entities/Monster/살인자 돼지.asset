@@ -19,7 +19,7 @@ MonoBehaviour:
   _speed: 5
   _monsterTypes: 0000000001000000
   _stunResist: 0.1
-  _poisonResist: 0.4
+  _blightResist: 0.4
   _bleedResist: 0.4
   _debuffResist: 0.15
   _moveResist: 0.25

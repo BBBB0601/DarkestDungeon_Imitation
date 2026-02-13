@@ -47,7 +47,7 @@ public class CSVToHeroSkillImporter
             Debug.Log("기술 타겟 위치 읽기 완료");
 
             // 3. 수치 파싱전체_스킬_목록.csv
-            int acc = ParseInt(data[5]);
+            float acc = ParseFloat(data[5]);
             Debug.Log("명중률 보정치 읽기 완료");
 
             float dmgMod = ParseFloat(data[6]);
@@ -76,8 +76,7 @@ public class CSVToHeroSkillImporter
     {
         bool[] ranks = new bool[4];
         if (string.IsNullOrEmpty(raw)) return ranks;
-        for (int j = 1; j <= 4; j++) if (raw.Contains(j + "열")) ranks[j - 1] = true;
-        if (raw.Contains("전체")) { for (int j = 0; j < 4; j++) ranks[j] = true; }
+        for (int j = 1; j <= 4; j++) if (raw.Contains(j.ToString())) ranks[j - 1] = true;
         return ranks;
     }
 

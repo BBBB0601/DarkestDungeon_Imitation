@@ -21,5 +21,6 @@ MonoBehaviour:
   _crit: 0
   _minDmg: 0
   _maxDmg: 0
+  effects: []
   note: "\uBCA0\uD14C\uB791 \uB09C\uC774\uB3C4 \uC774\uC0C1\uC5D0\uC11C \uC0AC\uC6A9\n\uB300\uC0C1:
     \uBCF4\uD638\uBC1B\uC74C\n\uC790\uC2E0 \uAC15\uD654: \uBC29\uC5B4 +25%"
