@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 67f2b47c95456464cba1b153ef753c4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6945795009072674965
+    second: arbalest.sprite.walk_0
+  - first:
+      213: -3568898289550899989
+    second: arbalest.sprite.walk_1
+  - first:
+      213: 2353085505655784759
+    second: arbalest.sprite.walk_2
+  - first:
+      213: 1479606787208712509
+    second: arbalest.sprite.walk_3
+  - first:
+      213: -2965320895474111942
+    second: arbalest.sprite.walk_4
+  - first:
+      213: -3514354312472082286
+    second: arbalest.sprite.walk_5
+  - first:
+      213: 6587470279116848948
+    second: arbalest.sprite.walk_6
+  - first:
+      213: -6298985438174999243
+    second: arbalest.sprite.walk_7
+  - first:
+      213: -5824507778847165185
+    second: arbalest.sprite.walk_8
+  - first:
+      213: -6083703260104088218
+    second: arbalest.sprite.walk_9
+  - first:
+      213: 5959050410348090948
+    second: arbalest.sprite.walk_10
+  - first:
+      213: 5017860284367330736
+    second: arbalest.sprite.walk_11
+  - first:
+      213: -4464253420068511457
+    second: arbalest.sprite.walk_12
+  - first:
+      213: 5890981426737921589
+    second: arbalest.sprite.walk_13
+  - first:
+      213: -1141984624106705644
+    second: arbalest.sprite.walk_14
+  - first:
+      213: 957670467470459492
+    second: arbalest.sprite.walk_15
+  - first:
+      213: -5447651126679650445
+    second: arbalest.sprite.walk_16
+  - first:
+      213: -8515618770004934149
+    second: arbalest.sprite.walk_17
+  - first:
+      213: 1433660452838784437
+    second: arbalest.sprite.walk_18
+  - first:
+      213: 1661530145570519772
+    second: arbalest.sprite.walk_19
+  - first:
+      213: 3641460124763228657
+    second: arbalest.sprite.walk_20
+  - first:
+      213: -3906316154649917390
+    second: arbalest.sprite.walk_21
+  - first:
+      213: 1452460584580075491
+    second: arbalest.sprite.walk_22
+  - first:
+      213: -7298785124746006250
+    second: arbalest.sprite.walk_23
+  - first:
+      213: 8318714762830319389
+    second: arbalest.sprite.walk_24
+  - first:
+      213: -2703483630572523525
+    second: arbalest.sprite.walk_25
+  - first:
+      213: -6855583352307099953
+    second: arbalest.sprite.walk_26
+  - first:
+      213: 6910860932961107750
+    second: arbalest.sprite.walk_27
+  - first:
+      213: -5624218205187795540
+    second: arbalest.sprite.walk_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 219
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5983576a2cb646060800000000000000
+      internalID: 6945795009072674965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 219
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4c1db1ae9b87ec0800000000000000
+      internalID: -3568898289550899989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 219
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735cbbadcc6d7a020800000000000000
+      internalID: 2353085505655784759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 172
+        width: 155
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3115de988e988410800000000000000
+      internalID: 1479606787208712509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 167
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ae8344b5019d6d0800000000000000
+      internalID: -2965320895474111942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 167
+        width: 40
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2984d366f518a3fc0800000000000000
+      internalID: -3514354312472082286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_6
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 162
+        width: 144
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ff33321556b6b50800000000000000
+      internalID: 6587470279116848948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 146
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d88301e128598a0800000000000000
+      internalID: -6298985438174999243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_8
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 146
+        width: 91
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4b052e8013b2fa0800000000000000
+      internalID: -5824507778847165185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_9
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 211
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6652c962e18529ba0800000000000000
+      internalID: -6083703260104088218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_10
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 211
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446917b96ccc2b250800000000000000
+      internalID: 5959050410348090948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_11
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 211
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd5146c75503a540800000000000000
+      internalID: 5017860284367330736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_12
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 211
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f116e75ca29cb02c0800000000000000
+      internalID: -4464253420068511457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_13
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 251
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e33275568f0c150800000000000000
+      internalID: 5890981426737921589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_14
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 211
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d692de80bd620f0800000000000000
+      internalID: -1141984624106705644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_15
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 248
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462857957345a4d00800000000000000
+      internalID: 957670467470459492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 162
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fb006c92e0664b0800000000000000
+      internalID: -5447651126679650445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 172
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1053ba8d172d980800000000000000
+      internalID: -8515618770004934149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_18
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 146
+        width: 359
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd3bf3069265e310800000000000000
+      internalID: 1433660452838784437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_19
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 211
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda755e3dd0fe0710800000000000000
+      internalID: 1661530145570519772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 110
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f90340b0b0198230800000000000000
+      internalID: 3641460124763228657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 84
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238c8b5672af9c9c0800000000000000
+      internalID: -3906316154649917390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_22
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1
+        width: 94
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc62ac43d282410800000000000000
+      internalID: 1452460584580075491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_23
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1
+        width: 121
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611fb93899185ba90800000000000000
+      internalID: -7298785124746006250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_24
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1
+        width: 322
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f8c4a9003027370800000000000000
+      internalID: 8318714762830319389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_25
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1
+        width: 112
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff24af26fb4b7ad0800000000000000
+      internalID: -2703483630572523525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_26
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1
+        width: 95
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc657a573431cd0a0800000000000000
+      internalID: -6855583352307099953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_27
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 79
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f7549376f48ef50800000000000000
+      internalID: 6910860932961107750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.walk_28
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca51f7c3753c2f1b0800000000000000
+      internalID: -5624218205187795540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arbalest.sprite.walk_0: 6945795009072674965
+      arbalest.sprite.walk_1: -3568898289550899989
+      arbalest.sprite.walk_10: 5959050410348090948
+      arbalest.sprite.walk_11: 5017860284367330736
+      arbalest.sprite.walk_12: -4464253420068511457
+      arbalest.sprite.walk_13: 5890981426737921589
+      arbalest.sprite.walk_14: -1141984624106705644
+      arbalest.sprite.walk_15: 957670467470459492
+      arbalest.sprite.walk_16: -5447651126679650445
+      arbalest.sprite.walk_17: -8515618770004934149
+      arbalest.sprite.walk_18: 1433660452838784437
+      arbalest.sprite.walk_19: 1661530145570519772
+      arbalest.sprite.walk_2: 2353085505655784759
+      arbalest.sprite.walk_20: 3641460124763228657
+      arbalest.sprite.walk_21: -3906316154649917390
+      arbalest.sprite.walk_22: 1452460584580075491
+      arbalest.sprite.walk_23: -7298785124746006250
+      arbalest.sprite.walk_24: 8318714762830319389
+      arbalest.sprite.walk_25: -2703483630572523525
+      arbalest.sprite.walk_26: -6855583352307099953
+      arbalest.sprite.walk_27: 6910860932961107750
+      arbalest.sprite.walk_28: -5624218205187795540
+      arbalest.sprite.walk_3: 1479606787208712509
+      arbalest.sprite.walk_4: -2965320895474111942
+      arbalest.sprite.walk_5: -3514354312472082286
+      arbalest.sprite.walk_6: 6587470279116848948
+      arbalest.sprite.walk_7: -6298985438174999243
+      arbalest.sprite.walk_8: -5824507778847165185
+      arbalest.sprite.walk_9: -6083703260104088218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

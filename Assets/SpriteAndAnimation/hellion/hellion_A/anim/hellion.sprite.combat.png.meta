@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 50c4ed0290491c840aca8e29886ee32c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5979328271213474107
+    second: hellion.sprite.combat_0
+  - first:
+      213: 3589590503063518680
+    second: hellion.sprite.combat_1
+  - first:
+      213: 6663635355159629718
+    second: hellion.sprite.combat_2
+  - first:
+      213: -7103030844664599545
+    second: hellion.sprite.combat_3
+  - first:
+      213: -886390171716252866
+    second: hellion.sprite.combat_4
+  - first:
+      213: -4081528609112183266
+    second: hellion.sprite.combat_5
+  - first:
+      213: 6415015740905007308
+    second: hellion.sprite.combat_6
+  - first:
+      213: -8322321153851708111
+    second: hellion.sprite.combat_7
+  - first:
+      213: -3795418584060476690
+    second: hellion.sprite.combat_8
+  - first:
+      213: -4371513900918912487
+    second: hellion.sprite.combat_9
+  - first:
+      213: 6014359190974006622
+    second: hellion.sprite.combat_10
+  - first:
+      213: 1041102821932223716
+    second: hellion.sprite.combat_11
+  - first:
+      213: -1860702711787004063
+    second: hellion.sprite.combat_12
+  - first:
+      213: -1160612428870702752
+    second: hellion.sprite.combat_13
+  - first:
+      213: -317328178826309128
+    second: hellion.sprite.combat_14
+  - first:
+      213: 8343728473259545733
+    second: hellion.sprite.combat_15
+  - first:
+      213: 2614215045224025894
+    second: hellion.sprite.combat_16
+  - first:
+      213: -1578874469024110431
+    second: hellion.sprite.combat_17
+  - first:
+      213: -4631886615476371762
+    second: hellion.sprite.combat_18
+  - first:
+      213: -7231708923436324875
+    second: hellion.sprite.combat_19
+  - first:
+      213: -8169736279691033194
+    second: hellion.sprite.combat_20
+  - first:
+      213: 2611936361092782008
+    second: hellion.sprite.combat_21
+  - first:
+      213: 7720325487998655023
+    second: hellion.sprite.combat_22
+  - first:
+      213: 2463240571634468004
+    second: hellion.sprite.combat_23
+  - first:
+      213: 1776032516723963830
+    second: hellion.sprite.combat_24
+  - first:
+      213: 1916642005215870766
+    second: hellion.sprite.combat_25
+  - first:
+      213: 1336494981661906174
+    second: hellion.sprite.combat_26
+  - first:
+      213: 3038469998856513416
+    second: hellion.sprite.combat_27
+  - first:
+      213: 8774748144118855011
+    second: hellion.sprite.combat_28
+  - first:
+      213: -8898260351372789665
+    second: hellion.sprite.combat_29
+  - first:
+      213: 1922534282053075013
+    second: hellion.sprite.combat_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hellion.sprite.combat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 65
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3131210267daf250800000000000000
+      internalID: 5979328271213474107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 678
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd77384b89c0d130800000000000000
+      internalID: 3589590503063518680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 213
+        width: 131
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f0601dc0df97c50800000000000000
+      internalID: 6663635355159629718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_3
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 196
+        width: 92
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70caf1b8417fc6d90800000000000000
+      internalID: -7103030844664599545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_4
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 196
+        width: 134
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b847ac5d8e2b3f0800000000000000
+      internalID: -886390171716252866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_5
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 187
+        width: 108
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e2649da5f7b57c0800000000000000
+      internalID: -4081528609112183266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_6
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 277
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8ae2104d6b60950800000000000000
+      internalID: 6415015740905007308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_7
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 277
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d23fd010d218c80800000000000000
+      internalID: -8322321153851708111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_8
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 182
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2c82328e6f35bc0800000000000000
+      internalID: -3795418584060476690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_9
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 274
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91acb05b4434553c0800000000000000
+      internalID: -4371513900918912487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_10
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 277
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e558c9991db477350800000000000000
+      internalID: 6014359190974006622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_11
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 262
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec4de3208db27e00800000000000000
+      internalID: 1041102821932223716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1
+        width: 105
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f5457fdb47d26e0800000000000000
+      internalID: -1860702711787004063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_13
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 187
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0692247252da4efe0800000000000000
+      internalID: -1160612428870702752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_14
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 203
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f116dfd3bf989bf0800000000000000
+      internalID: -317328178826309128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 139
+        width: 113
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58492f6e6d0eac370800000000000000
+      internalID: 8343728473259545733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_16
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 203
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f4f01abbe874420800000000000000
+      internalID: 2614215045224025894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_17
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 179
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a862e02906b61ae0800000000000000
+      internalID: -1578874469024110431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_18
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 6
+        width: 159
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecef4acf9ab38bfb0800000000000000
+      internalID: -4631886615476371762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_19
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1
+        width: 94
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f72e83ac0fc3ab90800000000000000
+      internalID: -7231708923436324875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_20
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1
+        width: 120
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695056483244f9e80800000000000000
+      internalID: -8169736279691033194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_21
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 137
+        width: 116
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b79cd228467f3420800000000000000
+      internalID: 2611936361092782008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_22
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 141
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2add86902b142b60800000000000000
+      internalID: 7720325487998655023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_23
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 117
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a44a94cf303f2220800000000000000
+      internalID: 2463240571634468004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_24
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1
+        width: 92
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7ffd40a2cb5a810800000000000000
+      internalID: 1776032516723963830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_25
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1
+        width: 109
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ffb7abfb7499a10800000000000000
+      internalID: 1916642005215870766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_26
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 74
+        width: 113
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4dc02da1f2c8210800000000000000
+      internalID: 1336494981661906174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_27
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1
+        width: 118
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887268e8d50da2a20800000000000000
+      internalID: 3038469998856513416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_28
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 59
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f8bb42fa26c970800000000000000
+      internalID: 8774748144118855011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_29
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f587b7dfa57038480800000000000000
+      internalID: -8898260351372789665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellion.sprite.combat_30
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540c8465eb63eaa10800000000000000
+      internalID: 1922534282053075013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hellion.sprite.combat_0: 5979328271213474107
+      hellion.sprite.combat_1: 3589590503063518680
+      hellion.sprite.combat_10: 6014359190974006622
+      hellion.sprite.combat_11: 1041102821932223716
+      hellion.sprite.combat_12: -1860702711787004063
+      hellion.sprite.combat_13: -1160612428870702752
+      hellion.sprite.combat_14: -317328178826309128
+      hellion.sprite.combat_15: 8343728473259545733
+      hellion.sprite.combat_16: 2614215045224025894
+      hellion.sprite.combat_17: -1578874469024110431
+      hellion.sprite.combat_18: -4631886615476371762
+      hellion.sprite.combat_19: -7231708923436324875
+      hellion.sprite.combat_2: 6663635355159629718
+      hellion.sprite.combat_20: -8169736279691033194
+      hellion.sprite.combat_21: 2611936361092782008
+      hellion.sprite.combat_22: 7720325487998655023
+      hellion.sprite.combat_23: 2463240571634468004
+      hellion.sprite.combat_24: 1776032516723963830
+      hellion.sprite.combat_25: 1916642005215870766
+      hellion.sprite.combat_26: 1336494981661906174
+      hellion.sprite.combat_27: 3038469998856513416
+      hellion.sprite.combat_28: 8774748144118855011
+      hellion.sprite.combat_29: -8898260351372789665
+      hellion.sprite.combat_3: -7103030844664599545
+      hellion.sprite.combat_30: 1922534282053075013
+      hellion.sprite.combat_4: -886390171716252866
+      hellion.sprite.combat_5: -4081528609112183266
+      hellion.sprite.combat_6: 6415015740905007308
+      hellion.sprite.combat_7: -8322321153851708111
+      hellion.sprite.combat_8: -3795418584060476690
+      hellion.sprite.combat_9: -4371513900918912487
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

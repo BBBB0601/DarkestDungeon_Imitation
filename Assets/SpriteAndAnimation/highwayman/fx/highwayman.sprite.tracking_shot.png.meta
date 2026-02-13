@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 8df96b4d0b773574ea15f5f293e2b25b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4783704956059084677
+    second: highwayman.sprite.tracking_shot_0
+  - first:
+      213: 7633790537329300067
+    second: highwayman.sprite.tracking_shot_1
+  - first:
+      213: 2730068750480407279
+    second: highwayman.sprite.tracking_shot_2
+  - first:
+      213: -508663432597548825
+    second: highwayman.sprite.tracking_shot_3
+  - first:
+      213: 7884897635885235713
+    second: highwayman.sprite.tracking_shot_4
+  - first:
+      213: 965287880596633104
+    second: highwayman.sprite.tracking_shot_5
+  - first:
+      213: -8539512536804501597
+    second: highwayman.sprite.tracking_shot_6
+  - first:
+      213: -773527526301826444
+    second: highwayman.sprite.tracking_shot_7
+  - first:
+      213: -8437793870976214266
+    second: highwayman.sprite.tracking_shot_8
+  - first:
+      213: 6015252509512142707
+    second: highwayman.sprite.tracking_shot_9
+  - first:
+      213: -8070143161743127567
+    second: highwayman.sprite.tracking_shot_10
+  - first:
+      213: 124714032859941961
+    second: highwayman.sprite.tracking_shot_11
+  - first:
+      213: -6586300184503461267
+    second: highwayman.sprite.tracking_shot_12
+  - first:
+      213: 5415243955710824219
+    second: highwayman.sprite.tracking_shot_13
+  - first:
+      213: 145573575037937598
+    second: highwayman.sprite.tracking_shot_14
+  - first:
+      213: -2446725765134992430
+    second: highwayman.sprite.tracking_shot_15
+  - first:
+      213: -8154103001008365160
+    second: highwayman.sprite.tracking_shot_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 631
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5876d28ff42236240800000000000000
+      internalID: 4783704956059084677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_1
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 583
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36250435c0ca0f960800000000000000
+      internalID: 7633790537329300067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 562
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea77c4601723e520800000000000000
+      internalID: 2730068750480407279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_3
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 583
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0dac59d4dd0f8f0800000000000000
+      internalID: -508663432597548825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_4
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 562
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eb145bf98cc6d60800000000000000
+      internalID: 7884897635885235713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 379
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016b3fc8634656d00800000000000000
+      internalID: 965287880596633104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_6
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 251
+        width: 90
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7d5c0979e8d7980800000000000000
+      internalID: -8539512536804501597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_7
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 379
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4720bca20d0e345f0800000000000000
+      internalID: -773527526301826444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_8
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 280
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b9e700e2fe6ea80800000000000000
+      internalID: -8437793870976214266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_9
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 251
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f8fb789487a7350800000000000000
+      internalID: 6015252509512142707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1
+        width: 196
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbc0c54d87110090800000000000000
+      internalID: -8070143161743127567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_11
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 219
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c8f1b80c21bb100800000000000000
+      internalID: 124714032859941961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_12
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 122
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ad49eb0e2c894a0800000000000000
+      internalID: -6586300184503461267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_13
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 219
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f8930cfafc62b40800000000000000
+      internalID: 5415243955710824219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_14
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 40
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7e1dc256e250200800000000000000
+      internalID: 145573575037937598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_15
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1
+        width: 153
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db355241eb7b0ed0800000000000000
+      internalID: -2446725765134992430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.tracking_shot_16
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 40
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89123fad58ec6de80800000000000000
+      internalID: -8154103001008365160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      highwayman.sprite.tracking_shot_0: 4783704956059084677
+      highwayman.sprite.tracking_shot_1: 7633790537329300067
+      highwayman.sprite.tracking_shot_10: -8070143161743127567
+      highwayman.sprite.tracking_shot_11: 124714032859941961
+      highwayman.sprite.tracking_shot_12: -6586300184503461267
+      highwayman.sprite.tracking_shot_13: 5415243955710824219
+      highwayman.sprite.tracking_shot_14: 145573575037937598
+      highwayman.sprite.tracking_shot_15: -2446725765134992430
+      highwayman.sprite.tracking_shot_16: -8154103001008365160
+      highwayman.sprite.tracking_shot_2: 2730068750480407279
+      highwayman.sprite.tracking_shot_3: -508663432597548825
+      highwayman.sprite.tracking_shot_4: 7884897635885235713
+      highwayman.sprite.tracking_shot_5: 965287880596633104
+      highwayman.sprite.tracking_shot_6: -8539512536804501597
+      highwayman.sprite.tracking_shot_7: -773527526301826444
+      highwayman.sprite.tracking_shot_8: -8437793870976214266
+      highwayman.sprite.tracking_shot_9: 6015252509512142707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

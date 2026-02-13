@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 1ce4200353dfa5b44836ec799799630c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2515759784976450747
+    second: vestal.sprite.idle_0
+  - first:
+      213: -7105087224164659283
+    second: vestal.sprite.idle_1
+  - first:
+      213: -2313884968989217509
+    second: vestal.sprite.idle_2
+  - first:
+      213: -7882921659736132708
+    second: vestal.sprite.idle_3
+  - first:
+      213: -5930312550100403381
+    second: vestal.sprite.idle_4
+  - first:
+      213: -3102374486788316126
+    second: vestal.sprite.idle_5
+  - first:
+      213: -4596881330487556146
+    second: vestal.sprite.idle_6
+  - first:
+      213: 7375640201736594631
+    second: vestal.sprite.idle_7
+  - first:
+      213: 6495155291233937584
+    second: vestal.sprite.idle_8
+  - first:
+      213: -4629106290919239081
+    second: vestal.sprite.idle_9
+  - first:
+      213: -4840647700824343684
+    second: vestal.sprite.idle_10
+  - first:
+      213: -507982998205208371
+    second: vestal.sprite.idle_11
+  - first:
+      213: 1205780820932902172
+    second: vestal.sprite.idle_12
+  - first:
+      213: -918167537571568051
+    second: vestal.sprite.idle_13
+  - first:
+      213: 7397222565152892232
+    second: vestal.sprite.idle_14
+  - first:
+      213: 8349062415047991443
+    second: vestal.sprite.idle_15
+  - first:
+      213: 8719752425090569896
+    second: vestal.sprite.idle_16
+  - first:
+      213: 3936928187656404661
+    second: vestal.sprite.idle_17
+  - first:
+      213: 6672584010217325201
+    second: vestal.sprite.idle_18
+  - first:
+      213: 6687979292985228340
+    second: vestal.sprite.idle_19
+  - first:
+      213: 2957700644727808088
+    second: vestal.sprite.idle_20
+  - first:
+      213: 1071496854575840260
+    second: vestal.sprite.idle_21
+  - first:
+      213: -8170488099691602330
+    second: vestal.sprite.idle_22
+  - first:
+      213: 6487956843143213147
+    second: vestal.sprite.idle_23
+  - first:
+      213: 376104201588328203
+    second: vestal.sprite.idle_24
+  - first:
+      213: 7974019358347878558
+    second: vestal.sprite.idle_25
+  - first:
+      213: -4170763848977436657
+    second: vestal.sprite.idle_26
+  - first:
+      213: 112892485274026910
+    second: vestal.sprite.idle_27
+  - first:
+      213: 5446353421318886920
+    second: vestal.sprite.idle_28
+  - first:
+      213: -5281995106648191995
+    second: vestal.sprite.idle_29
+  - first:
+      213: -7636319728306351268
+    second: vestal.sprite.idle_30
+  - first:
+      213: -2354574123698766
+    second: vestal.sprite.idle_31
+  - first:
+      213: 8359089101402406693
+    second: vestal.sprite.idle_32
+  - first:
+      213: -30304300156083217
+    second: vestal.sprite.idle_33
+  - first:
+      213: 1405886809761886284
+    second: vestal.sprite.idle_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vestal.sprite.idle_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb40cb30236c9e220800000000000000
+      internalID: 2515759784976450747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1
+        width: 218
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafcf7160d8a56d90800000000000000
+      internalID: -7105087224164659283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d284451ed63efd0800000000000000
+      internalID: -2313884968989217509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_3
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 147
+        width: 89
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93f137148c3a9290800000000000000
+      internalID: -7882921659736132708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_4
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 143
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b7934e72c43bda0800000000000000
+      internalID: -5930312550100403381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_5
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 147
+        width: 81
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2246fb267d622f4d0800000000000000
+      internalID: -3102374486788316126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 127
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec70aa509c89430c0800000000000000
+      internalID: -4596881330487556146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_7
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 127
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4a9978fa98b5660800000000000000
+      internalID: 7375640201736594631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_8
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 127
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b86ff6135d632a50800000000000000
+      internalID: 6495155291233937584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_9
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 127
+        width: 87
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7529b3eba5c12cfb0800000000000000
+      internalID: -4629106290919239081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_10
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 127
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bbd8d109092dcb0800000000000000
+      internalID: -4840647700824343684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_11
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 114
+        width: 359
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc86a00972843f8f0800000000000000
+      internalID: -507982998205208371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_12
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 114
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d3fa4a44bcbb010800000000000000
+      internalID: 1205780820932902172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_13
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 114
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4660ce3d730243f0800000000000000
+      internalID: -918167537571568051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_14
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 107
+        width: 97
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84521781bb638a660800000000000000
+      internalID: 7397222565152892232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_15
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 112
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39020800804ddd370800000000000000
+      internalID: 8349062415047991443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_16
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 102
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6dfd2a1a8c20970800000000000000
+      internalID: 8719752425090569896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_17
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 94
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be7b73f357c2a630800000000000000
+      internalID: 3936928187656404661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19284feedc7c99c50800000000000000
+      internalID: 6672584010217325201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_19
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1
+        width: 190
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c7d878bb970dc50800000000000000
+      internalID: 6687979292985228340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_20
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 27
+        width: 114
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850e1f8d01ddb0920800000000000000
+      internalID: 2957700644727808088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_21
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cf0f256b8bede00800000000000000
+      internalID: 1071496854575840260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_22
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e5358cc589c9e80800000000000000
+      internalID: -8170488099691602330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_23
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1
+        width: 85
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50bd99cf5ad90a50800000000000000
+      internalID: 6487956843143213147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_24
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 73
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07443657c0383500800000000000000
+      internalID: 376104201588328203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_25
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1
+        width: 198
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90e966bb5869ae60800000000000000
+      internalID: 7974019358347878558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_26
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1
+        width: 195
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00b8a380687e16c0800000000000000
+      internalID: -4170763848977436657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_27
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93c1920e13119100800000000000000
+      internalID: 112892485274026910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_28
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80612f6a495559b40800000000000000
+      internalID: 5446353421318886920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_29
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 62
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c02ea8f6592b6b0800000000000000
+      internalID: -5281995106648191995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_30
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1
+        width: 118
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c531ef28aa7560690800000000000000
+      internalID: -7636319728306351268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_31
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 31
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b572cdf682a7fff0800000000000000
+      internalID: -2354574123698766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_32
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ffde6df33710470800000000000000
+      internalID: 8359089101402406693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_33
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3a70a4666549ff0800000000000000
+      internalID: -30304300156083217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.idle_34
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40b342da96b28310800000000000000
+      internalID: 1405886809761886284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vestal.sprite.idle_0: 2515759784976450747
+      vestal.sprite.idle_1: -7105087224164659283
+      vestal.sprite.idle_10: -4840647700824343684
+      vestal.sprite.idle_11: -507982998205208371
+      vestal.sprite.idle_12: 1205780820932902172
+      vestal.sprite.idle_13: -918167537571568051
+      vestal.sprite.idle_14: 7397222565152892232
+      vestal.sprite.idle_15: 8349062415047991443
+      vestal.sprite.idle_16: 8719752425090569896
+      vestal.sprite.idle_17: 3936928187656404661
+      vestal.sprite.idle_18: 6672584010217325201
+      vestal.sprite.idle_19: 6687979292985228340
+      vestal.sprite.idle_2: -2313884968989217509
+      vestal.sprite.idle_20: 2957700644727808088
+      vestal.sprite.idle_21: 1071496854575840260
+      vestal.sprite.idle_22: -8170488099691602330
+      vestal.sprite.idle_23: 6487956843143213147
+      vestal.sprite.idle_24: 376104201588328203
+      vestal.sprite.idle_25: 7974019358347878558
+      vestal.sprite.idle_26: -4170763848977436657
+      vestal.sprite.idle_27: 112892485274026910
+      vestal.sprite.idle_28: 5446353421318886920
+      vestal.sprite.idle_29: -5281995106648191995
+      vestal.sprite.idle_3: -7882921659736132708
+      vestal.sprite.idle_30: -7636319728306351268
+      vestal.sprite.idle_31: -2354574123698766
+      vestal.sprite.idle_32: 8359089101402406693
+      vestal.sprite.idle_33: -30304300156083217
+      vestal.sprite.idle_34: 1405886809761886284
+      vestal.sprite.idle_4: -5930312550100403381
+      vestal.sprite.idle_5: -3102374486788316126
+      vestal.sprite.idle_6: -4596881330487556146
+      vestal.sprite.idle_7: 7375640201736594631
+      vestal.sprite.idle_8: 6495155291233937584
+      vestal.sprite.idle_9: -4629106290919239081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

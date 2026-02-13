@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 27f006e188fe0e34bbcb13454d526395
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6361408439767628756
+    second: antiquarian.sprite.protect_me_0
+  - first:
+      213: -3969338870061846037
+    second: antiquarian.sprite.protect_me_1
+  - first:
+      213: -5475505302100240837
+    second: antiquarian.sprite.protect_me_2
+  - first:
+      213: -440240667851247780
+    second: antiquarian.sprite.protect_me_3
+  - first:
+      213: -561128879432621983
+    second: antiquarian.sprite.protect_me_4
+  - first:
+      213: -2735387613711108841
+    second: antiquarian.sprite.protect_me_5
+  - first:
+      213: 218538497275290325
+    second: antiquarian.sprite.protect_me_6
+  - first:
+      213: -8444222992746823809
+    second: antiquarian.sprite.protect_me_7
+  - first:
+      213: 4966363211610896223
+    second: antiquarian.sprite.protect_me_8
+  - first:
+      213: -3337874821647366763
+    second: antiquarian.sprite.protect_me_9
+  - first:
+      213: -4405302328959859699
+    second: antiquarian.sprite.protect_me_10
+  - first:
+      213: 993508933820951241
+    second: antiquarian.sprite.protect_me_11
+  - first:
+      213: -2102514312307334103
+    second: antiquarian.sprite.protect_me_12
+  - first:
+      213: 2658193440316563946
+    second: antiquarian.sprite.protect_me_13
+  - first:
+      213: 2823487011898133571
+    second: antiquarian.sprite.protect_me_14
+  - first:
+      213: -21637873316860026
+    second: antiquarian.sprite.protect_me_15
+  - first:
+      213: 1805131899605102835
+    second: antiquarian.sprite.protect_me_16
+  - first:
+      213: -9111083297810129715
+    second: antiquarian.sprite.protect_me_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 261
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db75839543484850800000000000000
+      internalID: 6361408439767628756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 273
+        width: 93
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be130d004531ae8c0800000000000000
+      internalID: -3969338870061846037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 352
+        width: 331
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b361c8e20f81304b0800000000000000
+      internalID: -5475505302100240837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 242
+        width: 188
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fab01f173f3e9f0800000000000000
+      internalID: -440240667851247780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 273
+        width: 92
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160a434d1487638f0800000000000000
+      internalID: -561128879432621983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 241
+        width: 179
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715feb14573f90ad0800000000000000
+      internalID: -2735387613711108841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 207
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d267dbfa97680300800000000000000
+      internalID: 218538497275290325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_7
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 226
+        width: 27
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fb3217de710da80800000000000000
+      internalID: -8444222992746823809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_8
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 208
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57b2ad27011ce440800000000000000
+      internalID: 4966363211610896223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 191
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5950df6d88c7da1d0800000000000000
+      internalID: -3337874821647366763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 98
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0485224fd83dd2c0800000000000000
+      internalID: -4405302328959859699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 87
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca23998c17a9cd00800000000000000
+      internalID: 993508933820951241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 124
+        width: 181
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9242fbf5f5e52d2e0800000000000000
+      internalID: -2102514312307334103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 162
+        width: 131
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1a75aa9dcc3e420800000000000000
+      internalID: 2658193440316563946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 162
+        width: 126
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c0e145a7a0f2720800000000000000
+      internalID: 2823487011898133571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_15
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 49
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fe047087023bff0800000000000000
+      internalID: -21637873316860026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_16
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1
+        width: 27
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f030b016ed1d0910800000000000000
+      internalID: 1805131899605102835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.protect_me_17
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 48
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc5803630eee8180800000000000000
+      internalID: -9111083297810129715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      antiquarian.sprite.protect_me_0: 6361408439767628756
+      antiquarian.sprite.protect_me_1: -3969338870061846037
+      antiquarian.sprite.protect_me_10: -4405302328959859699
+      antiquarian.sprite.protect_me_11: 993508933820951241
+      antiquarian.sprite.protect_me_12: -2102514312307334103
+      antiquarian.sprite.protect_me_13: 2658193440316563946
+      antiquarian.sprite.protect_me_14: 2823487011898133571
+      antiquarian.sprite.protect_me_15: -21637873316860026
+      antiquarian.sprite.protect_me_16: 1805131899605102835
+      antiquarian.sprite.protect_me_17: -9111083297810129715
+      antiquarian.sprite.protect_me_2: -5475505302100240837
+      antiquarian.sprite.protect_me_3: -440240667851247780
+      antiquarian.sprite.protect_me_4: -561128879432621983
+      antiquarian.sprite.protect_me_5: -2735387613711108841
+      antiquarian.sprite.protect_me_6: 218538497275290325
+      antiquarian.sprite.protect_me_7: -8444222992746823809
+      antiquarian.sprite.protect_me_8: 4966363211610896223
+      antiquarian.sprite.protect_me_9: -3337874821647366763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

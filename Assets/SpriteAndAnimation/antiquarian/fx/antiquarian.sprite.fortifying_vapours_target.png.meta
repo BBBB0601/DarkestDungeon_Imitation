@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: d28a902e9cdd2ea41a1525fc51afda2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2066505742162475098
+    second: antiquarian.sprite.fortifying_vapours_target_0
+  - first:
+      213: -2613279261494469517
+    second: antiquarian.sprite.fortifying_vapours_target_1
+  - first:
+      213: -1063786179689220277
+    second: antiquarian.sprite.fortifying_vapours_target_2
+  - first:
+      213: 4432307411023745010
+    second: antiquarian.sprite.fortifying_vapours_target_3
+  - first:
+      213: -1904098484199873243
+    second: antiquarian.sprite.fortifying_vapours_target_4
+  - first:
+      213: 1185414280448847118
+    second: antiquarian.sprite.fortifying_vapours_target_5
+  - first:
+      213: -4298843025673684768
+    second: antiquarian.sprite.fortifying_vapours_target_6
+  - first:
+      213: 406401205239902784
+    second: antiquarian.sprite.fortifying_vapours_target_7
+  - first:
+      213: -7687812123065340719
+    second: antiquarian.sprite.fortifying_vapours_target_8
+  - first:
+      213: -3726273396375244059
+    second: antiquarian.sprite.fortifying_vapours_target_9
+  - first:
+      213: 898316389147875002
+    second: antiquarian.sprite.fortifying_vapours_target_10
+  - first:
+      213: -6249003632221363498
+    second: antiquarian.sprite.fortifying_vapours_target_11
+  - first:
+      213: 8795163375506742989
+    second: antiquarian.sprite.fortifying_vapours_target_12
+  - first:
+      213: 1442339578185227493
+    second: antiquarian.sprite.fortifying_vapours_target_13
+  - first:
+      213: 6583994216465855141
+    second: antiquarian.sprite.fortifying_vapours_target_14
+  - first:
+      213: -8702192871891432301
+    second: antiquarian.sprite.fortifying_vapours_target_15
+  - first:
+      213: -3777093188386060159
+    second: antiquarian.sprite.fortifying_vapours_target_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 633
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5836ef0604bdac10800000000000000
+      internalID: 2066505742162475098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1
+        width: 434
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c1abf7b54cbbbd0800000000000000
+      internalID: -2613279261494469517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_2
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 382
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4777a21b1cac31f0800000000000000
+      internalID: -1063786179689220277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_3
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 315
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffc6616b18b28d30800000000000000
+      internalID: 4432307411023745010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_4
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 241
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52528e754884395e0800000000000000
+      internalID: -1904098484199873243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_5
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 231
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d24d9e100737010800000000000000
+      internalID: 1185414280448847118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_6
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 294
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8fd8d5b017754c0800000000000000
+      internalID: -4298843025673684768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_7
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 167
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0427d923eb3d3a500800000000000000
+      internalID: 406401205239902784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_8
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 167
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcafb81b976f4590800000000000000
+      internalID: -7687812123065340719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_9
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 148
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2b011b61e994cc0800000000000000
+      internalID: -3726273396375244059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_10
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 203
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab612171ff5777c00800000000000000
+      internalID: 898316389147875002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_11
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 75
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2e15d1e441749a0800000000000000
+      internalID: -6249003632221363498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_12
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 104
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceda92cd72be0a70800000000000000
+      internalID: 8795163375506742989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_13
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 111
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec973b5438340410800000000000000
+      internalID: 1442339578185227493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_14
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 75
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a27cab3bdb0f5b50800000000000000
+      internalID: 6583994216465855141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_15
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c89ff60b99b3780800000000000000
+      internalID: -8702192871891432301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.fortifying_vapours_target_16
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18883bec1c1159bc0800000000000000
+      internalID: -3777093188386060159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      antiquarian.sprite.fortifying_vapours_target_0: 2066505742162475098
+      antiquarian.sprite.fortifying_vapours_target_1: -2613279261494469517
+      antiquarian.sprite.fortifying_vapours_target_10: 898316389147875002
+      antiquarian.sprite.fortifying_vapours_target_11: -6249003632221363498
+      antiquarian.sprite.fortifying_vapours_target_12: 8795163375506742989
+      antiquarian.sprite.fortifying_vapours_target_13: 1442339578185227493
+      antiquarian.sprite.fortifying_vapours_target_14: 6583994216465855141
+      antiquarian.sprite.fortifying_vapours_target_15: -8702192871891432301
+      antiquarian.sprite.fortifying_vapours_target_16: -3777093188386060159
+      antiquarian.sprite.fortifying_vapours_target_2: -1063786179689220277
+      antiquarian.sprite.fortifying_vapours_target_3: 4432307411023745010
+      antiquarian.sprite.fortifying_vapours_target_4: -1904098484199873243
+      antiquarian.sprite.fortifying_vapours_target_5: 1185414280448847118
+      antiquarian.sprite.fortifying_vapours_target_6: -4298843025673684768
+      antiquarian.sprite.fortifying_vapours_target_7: 406401205239902784
+      antiquarian.sprite.fortifying_vapours_target_8: -7687812123065340719
+      antiquarian.sprite.fortifying_vapours_target_9: -3726273396375244059
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

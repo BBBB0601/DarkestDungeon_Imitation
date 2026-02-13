@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 54f7ca8cc25c89e43a772ce6f2daa2bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8265190923787260812
+    second: plague_doctor.sprite.combat_0
+  - first:
+      213: 5178797053964161155
+    second: plague_doctor.sprite.combat_1
+  - first:
+      213: 8298427433436563
+    second: plague_doctor.sprite.combat_2
+  - first:
+      213: -8571171902759754391
+    second: plague_doctor.sprite.combat_3
+  - first:
+      213: 3113721869252500159
+    second: plague_doctor.sprite.combat_4
+  - first:
+      213: 2135473582957523556
+    second: plague_doctor.sprite.combat_5
+  - first:
+      213: -4001437287893603926
+    second: plague_doctor.sprite.combat_6
+  - first:
+      213: 4478684741273292631
+    second: plague_doctor.sprite.combat_7
+  - first:
+      213: 6680228801743947423
+    second: plague_doctor.sprite.combat_8
+  - first:
+      213: -5539780129458284279
+    second: plague_doctor.sprite.combat_9
+  - first:
+      213: -7570672415260013102
+    second: plague_doctor.sprite.combat_10
+  - first:
+      213: -4047871279749028178
+    second: plague_doctor.sprite.combat_11
+  - first:
+      213: -2774485335980403138
+    second: plague_doctor.sprite.combat_12
+  - first:
+      213: -6503866871063166525
+    second: plague_doctor.sprite.combat_13
+  - first:
+      213: -4778056379467640131
+    second: plague_doctor.sprite.combat_14
+  - first:
+      213: -6813120263519363753
+    second: plague_doctor.sprite.combat_15
+  - first:
+      213: 4552416165172794855
+    second: plague_doctor.sprite.combat_16
+  - first:
+      213: 780515502330420926
+    second: plague_doctor.sprite.combat_17
+  - first:
+      213: 1067130882579295513
+    second: plague_doctor.sprite.combat_18
+  - first:
+      213: -9030814756659458285
+    second: plague_doctor.sprite.combat_19
+  - first:
+      213: -7479200235085310312
+    second: plague_doctor.sprite.combat_20
+  - first:
+      213: 5740985201913682691
+    second: plague_doctor.sprite.combat_21
+  - first:
+      213: -3156288372461549330
+    second: plague_doctor.sprite.combat_22
+  - first:
+      213: 550918783495105715
+    second: plague_doctor.sprite.combat_23
+  - first:
+      213: 6949835026213650443
+    second: plague_doctor.sprite.combat_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 344
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c835f15ba5bd3b270800000000000000
+      internalID: 8265190923787260812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 215
+        width: 144
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3809f5d6b78ced740800000000000000
+      internalID: 5178797053964161155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 183
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3954d53306b7d1000800000000000000
+      internalID: 8298427433436563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_3
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 183
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965223301941d0980800000000000000
+      internalID: -8571171902759754391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 181
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba192afa89263b20800000000000000
+      internalID: 3113721869252500159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 181
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462f963d8e9b2ad10800000000000000
+      internalID: 2135473582957523556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 181
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa96918bcf90878c0800000000000000
+      internalID: -4001437287893603926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 216
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f8e880b0c772e30800000000000000
+      internalID: 4478684741273292631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_8
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 178
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96084aa3b0f4bc50800000000000000
+      internalID: 6680228801743947423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_9
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 169
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9091fd1c25fbe13b0800000000000000
+      internalID: -5539780129458284279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_10
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 166
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd0499ac819fe690800000000000000
+      internalID: -7570672415260013102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_11
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 134
+        width: 166
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6ad02848213d7c0800000000000000
+      internalID: -4047871279749028178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 186
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e369b5a694c0f79d0800000000000000
+      internalID: -2774485335980403138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_13
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 162
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c149db2a8f9db5a0800000000000000
+      internalID: -6503866871063166525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 137
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2da01c90fe0bdb0800000000000000
+      internalID: -4778056379467640131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1
+        width: 75
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d99e0c73fe271a0800000000000000
+      internalID: -6813120263519363753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_16
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1
+        width: 180
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5dedae16e6d2f30800000000000000
+      internalID: 4552416165172794855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_17
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1
+        width: 169
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe171ac6b2f4da00800000000000000
+      internalID: 780515502330420926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_18
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1
+        width: 92
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91decf042e53fce00800000000000000
+      internalID: 1067130882579295513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_19
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 66
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f05fc73d91ca280800000000000000
+      internalID: -9030814756659458285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_20
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 66
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896d8bf330b843890800000000000000
+      internalID: -7479200235085310312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_21
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 128
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bd6d4cf931caf40800000000000000
+      internalID: 5740985201913682691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_22
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1
+        width: 359
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8cbbea27c9234d0800000000000000
+      internalID: -3156288372461549330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_23
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 66
+        width: 136
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bce056f6b145a700800000000000000
+      internalID: 550918783495105715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.combat_24
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 66
+        width: 120
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0048017226c27060800000000000000
+      internalID: 6949835026213650443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      plague_doctor.sprite.combat_0: 8265190923787260812
+      plague_doctor.sprite.combat_1: 5178797053964161155
+      plague_doctor.sprite.combat_10: -7570672415260013102
+      plague_doctor.sprite.combat_11: -4047871279749028178
+      plague_doctor.sprite.combat_12: -2774485335980403138
+      plague_doctor.sprite.combat_13: -6503866871063166525
+      plague_doctor.sprite.combat_14: -4778056379467640131
+      plague_doctor.sprite.combat_15: -6813120263519363753
+      plague_doctor.sprite.combat_16: 4552416165172794855
+      plague_doctor.sprite.combat_17: 780515502330420926
+      plague_doctor.sprite.combat_18: 1067130882579295513
+      plague_doctor.sprite.combat_19: -9030814756659458285
+      plague_doctor.sprite.combat_2: 8298427433436563
+      plague_doctor.sprite.combat_20: -7479200235085310312
+      plague_doctor.sprite.combat_21: 5740985201913682691
+      plague_doctor.sprite.combat_22: -3156288372461549330
+      plague_doctor.sprite.combat_23: 550918783495105715
+      plague_doctor.sprite.combat_24: 6949835026213650443
+      plague_doctor.sprite.combat_3: -8571171902759754391
+      plague_doctor.sprite.combat_4: 3113721869252500159
+      plague_doctor.sprite.combat_5: 2135473582957523556
+      plague_doctor.sprite.combat_6: -4001437287893603926
+      plague_doctor.sprite.combat_7: 4478684741273292631
+      plague_doctor.sprite.combat_8: 6680228801743947423
+      plague_doctor.sprite.combat_9: -5539780129458284279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

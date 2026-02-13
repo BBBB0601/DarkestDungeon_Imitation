@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: cf11ec54aac5da24aa51f3d0d83f7cc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3142146789431503875
+    second: vestal.sprite.divine_grace_0
+  - first:
+      213: -1237188119491994470
+    second: vestal.sprite.divine_grace_1
+  - first:
+      213: -7320833358871600405
+    second: vestal.sprite.divine_grace_2
+  - first:
+      213: 6068504814852364201
+    second: vestal.sprite.divine_grace_3
+  - first:
+      213: 4017900089577668136
+    second: vestal.sprite.divine_grace_4
+  - first:
+      213: 3600380687101925833
+    second: vestal.sprite.divine_grace_5
+  - first:
+      213: -7667163812469783477
+    second: vestal.sprite.divine_grace_6
+  - first:
+      213: 5582217717996105189
+    second: vestal.sprite.divine_grace_7
+  - first:
+      213: 7245264169040208612
+    second: vestal.sprite.divine_grace_8
+  - first:
+      213: -5313773627335671328
+    second: vestal.sprite.divine_grace_9
+  - first:
+      213: 9002272420013720112
+    second: vestal.sprite.divine_grace_10
+  - first:
+      213: 3882054329335218866
+    second: vestal.sprite.divine_grace_11
+  - first:
+      213: -4352152104346081411
+    second: vestal.sprite.divine_grace_12
+  - first:
+      213: -2536364211168176806
+    second: vestal.sprite.divine_grace_13
+  - first:
+      213: -7918761261334716170
+    second: vestal.sprite.divine_grace_14
+  - first:
+      213: 4979652759973301919
+    second: vestal.sprite.divine_grace_15
+  - first:
+      213: 8896499427391842819
+    second: vestal.sprite.divine_grace_16
+  - first:
+      213: -4693844177127584342
+    second: vestal.sprite.divine_grace_17
+  - first:
+      213: 5988473225079146262
+    second: vestal.sprite.divine_grace_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_0
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 331
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df31dcf842ad464d0800000000000000
+      internalID: -3142146789431503875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 313
+        width: 221
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c9851d5ff94dee0800000000000000
+      internalID: -1237188119491994470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_2
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 521
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e0a8f8dc276a90800000000000000
+      internalID: -7320833358871600405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_3
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 527
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7d50f0af8a73450800000000000000
+      internalID: 6068504814852364201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_4
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e794ef7d272c730800000000000000
+      internalID: 4017900089577668136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_5
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 527
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c913e6c82f17f130800000000000000
+      internalID: 3600380687101925833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 331
+        width: 240
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44420b8223c89590800000000000000
+      internalID: -7667163812469783477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 331
+        width: 225
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edac0c4075087d40800000000000000
+      internalID: 5582217717996105189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_8
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 499
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2e18bef595c8460800000000000000
+      internalID: 7245264169040208612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_9
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 506
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e181dd1a0fa146b0800000000000000
+      internalID: -5313773627335671328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_10
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 313
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032c636e11f7eec70800000000000000
+      internalID: 9002272420013720112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_11
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 491
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b20bc238d3dfd530800000000000000
+      internalID: 3882054329335218866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 615
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77abf348bc0a93c0800000000000000
+      internalID: -4352152104346081411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_13
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 234
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a559e4c20360dccd0800000000000000
+      internalID: -2536364211168176806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_14
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1
+        width: 246
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f025059698ea1290800000000000000
+      internalID: -7918761261334716170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_15
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 245
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e80074dc74b1540800000000000000
+      internalID: 4979652759973301919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 103
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a2822f717b67b70800000000000000
+      internalID: 8896499427391842819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_17
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 103
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad4647079d1cdeb0800000000000000
+      internalID: -4693844177127584342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.divine_grace_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617c7cf7ba45b1350800000000000000
+      internalID: 5988473225079146262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vestal.sprite.divine_grace_0: -3142146789431503875
+      vestal.sprite.divine_grace_1: -1237188119491994470
+      vestal.sprite.divine_grace_10: 9002272420013720112
+      vestal.sprite.divine_grace_11: 3882054329335218866
+      vestal.sprite.divine_grace_12: -4352152104346081411
+      vestal.sprite.divine_grace_13: -2536364211168176806
+      vestal.sprite.divine_grace_14: -7918761261334716170
+      vestal.sprite.divine_grace_15: 4979652759973301919
+      vestal.sprite.divine_grace_16: 8896499427391842819
+      vestal.sprite.divine_grace_17: -4693844177127584342
+      vestal.sprite.divine_grace_18: 5988473225079146262
+      vestal.sprite.divine_grace_2: -7320833358871600405
+      vestal.sprite.divine_grace_3: 6068504814852364201
+      vestal.sprite.divine_grace_4: 4017900089577668136
+      vestal.sprite.divine_grace_5: 3600380687101925833
+      vestal.sprite.divine_grace_6: -7667163812469783477
+      vestal.sprite.divine_grace_7: 5582217717996105189
+      vestal.sprite.divine_grace_8: 7245264169040208612
+      vestal.sprite.divine_grace_9: -5313773627335671328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

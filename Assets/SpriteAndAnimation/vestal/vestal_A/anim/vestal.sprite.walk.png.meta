@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 29f7a7a9f9108444487ef9f27c695481
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1569179141101058917
+    second: vestal.sprite.walk_0
+  - first:
+      213: -6853418981734616818
+    second: vestal.sprite.walk_1
+  - first:
+      213: 5407295801225820706
+    second: vestal.sprite.walk_2
+  - first:
+      213: 5728924045164387297
+    second: vestal.sprite.walk_3
+  - first:
+      213: -3930402323422605074
+    second: vestal.sprite.walk_4
+  - first:
+      213: 4104671646042647426
+    second: vestal.sprite.walk_5
+  - first:
+      213: 435641639078069939
+    second: vestal.sprite.walk_6
+  - first:
+      213: 1556077583999594955
+    second: vestal.sprite.walk_7
+  - first:
+      213: -8560373644920108241
+    second: vestal.sprite.walk_8
+  - first:
+      213: 7630888471158744085
+    second: vestal.sprite.walk_9
+  - first:
+      213: 2502497833117065602
+    second: vestal.sprite.walk_10
+  - first:
+      213: -2463290888862073605
+    second: vestal.sprite.walk_11
+  - first:
+      213: -2547797474437279694
+    second: vestal.sprite.walk_12
+  - first:
+      213: 8009919212987510199
+    second: vestal.sprite.walk_13
+  - first:
+      213: -6504740898332021409
+    second: vestal.sprite.walk_14
+  - first:
+      213: -3593026718027492567
+    second: vestal.sprite.walk_15
+  - first:
+      213: -8793450294865976875
+    second: vestal.sprite.walk_16
+  - first:
+      213: 5785054103500432260
+    second: vestal.sprite.walk_17
+  - first:
+      213: 7718203570875987178
+    second: vestal.sprite.walk_18
+  - first:
+      213: 3491425057467961258
+    second: vestal.sprite.walk_19
+  - first:
+      213: 8052153758767400733
+    second: vestal.sprite.walk_20
+  - first:
+      213: 6610404047429530461
+    second: vestal.sprite.walk_21
+  - first:
+      213: -9134205813566226340
+    second: vestal.sprite.walk_22
+  - first:
+      213: -131942273591966264
+    second: vestal.sprite.walk_23
+  - first:
+      213: 2379639977552641418
+    second: vestal.sprite.walk_24
+  - first:
+      213: 3668537106250641973
+    second: vestal.sprite.walk_25
+  - first:
+      213: 7763548188065380647
+    second: vestal.sprite.walk_26
+  - first:
+      213: -4557018580291849913
+    second: vestal.sprite.walk_27
+  - first:
+      213: 1438069253887981211
+    second: vestal.sprite.walk_28
+  - first:
+      213: 7230150278025446376
+    second: vestal.sprite.walk_29
+  - first:
+      213: -2223238903258088330
+    second: vestal.sprite.walk_30
+  - first:
+      213: -1179721040844020594
+    second: vestal.sprite.walk_31
+  - first:
+      213: -1311079209991151655
+    second: vestal.sprite.walk_32
+  - first:
+      213: -7235860932366420444
+    second: vestal.sprite.walk_33
+  - first:
+      213: -8548883402720111864
+    second: vestal.sprite.walk_34
+  - first:
+      213: 7767743210033685799
+    second: vestal.sprite.walk_35
+  - first:
+      213: 3544293330733719018
+    second: vestal.sprite.walk_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vestal.sprite.walk_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 885
+        width: 108
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bf74e6d18d6c510800000000000000
+      internalID: 1569179141101058917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 995
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01f9c04fb3c3e0a0800000000000000
+      internalID: -6853418981734616818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 896
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ab683d1e29a0b40800000000000000
+      internalID: 5407295801225820706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1001
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb9731e01a318f40800000000000000
+      internalID: 5728924045164387297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1001
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0960839e76479c0800000000000000
+      internalID: -3930402323422605074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 978
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b6df55d19b6f830800000000000000
+      internalID: 4104671646042647426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 908
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b60e9a33c5bb0600800000000000000
+      internalID: 435641639078069939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 896
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc17e35715c489510800000000000000
+      internalID: 1556077583999594955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 911
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bcbe55681733980800000000000000
+      internalID: -8560373644920108241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 781
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5146a0462ac56e960800000000000000
+      internalID: 7630888471158744085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 839
+        width: 87
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281a02a3588aab220800000000000000
+      internalID: 2502497833117065602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 841
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc7be6dcf1a0ddd0800000000000000
+      internalID: -2463290888862073605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 847
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230578022b764acd0800000000000000
+      internalID: -2547797474437279694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 767
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd62b9f513f82f60800000000000000
+      internalID: 8009919212987510199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 846
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5de6f6dd948ab5a0800000000000000
+      internalID: -6504740898332021409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 724
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923db739c31032ec0800000000000000
+      internalID: -3593026718027492567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 714
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1a578eb8367f580800000000000000
+      internalID: -8793450294865976875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 760
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4832f8d7e04a84050800000000000000
+      internalID: 5785054103500432260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 695
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4f63241419c1b60800000000000000
+      internalID: 7718203570875987178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 695
+        width: 18
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf86466798047030800000000000000
+      internalID: 3491425057467961258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 523
+        width: 137
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1748247e2ffebf60800000000000000
+      internalID: 8052153758767400733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 516
+        width: 117
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5377dc257fdcbb50800000000000000
+      internalID: 6610404047429530461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 610
+        width: 101
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50c3192538cc3180800000000000000
+      internalID: -9134205813566226340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 602
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c581b3833f3b2ef0800000000000000
+      internalID: -131942273591966264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 523
+        width: 115
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8df753a3fd260120800000000000000
+      internalID: 2379639977552641418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 486
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532b867bf0349e230800000000000000
+      internalID: 3668537106250641973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 65
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729b34aa1f9adbb60800000000000000
+      internalID: 7763548188065380647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74179deceb732c0c0800000000000000
+      internalID: -4557018580291849913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 354
+        width: 218
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9677600e5c05f310800000000000000
+      internalID: 1438069253887981211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 453
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e30662fe57a65460800000000000000
+      internalID: 7230150278025446376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 421
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cf8782ff77521e0800000000000000
+      internalID: -2223238903258088330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 193
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84207ab6f9c0afe0800000000000000
+      internalID: -1179721040844020594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 108
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfd318a76c1ecde0800000000000000
+      internalID: -1311079209991151655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_33
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 332
+        width: 54
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4263c2ab1de059b90800000000000000
+      internalID: -7235860932366420444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_34
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 332
+        width: 37
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80392a2d6d34c5980800000000000000
+      internalID: -8548883402720111864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 114
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725a2845b419ccb60800000000000000
+      internalID: 7767743210033685799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.walk_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 118
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed5b2e710cdf2130800000000000000
+      internalID: 3544293330733719018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vestal.sprite.walk_0: 1569179141101058917
+      vestal.sprite.walk_1: -6853418981734616818
+      vestal.sprite.walk_10: 2502497833117065602
+      vestal.sprite.walk_11: -2463290888862073605
+      vestal.sprite.walk_12: -2547797474437279694
+      vestal.sprite.walk_13: 8009919212987510199
+      vestal.sprite.walk_14: -6504740898332021409
+      vestal.sprite.walk_15: -3593026718027492567
+      vestal.sprite.walk_16: -8793450294865976875
+      vestal.sprite.walk_17: 5785054103500432260
+      vestal.sprite.walk_18: 7718203570875987178
+      vestal.sprite.walk_19: 3491425057467961258
+      vestal.sprite.walk_2: 5407295801225820706
+      vestal.sprite.walk_20: 8052153758767400733
+      vestal.sprite.walk_21: 6610404047429530461
+      vestal.sprite.walk_22: -9134205813566226340
+      vestal.sprite.walk_23: -131942273591966264
+      vestal.sprite.walk_24: 2379639977552641418
+      vestal.sprite.walk_25: 3668537106250641973
+      vestal.sprite.walk_26: 7763548188065380647
+      vestal.sprite.walk_27: -4557018580291849913
+      vestal.sprite.walk_28: 1438069253887981211
+      vestal.sprite.walk_29: 7230150278025446376
+      vestal.sprite.walk_3: 5728924045164387297
+      vestal.sprite.walk_30: -2223238903258088330
+      vestal.sprite.walk_31: -1179721040844020594
+      vestal.sprite.walk_32: -1311079209991151655
+      vestal.sprite.walk_33: -7235860932366420444
+      vestal.sprite.walk_34: -8548883402720111864
+      vestal.sprite.walk_35: 7767743210033685799
+      vestal.sprite.walk_36: 3544293330733719018
+      vestal.sprite.walk_4: -3930402323422605074
+      vestal.sprite.walk_5: 4104671646042647426
+      vestal.sprite.walk_6: 435641639078069939
+      vestal.sprite.walk_7: 1556077583999594955
+      vestal.sprite.walk_8: -8560373644920108241
+      vestal.sprite.walk_9: 7630888471158744085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

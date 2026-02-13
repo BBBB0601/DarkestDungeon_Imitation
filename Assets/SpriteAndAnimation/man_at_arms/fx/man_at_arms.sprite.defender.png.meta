@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 0e127de1462f66547b52e388d57d305b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6276122336689680116
+    second: man_at_arms.sprite.defender_0
+  - first:
+      213: 164035358603184009
+    second: man_at_arms.sprite.defender_1
+  - first:
+      213: 2782868348945919845
+    second: man_at_arms.sprite.defender_2
+  - first:
+      213: 7278728542254062466
+    second: man_at_arms.sprite.defender_3
+  - first:
+      213: 939674861944514915
+    second: man_at_arms.sprite.defender_4
+  - first:
+      213: 8567785844846028843
+    second: man_at_arms.sprite.defender_5
+  - first:
+      213: -5968481818180527727
+    second: man_at_arms.sprite.defender_6
+  - first:
+      213: 5491109569609912587
+    second: man_at_arms.sprite.defender_7
+  - first:
+      213: -9071398585612476965
+    second: man_at_arms.sprite.defender_8
+  - first:
+      213: -5350152478333221965
+    second: man_at_arms.sprite.defender_9
+  - first:
+      213: 3604104816700197559
+    second: man_at_arms.sprite.defender_10
+  - first:
+      213: 50063844621986632
+    second: man_at_arms.sprite.defender_11
+  - first:
+      213: 1577029042515311210
+    second: man_at_arms.sprite.defender_12
+  - first:
+      213: 8968201498602439391
+    second: man_at_arms.sprite.defender_13
+  - first:
+      213: 8901076801022149011
+    second: man_at_arms.sprite.defender_14
+  - first:
+      213: -4881506890386566640
+    second: man_at_arms.sprite.defender_15
+  - first:
+      213: 4426964461640517748
+    second: man_at_arms.sprite.defender_16
+  - first:
+      213: 4483349870318537972
+    second: man_at_arms.sprite.defender_17
+  - first:
+      213: -7328121729409759965
+    second: man_at_arms.sprite.defender_18
+  - first:
+      213: -8992889360871768638
+    second: man_at_arms.sprite.defender_19
+  - first:
+      213: 5634931250864102986
+    second: man_at_arms.sprite.defender_20
+  - first:
+      213: 8848174101702088795
+    second: man_at_arms.sprite.defender_21
+  - first:
+      213: 8661046885049453390
+    second: man_at_arms.sprite.defender_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 980
+        width: 297
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe684d4304491750800000000000000
+      internalID: 6276122336689680116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1049
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98785202a45c64200800000000000000
+      internalID: 164035358603184009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_2
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1065
+        width: 27
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f6993e40cbe9620800000000000000
+      internalID: 2782868348945919845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_3
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1047
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bdc897b0d330560800000000000000
+      internalID: 7278728542254062466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1004
+        width: 126
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369219eee456a0d00800000000000000
+      internalID: 939674861944514915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_5
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1004
+        width: 132
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28eaa1f4d3e6e670800000000000000
+      internalID: 8567785844846028843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 797
+        width: 88
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199d8f2a861bb2da0800000000000000
+      internalID: -5968481818180527727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 795
+        width: 95
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01d8577f07543c40800000000000000
+      internalID: 5491109569609912587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 888
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd56987c0beb1280800000000000000
+      internalID: -9071398585612476965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_9
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 841
+        width: 27
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3c5c2daa070c5b0800000000000000
+      internalID: -5350152478333221965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 889
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba80b44c3a540230800000000000000
+      internalID: 3604104816700197559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 765
+        width: 182
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ba8ca2dccd1b000800000000000000
+      internalID: 50063844621986632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 762
+        width: 188
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a79970f8bb2e510800000000000000
+      internalID: 1577029042515311210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 468
+        width: 370
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd203565fb3757c70800000000000000
+      internalID: 8968201498602439391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 650
+        width: 182
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391456bc03af68b70800000000000000
+      internalID: 8901076801022149011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 525
+        width: 92
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01213e5b857614cb0800000000000000
+      internalID: -4881506890386566640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 525
+        width: 91
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4788c5909bcbf6d30800000000000000
+      internalID: 4426964461640517748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 646
+        width: 188
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc412804fe083e30800000000000000
+      internalID: 4483349870318537972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 432
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325c5b7fc184d4a90800000000000000
+      internalID: -7328121729409759965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_19
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2
+        width: 320
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd39dcc5c6d23380800000000000000
+      internalID: -8992889360871768638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_20
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 423
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e90851e1c433e40800000000000000
+      internalID: 5634931250864102986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_21
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5893c247770bca70800000000000000
+      internalID: 8848174101702088795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man_at_arms.sprite.defender_22
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1
+        width: 143
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b4066f048323870800000000000000
+      internalID: 8661046885049453390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      man_at_arms.sprite.defender_0: 6276122336689680116
+      man_at_arms.sprite.defender_1: 164035358603184009
+      man_at_arms.sprite.defender_10: 3604104816700197559
+      man_at_arms.sprite.defender_11: 50063844621986632
+      man_at_arms.sprite.defender_12: 1577029042515311210
+      man_at_arms.sprite.defender_13: 8968201498602439391
+      man_at_arms.sprite.defender_14: 8901076801022149011
+      man_at_arms.sprite.defender_15: -4881506890386566640
+      man_at_arms.sprite.defender_16: 4426964461640517748
+      man_at_arms.sprite.defender_17: 4483349870318537972
+      man_at_arms.sprite.defender_18: -7328121729409759965
+      man_at_arms.sprite.defender_19: -8992889360871768638
+      man_at_arms.sprite.defender_2: 2782868348945919845
+      man_at_arms.sprite.defender_20: 5634931250864102986
+      man_at_arms.sprite.defender_21: 8848174101702088795
+      man_at_arms.sprite.defender_22: 8661046885049453390
+      man_at_arms.sprite.defender_3: 7278728542254062466
+      man_at_arms.sprite.defender_4: 939674861944514915
+      man_at_arms.sprite.defender_5: 8567785844846028843
+      man_at_arms.sprite.defender_6: -5968481818180527727
+      man_at_arms.sprite.defender_7: 5491109569609912587
+      man_at_arms.sprite.defender_8: -9071398585612476965
+      man_at_arms.sprite.defender_9: -5350152478333221965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

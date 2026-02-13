@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: df23d19a4b8b32745857f4e3547738c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5602244027562626755
+    second: antiquarian.sprite.cower_0
+  - first:
+      213: -642985297229909379
+    second: antiquarian.sprite.cower_1
+  - first:
+      213: 1528767447521436073
+    second: antiquarian.sprite.cower_2
+  - first:
+      213: 191041554893009076
+    second: antiquarian.sprite.cower_3
+  - first:
+      213: 6955779193421314923
+    second: antiquarian.sprite.cower_4
+  - first:
+      213: 2626266025709610003
+    second: antiquarian.sprite.cower_5
+  - first:
+      213: 5606735532298983076
+    second: antiquarian.sprite.cower_6
+  - first:
+      213: 773292590293576793
+    second: antiquarian.sprite.cower_7
+  - first:
+      213: -6604506543530015441
+    second: antiquarian.sprite.cower_8
+  - first:
+      213: -5873450966797209885
+    second: antiquarian.sprite.cower_9
+  - first:
+      213: -3840716839371297357
+    second: antiquarian.sprite.cower_10
+  - first:
+      213: -7601670536932900063
+    second: antiquarian.sprite.cower_11
+  - first:
+      213: -4902832341114307465
+    second: antiquarian.sprite.cower_12
+  - first:
+      213: 3070062551402007861
+    second: antiquarian.sprite.cower_13
+  - first:
+      213: 5672351385753331815
+    second: antiquarian.sprite.cower_14
+  - first:
+      213: 3643210202239272518
+    second: antiquarian.sprite.cower_15
+  - first:
+      213: 3461121310869927740
+    second: antiquarian.sprite.cower_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 506
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce8ce7d24b2fbd40800000000000000
+      internalID: 5602244027562626755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 464
+        width: 162
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72ffc26748a317f0800000000000000
+      internalID: -642985297229909379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 464
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a122bdc4e5473510800000000000000
+      internalID: 1528767447521436073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_3
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 470
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b07cb03847b6a200800000000000000
+      internalID: 191041554893009076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_4
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 384
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b3ee7b254e78060800000000000000
+      internalID: 6955779193421314923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_5
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 362
+        width: 47
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314291c290f527420800000000000000
+      internalID: 2626266025709610003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_6
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 211
+        width: 272
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6dd38c2402fcd40800000000000000
+      internalID: 5606735532298983076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_7
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 410
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ce3e783894bba00800000000000000
+      internalID: 773292590293576793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 285
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2586247a441854a0800000000000000
+      internalID: -6604506543530015441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_9
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 204
+        width: 98
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eea06ee67f4d7ea0800000000000000
+      internalID: -5873450966797209885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_10
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 204
+        width: 91
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bda962326803bac0800000000000000
+      internalID: -3840716839371297357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 253
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123cf8a0ce0718690800000000000000
+      internalID: -7601670536932900063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_12
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cb59a46f3a5fbb0800000000000000
+      internalID: -4902832341114307465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dcb86ef9d0b9a20800000000000000
+      internalID: 3070062551402007861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768a50d288d38be40800000000000000
+      internalID: 5672351385753331815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1
+        width: 384
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6460d8a50684f8230800000000000000
+      internalID: 3643210202239272518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.cower_16
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1
+        width: 72
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37bfe29e7f580030800000000000000
+      internalID: 3461121310869927740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      antiquarian.sprite.cower_0: 5602244027562626755
+      antiquarian.sprite.cower_1: -642985297229909379
+      antiquarian.sprite.cower_10: -3840716839371297357
+      antiquarian.sprite.cower_11: -7601670536932900063
+      antiquarian.sprite.cower_12: -4902832341114307465
+      antiquarian.sprite.cower_13: 3070062551402007861
+      antiquarian.sprite.cower_14: 5672351385753331815
+      antiquarian.sprite.cower_15: 3643210202239272518
+      antiquarian.sprite.cower_16: 3461121310869927740
+      antiquarian.sprite.cower_2: 1528767447521436073
+      antiquarian.sprite.cower_3: 191041554893009076
+      antiquarian.sprite.cower_4: 6955779193421314923
+      antiquarian.sprite.cower_5: 2626266025709610003
+      antiquarian.sprite.cower_6: 5606735532298983076
+      antiquarian.sprite.cower_7: 773292590293576793
+      antiquarian.sprite.cower_8: -6604506543530015441
+      antiquarian.sprite.cower_9: -5873450966797209885
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: b2e877fc3473cca4986522d35b88dc16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1008990464838119033
+    second: arbalest.sprite.battlefield_bandage_target_0
+  - first:
+      213: -8681779449322871514
+    second: arbalest.sprite.battlefield_bandage_target_1
+  - first:
+      213: -3313435313694023276
+    second: arbalest.sprite.battlefield_bandage_target_2
+  - first:
+      213: -7211600247004713825
+    second: arbalest.sprite.battlefield_bandage_target_3
+  - first:
+      213: 3675904505050565547
+    second: arbalest.sprite.battlefield_bandage_target_4
+  - first:
+      213: 7473494823227706202
+    second: arbalest.sprite.battlefield_bandage_target_5
+  - first:
+      213: -7861121112935563898
+    second: arbalest.sprite.battlefield_bandage_target_6
+  - first:
+      213: -8698379570745684823
+    second: arbalest.sprite.battlefield_bandage_target_7
+  - first:
+      213: 8908562755379175685
+    second: arbalest.sprite.battlefield_bandage_target_8
+  - first:
+      213: -1763191407979085401
+    second: arbalest.sprite.battlefield_bandage_target_9
+  - first:
+      213: -1841133473656576362
+    second: arbalest.sprite.battlefield_bandage_target_10
+  - first:
+      213: -2060663266602645886
+    second: arbalest.sprite.battlefield_bandage_target_11
+  - first:
+      213: 4568360359433809513
+    second: arbalest.sprite.battlefield_bandage_target_12
+  - first:
+      213: -8220586679745061100
+    second: arbalest.sprite.battlefield_bandage_target_13
+  - first:
+      213: 2986645727616225858
+    second: arbalest.sprite.battlefield_bandage_target_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 530
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7815191a4885ff1f0800000000000000
+      internalID: -1008990464838119033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_1
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 165
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625e2d0c69f148780800000000000000
+      internalID: -8681779449322871514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_2
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 165
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491680533205402d0800000000000000
+      internalID: -3313435313694023276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 165
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c2a27b8cf3beb90800000000000000
+      internalID: -7211600247004713825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_4
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 175
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab0ccbebaf630330800000000000000
+      internalID: 3675904505050565547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 139
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b453902ff27b760800000000000000
+      internalID: 7473494823227706202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 128
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68df62f6fffa7e290800000000000000
+      internalID: -7861121112935563898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_7
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 92
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac403ccdd5294780800000000000000
+      internalID: -8698379570745684823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_8
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 114
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501a6ad50a291ab70800000000000000
+      internalID: 8908562755379175685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 76
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1c26891c2e787e0800000000000000
+      internalID: -1763191407979085401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 55
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6966e964cdaf276e0800000000000000
+      internalID: -1841133473656576362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 76
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28604784dad0763e0800000000000000
+      internalID: -2060663266602645886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_12
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 39
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e270eea83166f30800000000000000
+      internalID: 4568360359433809513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_13
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1
+        width: 103
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fdc7428fb9aed80800000000000000
+      internalID: -8220586679745061100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest.sprite.battlefield_bandage_target_14
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242d0802772b27920800000000000000
+      internalID: 2986645727616225858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arbalest.sprite.battlefield_bandage_target_0: -1008990464838119033
+      arbalest.sprite.battlefield_bandage_target_1: -8681779449322871514
+      arbalest.sprite.battlefield_bandage_target_10: -1841133473656576362
+      arbalest.sprite.battlefield_bandage_target_11: -2060663266602645886
+      arbalest.sprite.battlefield_bandage_target_12: 4568360359433809513
+      arbalest.sprite.battlefield_bandage_target_13: -8220586679745061100
+      arbalest.sprite.battlefield_bandage_target_14: 2986645727616225858
+      arbalest.sprite.battlefield_bandage_target_2: -3313435313694023276
+      arbalest.sprite.battlefield_bandage_target_3: -7211600247004713825
+      arbalest.sprite.battlefield_bandage_target_4: 3675904505050565547
+      arbalest.sprite.battlefield_bandage_target_5: 7473494823227706202
+      arbalest.sprite.battlefield_bandage_target_6: -7861121112935563898
+      arbalest.sprite.battlefield_bandage_target_7: -8698379570745684823
+      arbalest.sprite.battlefield_bandage_target_8: 8908562755379175685
+      arbalest.sprite.battlefield_bandage_target_9: -1763191407979085401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

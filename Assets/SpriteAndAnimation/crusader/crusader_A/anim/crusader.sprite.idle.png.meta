@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 69e4fdb3d30f3e94080d099b00a6fb3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2516375554297670058
+    second: crusader.sprite.idle_0
+  - first:
+      213: 8430065725945767594
+    second: crusader.sprite.idle_1
+  - first:
+      213: 267576995927413707
+    second: crusader.sprite.idle_2
+  - first:
+      213: 5897794873765836908
+    second: crusader.sprite.idle_3
+  - first:
+      213: -5758984223253531817
+    second: crusader.sprite.idle_4
+  - first:
+      213: -3649552596081416140
+    second: crusader.sprite.idle_5
+  - first:
+      213: -2310536580871438017
+    second: crusader.sprite.idle_6
+  - first:
+      213: -4559735839332477719
+    second: crusader.sprite.idle_7
+  - first:
+      213: 7308901498954283670
+    second: crusader.sprite.idle_8
+  - first:
+      213: -6724142458927403521
+    second: crusader.sprite.idle_9
+  - first:
+      213: -8582477286333438318
+    second: crusader.sprite.idle_10
+  - first:
+      213: -8469125373395164143
+    second: crusader.sprite.idle_11
+  - first:
+      213: 7179727292045532212
+    second: crusader.sprite.idle_12
+  - first:
+      213: 4407183852733935333
+    second: crusader.sprite.idle_13
+  - first:
+      213: -5176457225592963446
+    second: crusader.sprite.idle_14
+  - first:
+      213: 675652019694968952
+    second: crusader.sprite.idle_15
+  - first:
+      213: 7719014375789056132
+    second: crusader.sprite.idle_16
+  - first:
+      213: 8134631963675393868
+    second: crusader.sprite.idle_17
+  - first:
+      213: 1658106087336118366
+    second: crusader.sprite.idle_18
+  - first:
+      213: 8252184506641759132
+    second: crusader.sprite.idle_19
+  - first:
+      213: -8073179564343056117
+    second: crusader.sprite.idle_20
+  - first:
+      213: -1970600073620706868
+    second: crusader.sprite.idle_21
+  - first:
+      213: -5662301406786505204
+    second: crusader.sprite.idle_22
+  - first:
+      213: 2571398458791571450
+    second: crusader.sprite.idle_23
+  - first:
+      213: -4996070637759277814
+    second: crusader.sprite.idle_24
+  - first:
+      213: -7324831781723700195
+    second: crusader.sprite.idle_25
+  - first:
+      213: -5811612891004328794
+    second: crusader.sprite.idle_26
+  - first:
+      213: -2557889842364380745
+    second: crusader.sprite.idle_27
+  - first:
+      213: 3256771597633659462
+    second: crusader.sprite.idle_28
+  - first:
+      213: 8890877256361885386
+    second: crusader.sprite.idle_29
+  - first:
+      213: -8297047147259997101
+    second: crusader.sprite.idle_30
+  - first:
+      213: -4809286512795269000
+    second: crusader.sprite.idle_31
+  - first:
+      213: -5980953270905170077
+    second: crusader.sprite.idle_32
+  - first:
+      213: 7182573640616767686
+    second: crusader.sprite.idle_33
+  - first:
+      213: -7090836972461324438
+    second: crusader.sprite.idle_34
+  - first:
+      213: 4601636725946576273
+    second: crusader.sprite.idle_35
+  - first:
+      213: -92079733973117445
+    second: crusader.sprite.idle_36
+  - first:
+      213: 6228676934608591237
+    second: crusader.sprite.idle_37
+  - first:
+      213: 64644108305475802
+    second: crusader.sprite.idle_38
+  - first:
+      213: -1991823115384761506
+    second: crusader.sprite.idle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crusader.sprite.idle_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 453
+        width: 120
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9a36bfb36fbe220800000000000000
+      internalID: 2516375554297670058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 453
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa661340d1c9df470800000000000000
+      internalID: 8430065725945767594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 524
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3d1503cdf96b300800000000000000
+      internalID: 267576995927413707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 514
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68bee8903d29d150800000000000000
+      internalID: 5897794873765836908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 448
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753f4e18c5af310b0800000000000000
+      internalID: -5758984223253531817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 529
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4386671004f2a5dc0800000000000000
+      internalID: -3649552596081416140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_6
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 433
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31cc90b8335fefd0800000000000000
+      internalID: -2310536580871438017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 471
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e458f2a96098b0c0800000000000000
+      internalID: -4559735839332477719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 521
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a7d77603f6e6560800000000000000
+      internalID: 7308901498954283670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 511
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffda2844f0c0fa2a0800000000000000
+      internalID: -6724142458927403521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 512
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296ac37416ae4e880800000000000000
+      internalID: -8582477286333438318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 451
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114a880285f977a80800000000000000
+      internalID: -8469125373395164143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_12
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 433
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c1d8aaee383a360800000000000000
+      internalID: 7179727292045532212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 162
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee2b022d56792d30800000000000000
+      internalID: 4407183852733935333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 360
+        width: 140
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ef68154978928b0800000000000000
+      internalID: -5176457225592963446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 359
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870a1b1aee5606900800000000000000
+      internalID: 675652019694968952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 359
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4805a0d7da27f1b60800000000000000
+      internalID: 7719014375789056132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 438
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ff86dfba404e070800000000000000
+      internalID: 8134631963675393868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 418
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58059f83b6c20710800000000000000
+      internalID: 1658106087336118366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 65
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b3d5b3616a58270800000000000000
+      internalID: 8252184506641759132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 195
+        width: 171
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09a363b5fd46ff80800000000000000
+      internalID: -8073179564343056117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_21
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 333
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9aa797ca507a4e0800000000000000
+      internalID: -1970600073620706868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 327
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06bb45eed67b61b0800000000000000
+      internalID: -5662301406786505204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_23
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 358
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff224046417fa320800000000000000
+      internalID: 2571398458791571450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_24
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 289
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05599ba9346aaab0800000000000000
+      internalID: -4996070637759277814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_25
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 179
+        width: 143
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d140eda9d48f85a90800000000000000
+      internalID: -7324831781723700195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_26
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 274
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a42b9bedd0095fa0800000000000000
+      internalID: -5811612891004328794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_27
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 326
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b98a4b9dbc808cd0800000000000000
+      internalID: -2557889842364380745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_28
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 284
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642298f4380623d20800000000000000
+      internalID: 3256771597633659462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_29
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 296
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acebc0f32cdb26b70800000000000000
+      internalID: 8890877256361885386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_30
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 217
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35456e64497fadc80800000000000000
+      internalID: -8297047147259997101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_31
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 153
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878c2c5b56bf14db0800000000000000
+      internalID: -4809286512795269000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_32
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 226
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3679c7540b26ffca0800000000000000
+      internalID: -5980953270905170077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1
+        width: 129
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0fb06dba0ada360800000000000000
+      internalID: 7182573640616767686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_34
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1
+        width: 78
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a678c38a759489d90800000000000000
+      internalID: -7090836972461324438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 126
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19def63c83c4cdf30800000000000000
+      internalID: 4601636725946576273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 126
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5158548fdd8bef0800000000000000
+      internalID: -92079733973117445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_37
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 153
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589930ccba4b07650800000000000000
+      internalID: 6228676934608591237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_38
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8ae585979a5e000800000000000000
+      internalID: 64644108305475802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.idle_39
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1
+        width: 106
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5354100e6f9b54e0800000000000000
+      internalID: -1991823115384761506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crusader.sprite.idle_0: 2516375554297670058
+      crusader.sprite.idle_1: 8430065725945767594
+      crusader.sprite.idle_10: -8582477286333438318
+      crusader.sprite.idle_11: -8469125373395164143
+      crusader.sprite.idle_12: 7179727292045532212
+      crusader.sprite.idle_13: 4407183852733935333
+      crusader.sprite.idle_14: -5176457225592963446
+      crusader.sprite.idle_15: 675652019694968952
+      crusader.sprite.idle_16: 7719014375789056132
+      crusader.sprite.idle_17: 8134631963675393868
+      crusader.sprite.idle_18: 1658106087336118366
+      crusader.sprite.idle_19: 8252184506641759132
+      crusader.sprite.idle_2: 267576995927413707
+      crusader.sprite.idle_20: -8073179564343056117
+      crusader.sprite.idle_21: -1970600073620706868
+      crusader.sprite.idle_22: -5662301406786505204
+      crusader.sprite.idle_23: 2571398458791571450
+      crusader.sprite.idle_24: -4996070637759277814
+      crusader.sprite.idle_25: -7324831781723700195
+      crusader.sprite.idle_26: -5811612891004328794
+      crusader.sprite.idle_27: -2557889842364380745
+      crusader.sprite.idle_28: 3256771597633659462
+      crusader.sprite.idle_29: 8890877256361885386
+      crusader.sprite.idle_3: 5897794873765836908
+      crusader.sprite.idle_30: -8297047147259997101
+      crusader.sprite.idle_31: -4809286512795269000
+      crusader.sprite.idle_32: -5980953270905170077
+      crusader.sprite.idle_33: 7182573640616767686
+      crusader.sprite.idle_34: -7090836972461324438
+      crusader.sprite.idle_35: 4601636725946576273
+      crusader.sprite.idle_36: -92079733973117445
+      crusader.sprite.idle_37: 6228676934608591237
+      crusader.sprite.idle_38: 64644108305475802
+      crusader.sprite.idle_39: -1991823115384761506
+      crusader.sprite.idle_4: -5758984223253531817
+      crusader.sprite.idle_5: -3649552596081416140
+      crusader.sprite.idle_6: -2310536580871438017
+      crusader.sprite.idle_7: -4559735839332477719
+      crusader.sprite.idle_8: 7308901498954283670
+      crusader.sprite.idle_9: -6724142458927403521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

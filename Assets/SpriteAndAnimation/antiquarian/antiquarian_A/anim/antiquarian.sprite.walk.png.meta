@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: af7f71b1c718c234f84fa4e7d774b821
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3478312128422873338
+    second: antiquarian.sprite.walk_0
+  - first:
+      213: 8162783666512318761
+    second: antiquarian.sprite.walk_1
+  - first:
+      213: 569563669028089879
+    second: antiquarian.sprite.walk_2
+  - first:
+      213: -5236130338532692631
+    second: antiquarian.sprite.walk_3
+  - first:
+      213: -3630141796375419031
+    second: antiquarian.sprite.walk_4
+  - first:
+      213: -224361003774858729
+    second: antiquarian.sprite.walk_5
+  - first:
+      213: 5937952660854409787
+    second: antiquarian.sprite.walk_6
+  - first:
+      213: 3656245143151190979
+    second: antiquarian.sprite.walk_7
+  - first:
+      213: -7104962598081471913
+    second: antiquarian.sprite.walk_8
+  - first:
+      213: 61070822306378404
+    second: antiquarian.sprite.walk_9
+  - first:
+      213: -3172414084832373313
+    second: antiquarian.sprite.walk_10
+  - first:
+      213: -6456601611554164586
+    second: antiquarian.sprite.walk_11
+  - first:
+      213: -4889875499395035530
+    second: antiquarian.sprite.walk_12
+  - first:
+      213: -8850208809560892673
+    second: antiquarian.sprite.walk_13
+  - first:
+      213: 5568931469491213988
+    second: antiquarian.sprite.walk_14
+  - first:
+      213: 6197823391143130749
+    second: antiquarian.sprite.walk_15
+  - first:
+      213: -6927849942966458844
+    second: antiquarian.sprite.walk_16
+  - first:
+      213: -5561608286584482713
+    second: antiquarian.sprite.walk_17
+  - first:
+      213: 6924673471254461273
+    second: antiquarian.sprite.walk_18
+  - first:
+      213: -6280181352715862853
+    second: antiquarian.sprite.walk_19
+  - first:
+      213: -1816572060524685595
+    second: antiquarian.sprite.walk_20
+  - first:
+      213: 2009676896245384936
+    second: antiquarian.sprite.walk_21
+  - first:
+      213: 118702979197540936
+    second: antiquarian.sprite.walk_22
+  - first:
+      213: -6846154058477747404
+    second: antiquarian.sprite.walk_23
+  - first:
+      213: 4663802801403659604
+    second: antiquarian.sprite.walk_24
+  - first:
+      213: 7871218383916024380
+    second: antiquarian.sprite.walk_25
+  - first:
+      213: -4194251230340299545
+    second: antiquarian.sprite.walk_26
+  - first:
+      213: 4683578498517538184
+    second: antiquarian.sprite.walk_27
+  - first:
+      213: 7855129386071426668
+    second: antiquarian.sprite.walk_28
+  - first:
+      213: -418168374985871078
+    second: antiquarian.sprite.walk_29
+  - first:
+      213: -8160824441129598615
+    second: antiquarian.sprite.walk_30
+  - first:
+      213: -8925080913828038690
+    second: antiquarian.sprite.walk_31
+  - first:
+      213: -7010130065153959895
+    second: antiquarian.sprite.walk_32
+  - first:
+      213: 4815376752587831989
+    second: antiquarian.sprite.walk_33
+  - first:
+      213: -3683890641912064154
+    second: antiquarian.sprite.walk_34
+  - first:
+      213: -4537563904328131305
+    second: antiquarian.sprite.walk_35
+  - first:
+      213: -5300426510926732320
+    second: antiquarian.sprite.walk_36
+  - first:
+      213: 9190032121384242887
+    second: antiquarian.sprite.walk_37
+  - first:
+      213: -7246879167696311072
+    second: antiquarian.sprite.walk_38
+  - first:
+      213: 4601608234487659113
+    second: antiquarian.sprite.walk_39
+  - first:
+      213: 4627522377855888565
+    second: antiquarian.sprite.walk_40
+  - first:
+      213: -8191046806304408066
+    second: antiquarian.sprite.walk_41
+  - first:
+      213: -7212021128443968206
+    second: antiquarian.sprite.walk_42
+  - first:
+      213: 1027102099221189061
+    second: antiquarian.sprite.walk_43
+  - first:
+      213: -8693587351307359566
+    second: antiquarian.sprite.walk_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 360
+        width: 202
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607fb6f4c8d8abfc0800000000000000
+      internalID: -3478312128422873338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 358
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921d3d41f78084170800000000000000
+      internalID: 8162783666512318761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 351
+        width: 71
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7103369a32f77e700800000000000000
+      internalID: 569563669028089879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 496
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dec1603378557b0800000000000000
+      internalID: -5236130338532692631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 351
+        width: 139
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967aebef4452f9dc0800000000000000
+      internalID: -3630141796375419031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 496
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aac841bd8e2ecf0800000000000000
+      internalID: -224361003774858729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 496
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a00530c78d76250800000000000000
+      internalID: 5937952660854409787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 483
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3264906979db230800000000000000
+      internalID: 3656245143151190979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 463
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75adae6292a166d90800000000000000
+      internalID: -7104962598081471913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_9
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 462
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a276bdd697f8d000800000000000000
+      internalID: 61070822306378404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_10
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 344
+        width: 53
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5de11b23259f3d0800000000000000
+      internalID: -3172414084832373313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_11
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 420
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6907917fa0b8566a0800000000000000
+      internalID: -6456601611554164586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_12
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 434
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e4ca6142ca32cb0800000000000000
+      internalID: -4889875499395035530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_13
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 376
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa17166afdbd2580800000000000000
+      internalID: -8850208809560892673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 434
+        width: 61
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a694818aa1d84d40800000000000000
+      internalID: 5568931469491213988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_15
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 393
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7671b96987130650800000000000000
+      internalID: 6197823391143130749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_16
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 339
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4262644ae255bdf90800000000000000
+      internalID: -6927849942966458844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_17
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 333
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7645342eab231d2b0800000000000000
+      internalID: -5561608286584482713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 65
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b71b765d1691060800000000000000
+      internalID: 6924673471254461273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 275
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcb652655058d8a0800000000000000
+      internalID: -6280181352715862853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 275
+        width: 128
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6d687e55d3ac6e0800000000000000
+      internalID: -1816572060524685595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 274
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6040a4d7ec3eb10800000000000000
+      internalID: 2009676896245384936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 193
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a99dc0bb7b5a100800000000000000
+      internalID: 118702979197540936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 325
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433c5d208239df0a0800000000000000
+      internalID: -6846154058477747404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_24
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 186
+        width: 113
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455032020f729b040800000000000000
+      internalID: 4663802801403659604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_25
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 325
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32c6daaa6f2c3d60800000000000000
+      internalID: 7871218383916024380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_26
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 325
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e442d46ab60bc5c0800000000000000
+      internalID: -4194251230340299545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 324
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8859bc964d96ff040800000000000000
+      internalID: 4683578498517538184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_28
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 292
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c660581fe86030d60800000000000000
+      internalID: 7855129386071426668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_29
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 236
+        width: 42
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a113aa8141e523af0800000000000000
+      internalID: -418168374985871078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_30
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 292
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9610520a86deebe80800000000000000
+      internalID: -8160824441129598615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_31
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 230
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed739ab223eb32480800000000000000
+      internalID: -8925080913828038690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_32
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 230
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9285635d8d307be90800000000000000
+      internalID: -7010130065153959895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 229
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bafbadb4a7a3d240800000000000000
+      internalID: 4815376752587831989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 195
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6671271baf030ecc0800000000000000
+      internalID: -3683890641912064154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_35
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1
+        width: 69
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d13e88ba55701c0800000000000000
+      internalID: -4537563904328131305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_36
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 185
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e32622db2a1176b0800000000000000
+      internalID: -5300426510926732320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_37
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 167
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce8985068d898f70800000000000000
+      internalID: 9190032121384242887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_38
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1
+        width: 60
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec6847eac9ed6b90800000000000000
+      internalID: -7246879167696311072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_39
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1
+        width: 157
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a36241f423cdf30800000000000000
+      internalID: 4601608234487659113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_40
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 120
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc6542c513483040800000000000000
+      internalID: 4627522377855888565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_41
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdb0a3e35e835e80800000000000000
+      internalID: -8191046806304408066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_42
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 120
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2354c7e9ef0c9eb90800000000000000
+      internalID: -7212021128443968206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_43
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 96
+        width: 106
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1132cdaeff04e00800000000000000
+      internalID: 1027102099221189061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antiquarian.sprite.walk_44
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baee755d5c2a5780800000000000000
+      internalID: -8693587351307359566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      antiquarian.sprite.walk_0: -3478312128422873338
+      antiquarian.sprite.walk_1: 8162783666512318761
+      antiquarian.sprite.walk_10: -3172414084832373313
+      antiquarian.sprite.walk_11: -6456601611554164586
+      antiquarian.sprite.walk_12: -4889875499395035530
+      antiquarian.sprite.walk_13: -8850208809560892673
+      antiquarian.sprite.walk_14: 5568931469491213988
+      antiquarian.sprite.walk_15: 6197823391143130749
+      antiquarian.sprite.walk_16: -6927849942966458844
+      antiquarian.sprite.walk_17: -5561608286584482713
+      antiquarian.sprite.walk_18: 6924673471254461273
+      antiquarian.sprite.walk_19: -6280181352715862853
+      antiquarian.sprite.walk_2: 569563669028089879
+      antiquarian.sprite.walk_20: -1816572060524685595
+      antiquarian.sprite.walk_21: 2009676896245384936
+      antiquarian.sprite.walk_22: 118702979197540936
+      antiquarian.sprite.walk_23: -6846154058477747404
+      antiquarian.sprite.walk_24: 4663802801403659604
+      antiquarian.sprite.walk_25: 7871218383916024380
+      antiquarian.sprite.walk_26: -4194251230340299545
+      antiquarian.sprite.walk_27: 4683578498517538184
+      antiquarian.sprite.walk_28: 7855129386071426668
+      antiquarian.sprite.walk_29: -418168374985871078
+      antiquarian.sprite.walk_3: -5236130338532692631
+      antiquarian.sprite.walk_30: -8160824441129598615
+      antiquarian.sprite.walk_31: -8925080913828038690
+      antiquarian.sprite.walk_32: -7010130065153959895
+      antiquarian.sprite.walk_33: 4815376752587831989
+      antiquarian.sprite.walk_34: -3683890641912064154
+      antiquarian.sprite.walk_35: -4537563904328131305
+      antiquarian.sprite.walk_36: -5300426510926732320
+      antiquarian.sprite.walk_37: 9190032121384242887
+      antiquarian.sprite.walk_38: -7246879167696311072
+      antiquarian.sprite.walk_39: 4601608234487659113
+      antiquarian.sprite.walk_4: -3630141796375419031
+      antiquarian.sprite.walk_40: 4627522377855888565
+      antiquarian.sprite.walk_41: -8191046806304408066
+      antiquarian.sprite.walk_42: -7212021128443968206
+      antiquarian.sprite.walk_43: 1027102099221189061
+      antiquarian.sprite.walk_44: -8693587351307359566
+      antiquarian.sprite.walk_5: -224361003774858729
+      antiquarian.sprite.walk_6: 5937952660854409787
+      antiquarian.sprite.walk_7: 3656245143151190979
+      antiquarian.sprite.walk_8: -7104962598081471913
+      antiquarian.sprite.walk_9: 61070822306378404
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

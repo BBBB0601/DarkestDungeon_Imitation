@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 81a814b49e392b4488840590292d58a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5275556368109904012
+    second: jester.sprite.finale_0
+  - first:
+      213: 2679364617590963342
+    second: jester.sprite.finale_1
+  - first:
+      213: -9172422715549822911
+    second: jester.sprite.finale_2
+  - first:
+      213: -87079608669424950
+    second: jester.sprite.finale_3
+  - first:
+      213: 2367440051172859441
+    second: jester.sprite.finale_4
+  - first:
+      213: -6386722996963018636
+    second: jester.sprite.finale_5
+  - first:
+      213: 5381457667073979707
+    second: jester.sprite.finale_6
+  - first:
+      213: 2746282459891052395
+    second: jester.sprite.finale_7
+  - first:
+      213: 5431804482570680744
+    second: jester.sprite.finale_8
+  - first:
+      213: 4872733812149046058
+    second: jester.sprite.finale_9
+  - first:
+      213: -6666597157576103655
+    second: jester.sprite.finale_10
+  - first:
+      213: 4948255157974379670
+    second: jester.sprite.finale_11
+  - first:
+      213: -4906186567484120039
+    second: jester.sprite.finale_12
+  - first:
+      213: -5729355951947006981
+    second: jester.sprite.finale_13
+  - first:
+      213: -2013814648296018757
+    second: jester.sprite.finale_14
+  - first:
+      213: -9006924877637479503
+    second: jester.sprite.finale_15
+  - first:
+      213: -488035364769167630
+    second: jester.sprite.finale_16
+  - first:
+      213: -3768622433565068167
+    second: jester.sprite.finale_17
+  - first:
+      213: -3484575980300338662
+    second: jester.sprite.finale_18
+  - first:
+      213: -897286525590170205
+    second: jester.sprite.finale_19
+  - first:
+      213: -1099661448826503070
+    second: jester.sprite.finale_20
+  - first:
+      213: -2055980101161011630
+    second: jester.sprite.finale_21
+  - first:
+      213: -7208166257521794922
+    second: jester.sprite.finale_22
+  - first:
+      213: 2952978959199214716
+    second: jester.sprite.finale_23
+  - first:
+      213: 6692674304842044422
+    second: jester.sprite.finale_24
+  - first:
+      213: -1794079260254615774
+    second: jester.sprite.finale_25
+  - first:
+      213: -4032850517782451745
+    second: jester.sprite.finale_26
+  - first:
+      213: 413410327570268250
+    second: jester.sprite.finale_27
+  - first:
+      213: -5952911541820023796
+    second: jester.sprite.finale_28
+  - first:
+      213: -7175946550704509377
+    second: jester.sprite.finale_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jester.sprite.finale_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 1659
+        height: 857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80adb1d09a863940800000000000000
+      internalID: 5275556368109904012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_1
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 842
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c724f7ce30f2520800000000000000
+      internalID: 2679364617590963342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_2
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 845
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140dde5432205b080800000000000000
+      internalID: -9172422715549822911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_3
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 845
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2341aae81aacef0800000000000000
+      internalID: -87079608669424950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_4
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 838
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ed03dee26dad020800000000000000
+      internalID: 2367440051172859441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_5
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 833
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4787337c54dcd57a0800000000000000
+      internalID: -6386722996963018636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_6
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 844
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b353fbb6c37ceaa40800000000000000
+      internalID: 5381457667073979707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_7
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 832
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f21bac851cc1620800000000000000
+      internalID: 2746282459891052395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_8
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 849
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9fff0e565a16b40800000000000000
+      internalID: 5431804482570680744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_9
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 848
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bcd26d59d6f9340800000000000000
+      internalID: 4872733812149046058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_10
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 844
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9192c02d43d7b73a0800000000000000
+      internalID: -6666597157576103655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_11
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 837
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cae0569dbbba440800000000000000
+      internalID: 4948255157974379670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_12
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 846
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914e05b9f49b9ebb0800000000000000
+      internalID: -4906186567484120039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_13
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 845
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbbd6cfd1d3d70b0800000000000000
+      internalID: -5729355951947006981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_14
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 845
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc66dc3f3e7d04e0800000000000000
+      internalID: -2013814648296018757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_15
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 587
+        width: 330
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b31ac56b89f00380800000000000000
+      internalID: -9006924877637479503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_16
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 500
+        width: 270
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f60b15eb662a39f0800000000000000
+      internalID: -488035364769167630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_17
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 421
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97439ca1dd923bbc0800000000000000
+      internalID: -3768622433565068167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_18
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 413
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1af655ab9c44afc0800000000000000
+      internalID: -3484575980300338662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_19
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 130
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a51474b8a23c83f0800000000000000
+      internalID: -897286525590170205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_20
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 50
+        width: 402
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26041811db73db0f0800000000000000
+      internalID: -1099661448826503070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_21
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1
+        width: 74
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256b605bdf0b773e0800000000000000
+      internalID: -2055980101161011630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_22
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 1
+        width: 114
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690e472baf277fb90800000000000000
+      internalID: -7208166257521794922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_23
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 14
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c9544c7b61bf820800000000000000
+      internalID: 2952978959199214716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_24
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 10
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6049e7922d721ec50800000000000000
+      internalID: 6692674304842044422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_25
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227c0a11b662a17e0800000000000000
+      internalID: -1794079260254615774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_26
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 12
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9a35f22df6808c0800000000000000
+      internalID: -4032850517782451745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_27
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 14
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50cd49a08abcb500800000000000000
+      internalID: 413410327570268250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_28
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 12
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c9e7a1e72036da0800000000000000
+      internalID: -5952911541820023796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.finale_29
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 14
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e6116c1aae96c90800000000000000
+      internalID: -7175946550704509377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jester.sprite.finale_0: 5275556368109904012
+      jester.sprite.finale_1: 2679364617590963342
+      jester.sprite.finale_10: -6666597157576103655
+      jester.sprite.finale_11: 4948255157974379670
+      jester.sprite.finale_12: -4906186567484120039
+      jester.sprite.finale_13: -5729355951947006981
+      jester.sprite.finale_14: -2013814648296018757
+      jester.sprite.finale_15: -9006924877637479503
+      jester.sprite.finale_16: -488035364769167630
+      jester.sprite.finale_17: -3768622433565068167
+      jester.sprite.finale_18: -3484575980300338662
+      jester.sprite.finale_19: -897286525590170205
+      jester.sprite.finale_2: -9172422715549822911
+      jester.sprite.finale_20: -1099661448826503070
+      jester.sprite.finale_21: -2055980101161011630
+      jester.sprite.finale_22: -7208166257521794922
+      jester.sprite.finale_23: 2952978959199214716
+      jester.sprite.finale_24: 6692674304842044422
+      jester.sprite.finale_25: -1794079260254615774
+      jester.sprite.finale_26: -4032850517782451745
+      jester.sprite.finale_27: 413410327570268250
+      jester.sprite.finale_28: -5952911541820023796
+      jester.sprite.finale_29: -7175946550704509377
+      jester.sprite.finale_3: -87079608669424950
+      jester.sprite.finale_4: 2367440051172859441
+      jester.sprite.finale_5: -6386722996963018636
+      jester.sprite.finale_6: 5381457667073979707
+      jester.sprite.finale_7: 2746282459891052395
+      jester.sprite.finale_8: 5431804482570680744
+      jester.sprite.finale_9: 4872733812149046058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

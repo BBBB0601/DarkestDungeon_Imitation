@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 3fc682241d82fe64785443ec4e30b67b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6542693285934133710
+    second: grave_robber.sprite.idle_0
+  - first:
+      213: -5843997355298397468
+    second: grave_robber.sprite.idle_1
+  - first:
+      213: 655211156351471033
+    second: grave_robber.sprite.idle_2
+  - first:
+      213: 3900674499655243898
+    second: grave_robber.sprite.idle_3
+  - first:
+      213: -2410299316590443814
+    second: grave_robber.sprite.idle_4
+  - first:
+      213: -3596095791792879780
+    second: grave_robber.sprite.idle_5
+  - first:
+      213: -7469253782096103608
+    second: grave_robber.sprite.idle_6
+  - first:
+      213: -7456884609409585080
+    second: grave_robber.sprite.idle_7
+  - first:
+      213: -8922473775450621569
+    second: grave_robber.sprite.idle_8
+  - first:
+      213: 8644048037786235465
+    second: grave_robber.sprite.idle_9
+  - first:
+      213: -8537167308738499524
+    second: grave_robber.sprite.idle_10
+  - first:
+      213: -3339194703434329717
+    second: grave_robber.sprite.idle_11
+  - first:
+      213: -1605024566040126829
+    second: grave_robber.sprite.idle_12
+  - first:
+      213: 5901105209914600748
+    second: grave_robber.sprite.idle_13
+  - first:
+      213: -1800583419094085717
+    second: grave_robber.sprite.idle_14
+  - first:
+      213: -7745824633000096532
+    second: grave_robber.sprite.idle_15
+  - first:
+      213: 7090292710742569793
+    second: grave_robber.sprite.idle_16
+  - first:
+      213: -559879000087640663
+    second: grave_robber.sprite.idle_17
+  - first:
+      213: 8984174428373794270
+    second: grave_robber.sprite.idle_18
+  - first:
+      213: 604410812431375813
+    second: grave_robber.sprite.idle_19
+  - first:
+      213: -4299995019385666786
+    second: grave_robber.sprite.idle_20
+  - first:
+      213: -4660656152385579427
+    second: grave_robber.sprite.idle_21
+  - first:
+      213: -2505869069075845885
+    second: grave_robber.sprite.idle_22
+  - first:
+      213: 6647589136588241787
+    second: grave_robber.sprite.idle_23
+  - first:
+      213: -1584878401728235400
+    second: grave_robber.sprite.idle_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 367
+        width: 85
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1ff6ef0e05cca50800000000000000
+      internalID: 6542693285934133710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 367
+        width: 59
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2ed114e53f5eea0800000000000000
+      internalID: -5843997355298397468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 514
+        width: 115
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdc3334317c71900800000000000000
+      internalID: 655211156351471033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 333
+        width: 75
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7810607acaf12630800000000000000
+      internalID: 3900674499655243898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 502
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad28248ba85ec8ed0800000000000000
+      internalID: -2410299316590443814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 502
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5788e72ee9181ec0800000000000000
+      internalID: -3596095791792879780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 502
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8473bec4241e75890800000000000000
+      internalID: -7469253782096103608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 443
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840701db4f2d38890800000000000000
+      internalID: -7456884609409585080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 328
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79f680ef510d2480800000000000000
+      internalID: -8922473775450621569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 419
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94239a964e3d5f770800000000000000
+      internalID: 8644048037786235465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 411
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c60968093e58980800000000000000
+      internalID: -8537167308738499524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 275
+        width: 115
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b815ee9eb1cc8a1d0800000000000000
+      internalID: -3339194703434329717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 206
+        width: 63
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a176539aec9b9e0800000000000000
+      internalID: -1605024566040126829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 206
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2daa2b4cefe4e150800000000000000
+      internalID: 5901105209914600748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 205
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf40749bea0307e0800000000000000
+      internalID: -1800583419094085717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 320
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec0f81198d418490800000000000000
+      internalID: -7745824633000096532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 317
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1433a5987a7c56260800000000000000
+      internalID: 7090292710742569793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 206
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5439a0409ea38f0800000000000000
+      internalID: -559879000087640663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 233
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd3e5bda033eac70800000000000000
+      internalID: 8984174428373794270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 115
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd906d7e6c436800800000000000000
+      internalID: 604410812431375813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 199
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13819def495354c0800000000000000
+      internalID: -4299995019385666786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 66
+        width: 145
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5691d03ce5025fb0800000000000000
+      internalID: -4660656152385579427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 67
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d681cbb5d593dd0800000000000000
+      internalID: -2505869069075845885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b761b691bf04c50800000000000000
+      internalID: 6647589136588241787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.idle_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 359
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878bccc9d71610ae0800000000000000
+      internalID: -1584878401728235400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      grave_robber.sprite.idle_0: 6542693285934133710
+      grave_robber.sprite.idle_1: -5843997355298397468
+      grave_robber.sprite.idle_10: -8537167308738499524
+      grave_robber.sprite.idle_11: -3339194703434329717
+      grave_robber.sprite.idle_12: -1605024566040126829
+      grave_robber.sprite.idle_13: 5901105209914600748
+      grave_robber.sprite.idle_14: -1800583419094085717
+      grave_robber.sprite.idle_15: -7745824633000096532
+      grave_robber.sprite.idle_16: 7090292710742569793
+      grave_robber.sprite.idle_17: -559879000087640663
+      grave_robber.sprite.idle_18: 8984174428373794270
+      grave_robber.sprite.idle_19: 604410812431375813
+      grave_robber.sprite.idle_2: 655211156351471033
+      grave_robber.sprite.idle_20: -4299995019385666786
+      grave_robber.sprite.idle_21: -4660656152385579427
+      grave_robber.sprite.idle_22: -2505869069075845885
+      grave_robber.sprite.idle_23: 6647589136588241787
+      grave_robber.sprite.idle_24: -1584878401728235400
+      grave_robber.sprite.idle_3: 3900674499655243898
+      grave_robber.sprite.idle_4: -2410299316590443814
+      grave_robber.sprite.idle_5: -3596095791792879780
+      grave_robber.sprite.idle_6: -7469253782096103608
+      grave_robber.sprite.idle_7: -7456884609409585080
+      grave_robber.sprite.idle_8: -8922473775450621569
+      grave_robber.sprite.idle_9: 8644048037786235465
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

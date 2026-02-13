@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: e690cc816d89ef947908c83f0b988629
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8127534485892434077
+    second: grave_robber.sprite.toxin_trickery_0
+  - first:
+      213: 305554925632926003
+    second: grave_robber.sprite.toxin_trickery_1
+  - first:
+      213: 2769680324054627583
+    second: grave_robber.sprite.toxin_trickery_2
+  - first:
+      213: 1036551728007247836
+    second: grave_robber.sprite.toxin_trickery_3
+  - first:
+      213: 197538144948963487
+    second: grave_robber.sprite.toxin_trickery_4
+  - first:
+      213: -6386539915286952813
+    second: grave_robber.sprite.toxin_trickery_5
+  - first:
+      213: -270605184134143379
+    second: grave_robber.sprite.toxin_trickery_6
+  - first:
+      213: 8003057816119291766
+    second: grave_robber.sprite.toxin_trickery_7
+  - first:
+      213: 3071723646720049562
+    second: grave_robber.sprite.toxin_trickery_8
+  - first:
+      213: 6334161800917857562
+    second: grave_robber.sprite.toxin_trickery_9
+  - first:
+      213: 3715683442954454744
+    second: grave_robber.sprite.toxin_trickery_10
+  - first:
+      213: 5781301871841014504
+    second: grave_robber.sprite.toxin_trickery_11
+  - first:
+      213: 2766129423176100371
+    second: grave_robber.sprite.toxin_trickery_12
+  - first:
+      213: -5897829772855541864
+    second: grave_robber.sprite.toxin_trickery_13
+  - first:
+      213: -5449290985484567969
+    second: grave_robber.sprite.toxin_trickery_14
+  - first:
+      213: 8555993207885499726
+    second: grave_robber.sprite.toxin_trickery_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 762
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367f4a45272353f80800000000000000
+      internalID: -8127534485892434077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_1
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 365
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331b8b1069c8d3400800000000000000
+      internalID: 305554925632926003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_2
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 302
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff43aa09491ef6620800000000000000
+      internalID: 2769680324054627583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_3
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 346
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd770330e42926e00800000000000000
+      internalID: 1036551728007247836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_4
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 346
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98c54f65ebcdb200800000000000000
+      internalID: 197538144948963487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 309
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394c77dc8c37e57a0800000000000000
+      internalID: -6386539915286952813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 273
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d622e4dc40e9e3cf0800000000000000
+      internalID: -270605184134143379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_7
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 309
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f24b68ea2901f60800000000000000
+      internalID: 8003057816119291766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_8
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 273
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a918aeac164f0aa20800000000000000
+      internalID: 3071723646720049562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_9
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 309
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15be8d199677e750800000000000000
+      internalID: 6334161800917857562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_10
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 199
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6c913a762c09330800000000000000
+      internalID: 3715683442954454744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_11
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 199
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2726afb6f4b3050800000000000000
+      internalID: 5781301871841014504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_12
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 194
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aea270e04436620800000000000000
+      internalID: 2766129423176100371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_13
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 199
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ff833d113b62ea0800000000000000
+      internalID: -5897829772855541864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_14
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 199
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a347468ba3064b0800000000000000
+      internalID: -5449290985484567969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave_robber.sprite.toxin_trickery_15
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1
+        width: 198
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d8ba0bd7efcb670800000000000000
+      internalID: 8555993207885499726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      grave_robber.sprite.toxin_trickery_0: -8127534485892434077
+      grave_robber.sprite.toxin_trickery_1: 305554925632926003
+      grave_robber.sprite.toxin_trickery_10: 3715683442954454744
+      grave_robber.sprite.toxin_trickery_11: 5781301871841014504
+      grave_robber.sprite.toxin_trickery_12: 2766129423176100371
+      grave_robber.sprite.toxin_trickery_13: -5897829772855541864
+      grave_robber.sprite.toxin_trickery_14: -5449290985484567969
+      grave_robber.sprite.toxin_trickery_15: 8555993207885499726
+      grave_robber.sprite.toxin_trickery_2: 2769680324054627583
+      grave_robber.sprite.toxin_trickery_3: 1036551728007247836
+      grave_robber.sprite.toxin_trickery_4: 197538144948963487
+      grave_robber.sprite.toxin_trickery_5: -6386539915286952813
+      grave_robber.sprite.toxin_trickery_6: -270605184134143379
+      grave_robber.sprite.toxin_trickery_7: 8003057816119291766
+      grave_robber.sprite.toxin_trickery_8: 3071723646720049562
+      grave_robber.sprite.toxin_trickery_9: 6334161800917857562
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

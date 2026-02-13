@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 1bda198f40735d644ac31819d871820c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8382103973090991881
+    second: jester.sprite.solo_0
+  - first:
+      213: 3376142582825815027
+    second: jester.sprite.solo_1
+  - first:
+      213: 1186666625934421275
+    second: jester.sprite.solo_2
+  - first:
+      213: -3195761012981243713
+    second: jester.sprite.solo_3
+  - first:
+      213: -1721125830171429358
+    second: jester.sprite.solo_4
+  - first:
+      213: 7002431531712850721
+    second: jester.sprite.solo_5
+  - first:
+      213: -491993386636068351
+    second: jester.sprite.solo_6
+  - first:
+      213: 4544723834403733946
+    second: jester.sprite.solo_7
+  - first:
+      213: -7522367428582179908
+    second: jester.sprite.solo_8
+  - first:
+      213: -7119480260439570242
+    second: jester.sprite.solo_9
+  - first:
+      213: -8309163272632423326
+    second: jester.sprite.solo_10
+  - first:
+      213: -162306417041539718
+    second: jester.sprite.solo_11
+  - first:
+      213: 5710398604334241058
+    second: jester.sprite.solo_12
+  - first:
+      213: 3599819841872036303
+    second: jester.sprite.solo_13
+  - first:
+      213: -2542508217585052477
+    second: jester.sprite.solo_14
+  - first:
+      213: 8647720575207674960
+    second: jester.sprite.solo_15
+  - first:
+      213: 8361347789423651540
+    second: jester.sprite.solo_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jester.sprite.solo_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 470
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f9a7a3727335470800000000000000
+      internalID: 8382103973090991881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_1
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 381
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb0760aac77ade20800000000000000
+      internalID: 3376142582825815027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_2
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 319
+        width: 135
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1de1a15203e77010800000000000000
+      internalID: 1186666625934421275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_3
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 319
+        width: 92
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0e5326a4066a3d0800000000000000
+      internalID: -3195761012981243713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_4
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 319
+        width: 85
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216f1e62d255d18e0800000000000000
+      internalID: -1721125830171429358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_5
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 279
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b2dbba062ad2160800000000000000
+      internalID: 7002431531712850721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_6
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 319
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a37bd1f961c29f0800000000000000
+      internalID: -491993386636068351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_7
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 4
+        width: 321
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1c2e79f3a121f30800000000000000
+      internalID: 4544723834403733946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_8
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1
+        width: 536
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbf36dcdae2b9790800000000000000
+      internalID: -7522367428582179908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_9
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 195
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8081b7c66823d90800000000000000
+      internalID: -7119480260439570242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_10
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 110
+        width: 131
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ca502070cefac80800000000000000
+      internalID: -8309163272632423326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_11
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 184
+        width: 86
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7df8737c2f5fbdf0800000000000000
+      internalID: -162306417041539718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_12
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 154
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2259a3196496f3f40800000000000000
+      internalID: 5710398604334241058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 65
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc18f22d21125f130800000000000000
+      internalID: 3599819841872036303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_14
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 73
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4d4543f3237bcd0800000000000000
+      internalID: -2542508217585052477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_15
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1
+        width: 117
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054171aab00e20870800000000000000
+      internalID: 8647720575207674960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.solo_16
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da2810a389790470800000000000000
+      internalID: 8361347789423651540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jester.sprite.solo_0: 8382103973090991881
+      jester.sprite.solo_1: 3376142582825815027
+      jester.sprite.solo_10: -8309163272632423326
+      jester.sprite.solo_11: -162306417041539718
+      jester.sprite.solo_12: 5710398604334241058
+      jester.sprite.solo_13: 3599819841872036303
+      jester.sprite.solo_14: -2542508217585052477
+      jester.sprite.solo_15: 8647720575207674960
+      jester.sprite.solo_16: 8361347789423651540
+      jester.sprite.solo_2: 1186666625934421275
+      jester.sprite.solo_3: -3195761012981243713
+      jester.sprite.solo_4: -1721125830171429358
+      jester.sprite.solo_5: 7002431531712850721
+      jester.sprite.solo_6: -491993386636068351
+      jester.sprite.solo_7: 4544723834403733946
+      jester.sprite.solo_8: -7522367428582179908
+      jester.sprite.solo_9: -7119480260439570242
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

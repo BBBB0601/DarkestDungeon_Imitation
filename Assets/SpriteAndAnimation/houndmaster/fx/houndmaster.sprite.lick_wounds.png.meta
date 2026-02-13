@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 8d5f684e919eec441a916eb351be1a3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9110273882033942972
+    second: houndmaster.sprite.lick_wounds_0
+  - first:
+      213: 404520073655520252
+    second: houndmaster.sprite.lick_wounds_1
+  - first:
+      213: 6321695021787311135
+    second: houndmaster.sprite.lick_wounds_2
+  - first:
+      213: 179025454341197958
+    second: houndmaster.sprite.lick_wounds_3
+  - first:
+      213: -3139640588355725283
+    second: houndmaster.sprite.lick_wounds_4
+  - first:
+      213: 500026270106322543
+    second: houndmaster.sprite.lick_wounds_5
+  - first:
+      213: 721601198521340241
+    second: houndmaster.sprite.lick_wounds_6
+  - first:
+      213: 186877113135294002
+    second: houndmaster.sprite.lick_wounds_7
+  - first:
+      213: 5315411941071282129
+    second: houndmaster.sprite.lick_wounds_8
+  - first:
+      213: 2851975904677673203
+    second: houndmaster.sprite.lick_wounds_9
+  - first:
+      213: -9012506930505950434
+    second: houndmaster.sprite.lick_wounds_10
+  - first:
+      213: 7242407644725721727
+    second: houndmaster.sprite.lick_wounds_11
+  - first:
+      213: -6205431705830655124
+    second: houndmaster.sprite.lick_wounds_12
+  - first:
+      213: 3365193674622788616
+    second: houndmaster.sprite.lick_wounds_13
+  - first:
+      213: 6348523568058201862
+    second: houndmaster.sprite.lick_wounds_14
+  - first:
+      213: -4139917212513932019
+    second: houndmaster.sprite.lick_wounds_15
+  - first:
+      213: 65247925649577257
+    second: houndmaster.sprite.lick_wounds_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 219
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1f621d3d13e6e70800000000000000
+      internalID: 9110273882033942972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 515
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb80ce1dd42d9500800000000000000
+      internalID: 404520073655520252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1
+        width: 500
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cecf7e02c2bb750800000000000000
+      internalID: 6321695021787311135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 515
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68092c3c3b60c7200800000000000000
+      internalID: 179025454341197958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 515
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1898a8f481cd64d0800000000000000
+      internalID: -3139640588355725283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 515
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f660d005e3370f600800000000000000
+      internalID: 500026270106322543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 515
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1515c538774a30a00800000000000000
+      internalID: 721601198521340241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 515
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23664198ebbe79200800000000000000
+      internalID: 186877113135294002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 515
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df5c668ff224c940800000000000000
+      internalID: 5315411941071282129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_9
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 515
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8394299f0449720800000000000000
+      internalID: 2851975904677673203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 508
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b527f62b42de280800000000000000
+      internalID: -9012506930505950434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_11
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 504
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a33768163328460800000000000000
+      internalID: 7242407644725721727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 405
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b7408cdb0e1e9a0800000000000000
+      internalID: -6205431705830655124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_13
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 468
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804684841d193be20800000000000000
+      internalID: 3365193674622788616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_14
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 405
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607fd4a9c8c7a1850800000000000000
+      internalID: 6348523568058201862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1
+        width: 231
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de49cba3f0c86c0800000000000000
+      internalID: -4139917212513932019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndmaster.sprite.lick_wounds_16
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 405
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9259ca684aec7e000800000000000000
+      internalID: 65247925649577257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      houndmaster.sprite.lick_wounds_0: 9110273882033942972
+      houndmaster.sprite.lick_wounds_1: 404520073655520252
+      houndmaster.sprite.lick_wounds_10: -9012506930505950434
+      houndmaster.sprite.lick_wounds_11: 7242407644725721727
+      houndmaster.sprite.lick_wounds_12: -6205431705830655124
+      houndmaster.sprite.lick_wounds_13: 3365193674622788616
+      houndmaster.sprite.lick_wounds_14: 6348523568058201862
+      houndmaster.sprite.lick_wounds_15: -4139917212513932019
+      houndmaster.sprite.lick_wounds_16: 65247925649577257
+      houndmaster.sprite.lick_wounds_2: 6321695021787311135
+      houndmaster.sprite.lick_wounds_3: 179025454341197958
+      houndmaster.sprite.lick_wounds_4: -3139640588355725283
+      houndmaster.sprite.lick_wounds_5: 500026270106322543
+      houndmaster.sprite.lick_wounds_6: 721601198521340241
+      houndmaster.sprite.lick_wounds_7: 186877113135294002
+      houndmaster.sprite.lick_wounds_8: 5315411941071282129
+      houndmaster.sprite.lick_wounds_9: 2851975904677673203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

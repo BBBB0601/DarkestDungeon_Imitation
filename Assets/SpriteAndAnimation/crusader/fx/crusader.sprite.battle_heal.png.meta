@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 58cf13bf022455c4db2468a1e1de9dc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4604418199671098112
+    second: crusader.sprite.battle_heal_0
+  - first:
+      213: -4411305391540617908
+    second: crusader.sprite.battle_heal_1
+  - first:
+      213: 443457904765793307
+    second: crusader.sprite.battle_heal_2
+  - first:
+      213: -6789804520089566455
+    second: crusader.sprite.battle_heal_3
+  - first:
+      213: -5172467212426362160
+    second: crusader.sprite.battle_heal_4
+  - first:
+      213: -7961458165252520248
+    second: crusader.sprite.battle_heal_5
+  - first:
+      213: -2709371726956389596
+    second: crusader.sprite.battle_heal_6
+  - first:
+      213: -9005754556424961961
+    second: crusader.sprite.battle_heal_7
+  - first:
+      213: 1524862846399992270
+    second: crusader.sprite.battle_heal_8
+  - first:
+      213: -390491137716961597
+    second: crusader.sprite.battle_heal_9
+  - first:
+      213: 9089789709242464259
+    second: crusader.sprite.battle_heal_10
+  - first:
+      213: -3511924274734911184
+    second: crusader.sprite.battle_heal_11
+  - first:
+      213: -3816894374601715239
+    second: crusader.sprite.battle_heal_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 477
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b4db415fd26ef30800000000000000
+      internalID: 4604418199671098112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 592
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4db4755e15e7c2c0800000000000000
+      internalID: -4411305391540617908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 593
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1477666d9a772600800000000000000
+      internalID: 443457904765793307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 594
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90348bd43c4c5c1a0800000000000000
+      internalID: -6789804520089566455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_4
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 462
+        width: 267
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c8f6a974b738b0800000000000000
+      internalID: -5172467212426362160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_5
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 377
+        width: 297
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c68df5faf7338190800000000000000
+      internalID: -7961458165252520248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_6
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 377
+        width: 236
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b174ae4c0666ad0800000000000000
+      internalID: -2709371726956389596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_7
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1
+        width: 457
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7504fe902f1250380800000000000000
+      internalID: -9005754556424961961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_8
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 233
+        width: 190
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1dcd20ea6692510800000000000000
+      internalID: 1524862846399992270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_9
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1
+        width: 326
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce31701162b49af0800000000000000
+      internalID: -390491137716961597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_10
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1
+        width: 370
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308f56ea49b652e70800000000000000
+      internalID: 9089789709242464259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_11
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 168
+        width: 155
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031ba56aa73234fc0800000000000000
+      internalID: -3511924274734911184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader.sprite.battle_heal_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 23
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d19da00acaa70bc0800000000000000
+      internalID: -3816894374601715239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crusader.sprite.battle_heal_0: 4604418199671098112
+      crusader.sprite.battle_heal_1: -4411305391540617908
+      crusader.sprite.battle_heal_10: 9089789709242464259
+      crusader.sprite.battle_heal_11: -3511924274734911184
+      crusader.sprite.battle_heal_12: -3816894374601715239
+      crusader.sprite.battle_heal_2: 443457904765793307
+      crusader.sprite.battle_heal_3: -6789804520089566455
+      crusader.sprite.battle_heal_4: -5172467212426362160
+      crusader.sprite.battle_heal_5: -7961458165252520248
+      crusader.sprite.battle_heal_6: -2709371726956389596
+      crusader.sprite.battle_heal_7: -9005754556424961961
+      crusader.sprite.battle_heal_8: 1524862846399992270
+      crusader.sprite.battle_heal_9: -390491137716961597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

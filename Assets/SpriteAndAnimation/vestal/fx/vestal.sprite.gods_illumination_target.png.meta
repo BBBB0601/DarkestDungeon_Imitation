@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 95652a0349e53a641bca602ed79f10a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4872306308302286629
+    second: vestal.sprite.gods_illumination_target_0
+  - first:
+      213: -5626301460159630943
+    second: vestal.sprite.gods_illumination_target_1
+  - first:
+      213: -6663454984198694882
+    second: vestal.sprite.gods_illumination_target_2
+  - first:
+      213: 2844694289693184578
+    second: vestal.sprite.gods_illumination_target_3
+  - first:
+      213: -3144259751582764351
+    second: vestal.sprite.gods_illumination_target_4
+  - first:
+      213: 3558333343685271287
+    second: vestal.sprite.gods_illumination_target_5
+  - first:
+      213: -4758842001311765782
+    second: vestal.sprite.gods_illumination_target_6
+  - first:
+      213: 5449425288613871879
+    second: vestal.sprite.gods_illumination_target_7
+  - first:
+      213: 7505345521785812646
+    second: vestal.sprite.gods_illumination_target_8
+  - first:
+      213: -831095058805704738
+    second: vestal.sprite.gods_illumination_target_9
+  - first:
+      213: 4965297616652803675
+    second: vestal.sprite.gods_illumination_target_10
+  - first:
+      213: 7996567883262059212
+    second: vestal.sprite.gods_illumination_target_11
+  - first:
+      213: -6817473876655867820
+    second: vestal.sprite.gods_illumination_target_12
+  - first:
+      213: 2802545226330346900
+    second: vestal.sprite.gods_illumination_target_13
+  - first:
+      213: -6545284318561147014
+    second: vestal.sprite.gods_illumination_target_14
+  - first:
+      213: 716739488359812148
+    second: vestal.sprite.gods_illumination_target_15
+  - first:
+      213: -5042420808694310371
+    second: vestal.sprite.gods_illumination_target_16
+  - first:
+      213: 2110898781735009901
+    second: vestal.sprite.gods_illumination_target_17
+  - first:
+      213: 8324100021571201142
+    second: vestal.sprite.gods_illumination_target_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 545
+        width: 562
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fa047d5c8ed9340800000000000000
+      internalID: 4872306308302286629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_1
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 419
+        width: 27
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a17ce3a1ac5be1b0800000000000000
+      internalID: -5626301460159630943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_2
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 195
+        width: 147
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18d7021ff6a683a0800000000000000
+      internalID: -6663454984198694882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 273
+        width: 93
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2429eb772626a7720800000000000000
+      internalID: 2844694289693184578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 273
+        width: 92
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2f9593a685d54d0800000000000000
+      internalID: -3144259751582764351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 403
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fed9ceb25db16130800000000000000
+      internalID: 3558333343685271287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_6
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 401
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea6a99c96235fdb0800000000000000
+      internalID: -4758842001311765782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 358
+        width: 126
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7014cdd7d6f30ab40800000000000000
+      internalID: 5449425288613871879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 358
+        width: 132
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6bc9eacf7582860800000000000000
+      internalID: 7505345521785812646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 242
+        width: 188
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7bd45827b5774f0800000000000000
+      internalID: -831095058805704738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 241
+        width: 183
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e1fa400e748e440800000000000000
+      internalID: 4965297616652803675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 242
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2e1284f1489fe60800000000000000
+      internalID: 7996567883262059212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 195
+        width: 27
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458fb6431a77361a0800000000000000
+      internalID: -6817473876655867820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_13
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 243
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495136ae804a4e620800000000000000
+      internalID: 2802545226330346900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 191
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a776a36379a7a25a0800000000000000
+      internalID: -6545284318561147014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 98
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c8e2864ce52f900800000000000000
+      internalID: 716739488359812148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 87
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1adcb98df8b50ab0800000000000000
+      internalID: -5042420808694310371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 124
+        width: 181
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ebe1a024b6b4d10800000000000000
+      internalID: 2110898781735009901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vestal.sprite.gods_illumination_target_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1
+        width: 538
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a29cddd4258370800000000000000
+      internalID: 8324100021571201142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vestal.sprite.gods_illumination_target_0: 4872306308302286629
+      vestal.sprite.gods_illumination_target_1: -5626301460159630943
+      vestal.sprite.gods_illumination_target_10: 4965297616652803675
+      vestal.sprite.gods_illumination_target_11: 7996567883262059212
+      vestal.sprite.gods_illumination_target_12: -6817473876655867820
+      vestal.sprite.gods_illumination_target_13: 2802545226330346900
+      vestal.sprite.gods_illumination_target_14: -6545284318561147014
+      vestal.sprite.gods_illumination_target_15: 716739488359812148
+      vestal.sprite.gods_illumination_target_16: -5042420808694310371
+      vestal.sprite.gods_illumination_target_17: 2110898781735009901
+      vestal.sprite.gods_illumination_target_18: 8324100021571201142
+      vestal.sprite.gods_illumination_target_2: -6663454984198694882
+      vestal.sprite.gods_illumination_target_3: 2844694289693184578
+      vestal.sprite.gods_illumination_target_4: -3144259751582764351
+      vestal.sprite.gods_illumination_target_5: 3558333343685271287
+      vestal.sprite.gods_illumination_target_6: -4758842001311765782
+      vestal.sprite.gods_illumination_target_7: 5449425288613871879
+      vestal.sprite.gods_illumination_target_8: 7505345521785812646
+      vestal.sprite.gods_illumination_target_9: -831095058805704738
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

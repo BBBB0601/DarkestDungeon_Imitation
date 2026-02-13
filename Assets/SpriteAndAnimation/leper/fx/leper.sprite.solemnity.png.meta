@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: e64586d3f394d094c93b1bd177658eb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1939825613218767480
+    second: leper.sprite.solemnity_0
+  - first:
+      213: 7611585497510330336
+    second: leper.sprite.solemnity_1
+  - first:
+      213: -2185257433823373714
+    second: leper.sprite.solemnity_2
+  - first:
+      213: -2004970512121848431
+    second: leper.sprite.solemnity_3
+  - first:
+      213: 994923601506860132
+    second: leper.sprite.solemnity_4
+  - first:
+      213: 9182540420433920850
+    second: leper.sprite.solemnity_5
+  - first:
+      213: 3272652668258443991
+    second: leper.sprite.solemnity_6
+  - first:
+      213: -6333910184134675164
+    second: leper.sprite.solemnity_7
+  - first:
+      213: 1938685645846551901
+    second: leper.sprite.solemnity_8
+  - first:
+      213: -7485758145452411553
+    second: leper.sprite.solemnity_9
+  - first:
+      213: -3413004510378535307
+    second: leper.sprite.solemnity_10
+  - first:
+      213: 1762330743123062029
+    second: leper.sprite.solemnity_11
+  - first:
+      213: 5498644176239294846
+    second: leper.sprite.solemnity_12
+  - first:
+      213: -3730166344580363727
+    second: leper.sprite.solemnity_13
+  - first:
+      213: -4107728053179968844
+    second: leper.sprite.solemnity_14
+  - first:
+      213: 2146786826559068961
+    second: leper.sprite.solemnity_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 310
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872eb1a1e15abea10800000000000000
+      internalID: 1939825613218767480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 529
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef3e9c9ea8c1a960800000000000000
+      internalID: 7611585497510330336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 310
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e661d2221f76ca1e0800000000000000
+      internalID: -2185257433823373714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 310
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d18d721f9ec24e0800000000000000
+      internalID: -2004970512121848431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 310
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cf7768ebdaecd00800000000000000
+      internalID: 994923601506860132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 310
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25341a77cdfee6f70800000000000000
+      internalID: 9182540420433920850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 310
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d267c4334cca6d20800000000000000
+      internalID: 3272652668258443991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 310
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4257c6bfe3e6918a0800000000000000
+      internalID: -6333910184134675164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1
+        width: 396
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d15d3c25897ea10800000000000000
+      internalID: 1938685645846551901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_9
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 272
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5572d1c0ae3d1890800000000000000
+      internalID: -7485758145452411553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_10
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 269
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576d41e0b7292a0d0800000000000000
+      internalID: -3413004510378535307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_11
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 205
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0da990497e057810800000000000000
+      internalID: 1762330743123062029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_12
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 142
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e797307cebb1f4c40800000000000000
+      internalID: 5498644176239294846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_13
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 205
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a8b2e0979cb3cc0800000000000000
+      internalID: -3730166344580363727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_14
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 104
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b21d4c691b6ef6c0800000000000000
+      internalID: -4107728053179968844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leper.sprite.solemnity_15
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b9a8d9e3beacd10800000000000000
+      internalID: 2146786826559068961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leper.sprite.solemnity_0: 1939825613218767480
+      leper.sprite.solemnity_1: 7611585497510330336
+      leper.sprite.solemnity_10: -3413004510378535307
+      leper.sprite.solemnity_11: 1762330743123062029
+      leper.sprite.solemnity_12: 5498644176239294846
+      leper.sprite.solemnity_13: -3730166344580363727
+      leper.sprite.solemnity_14: -4107728053179968844
+      leper.sprite.solemnity_15: 2146786826559068961
+      leper.sprite.solemnity_2: -2185257433823373714
+      leper.sprite.solemnity_3: -2004970512121848431
+      leper.sprite.solemnity_4: 994923601506860132
+      leper.sprite.solemnity_5: 9182540420433920850
+      leper.sprite.solemnity_6: 3272652668258443991
+      leper.sprite.solemnity_7: -6333910184134675164
+      leper.sprite.solemnity_8: 1938685645846551901
+      leper.sprite.solemnity_9: -7485758145452411553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

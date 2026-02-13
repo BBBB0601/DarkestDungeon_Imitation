@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: e16ee92ebaa75d348a43adceb4a893c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3950689982562448859
+    second: jester.sprite.inspiring_tune_0
+  - first:
+      213: 4162932121401381198
+    second: jester.sprite.inspiring_tune_1
+  - first:
+      213: -3638955701827432425
+    second: jester.sprite.inspiring_tune_2
+  - first:
+      213: 7428516321968426075
+    second: jester.sprite.inspiring_tune_3
+  - first:
+      213: -3897378303792814756
+    second: jester.sprite.inspiring_tune_4
+  - first:
+      213: -6771355249359122983
+    second: jester.sprite.inspiring_tune_5
+  - first:
+      213: 2196879324974081362
+    second: jester.sprite.inspiring_tune_6
+  - first:
+      213: 8254861695041377909
+    second: jester.sprite.inspiring_tune_7
+  - first:
+      213: 3356759896669531274
+    second: jester.sprite.inspiring_tune_8
+  - first:
+      213: -3396711376647914717
+    second: jester.sprite.inspiring_tune_9
+  - first:
+      213: -1395430383742411980
+    second: jester.sprite.inspiring_tune_10
+  - first:
+      213: -3445943284404465630
+    second: jester.sprite.inspiring_tune_11
+  - first:
+      213: 5590307100642572317
+    second: jester.sprite.inspiring_tune_12
+  - first:
+      213: -8869332909456048508
+    second: jester.sprite.inspiring_tune_13
+  - first:
+      213: 5376331870144197598
+    second: jester.sprite.inspiring_tune_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 317
+        width: 710
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd534548b9ba3d630800000000000000
+      internalID: 3950689982562448859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 291
+        width: 643
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41513055b4b5c930800000000000000
+      internalID: 4162932121401381198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 291
+        width: 169
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7109137b115df7dc0800000000000000
+      internalID: -3638955701827432425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_3
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 291
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c8e13ac34671760800000000000000
+      internalID: 7428516321968426075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_4
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1
+        width: 562
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c556d17f41bb9e9c0800000000000000
+      internalID: -3897378303792814756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_5
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 300
+        width: 279
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd09f1e6405702a0800000000000000
+      internalID: -6771355249359122983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_6
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 228
+        width: 269
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255ea734b12ec7e10800000000000000
+      internalID: 2196879324974081362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_7
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 228
+        width: 101
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5769beab9f82f8270800000000000000
+      internalID: 8254861695041377909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 977
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ca345575b959e20800000000000000
+      internalID: 3356759896669531274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_9
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 158
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b7f5edff47cd0d0800000000000000
+      internalID: -3396711376647914717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_10
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b1f34957f62ace0800000000000000
+      internalID: -1395430383742411980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_11
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 121
+        width: 156
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220dde817dc8d20d0800000000000000
+      internalID: -3445943284404465630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_12
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 85
+        width: 151
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18f42770b2c49d40800000000000000
+      internalID: 5590307100642572317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_13
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 58
+        width: 120
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eb039e5bcc9e480800000000000000
+      internalID: -8869332909456048508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jester.sprite.inspiring_tune_14
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed37e82d9519c9a40800000000000000
+      internalID: 5376331870144197598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jester.sprite.inspiring_tune_0: 3950689982562448859
+      jester.sprite.inspiring_tune_1: 4162932121401381198
+      jester.sprite.inspiring_tune_10: -1395430383742411980
+      jester.sprite.inspiring_tune_11: -3445943284404465630
+      jester.sprite.inspiring_tune_12: 5590307100642572317
+      jester.sprite.inspiring_tune_13: -8869332909456048508
+      jester.sprite.inspiring_tune_14: 5376331870144197598
+      jester.sprite.inspiring_tune_2: -3638955701827432425
+      jester.sprite.inspiring_tune_3: 7428516321968426075
+      jester.sprite.inspiring_tune_4: -3897378303792814756
+      jester.sprite.inspiring_tune_5: -6771355249359122983
+      jester.sprite.inspiring_tune_6: 2196879324974081362
+      jester.sprite.inspiring_tune_7: 8254861695041377909
+      jester.sprite.inspiring_tune_8: 3356759896669531274
+      jester.sprite.inspiring_tune_9: -3396711376647914717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

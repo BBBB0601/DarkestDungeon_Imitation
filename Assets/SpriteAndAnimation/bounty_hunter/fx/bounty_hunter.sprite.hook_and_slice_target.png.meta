@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: caad27d754527be479359b7d5404a0a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7996604801628054905
+    second: bounty_hunter.sprite.hook_and_slice_target_0
+  - first:
+      213: 7671843154842139133
+    second: bounty_hunter.sprite.hook_and_slice_target_1
+  - first:
+      213: 5782457690669602956
+    second: bounty_hunter.sprite.hook_and_slice_target_2
+  - first:
+      213: 181830567228089715
+    second: bounty_hunter.sprite.hook_and_slice_target_3
+  - first:
+      213: -3774909635453484801
+    second: bounty_hunter.sprite.hook_and_slice_target_4
+  - first:
+      213: 452563903485784583
+    second: bounty_hunter.sprite.hook_and_slice_target_5
+  - first:
+      213: -2801135034503493801
+    second: bounty_hunter.sprite.hook_and_slice_target_6
+  - first:
+      213: -1098547983572568237
+    second: bounty_hunter.sprite.hook_and_slice_target_7
+  - first:
+      213: 3455909171661553625
+    second: bounty_hunter.sprite.hook_and_slice_target_8
+  - first:
+      213: -4854666779021949286
+    second: bounty_hunter.sprite.hook_and_slice_target_9
+  - first:
+      213: 7211228375652536824
+    second: bounty_hunter.sprite.hook_and_slice_target_10
+  - first:
+      213: -1729381226743659117
+    second: bounty_hunter.sprite.hook_and_slice_target_11
+  - first:
+      213: 2959141897934568588
+    second: bounty_hunter.sprite.hook_and_slice_target_12
+  - first:
+      213: -7163950540755361833
+    second: bounty_hunter.sprite.hook_and_slice_target_13
+  - first:
+      213: 8380320349683812029
+    second: bounty_hunter.sprite.hook_and_slice_target_14
+  - first:
+      213: -7507045665658808939
+    second: bounty_hunter.sprite.hook_and_slice_target_15
+  - first:
+      213: -9187373340802329240
+    second: bounty_hunter.sprite.hook_and_slice_target_16
+  - first:
+      213: -823110252841850629
+    second: bounty_hunter.sprite.hook_and_slice_target_17
+  - first:
+      213: -6221394749687768174
+    second: bounty_hunter.sprite.hook_and_slice_target_18
+  - first:
+      213: -5099202775355153333
+    second: bounty_hunter.sprite.hook_and_slice_target_19
+  - first:
+      213: -5058231447374725144
+    second: bounty_hunter.sprite.hook_and_slice_target_20
+  - first:
+      213: 4461197480870049504
+    second: bounty_hunter.sprite.hook_and_slice_target_21
+  - first:
+      213: -2606466805691841392
+    second: bounty_hunter.sprite.hook_and_slice_target_22
+  - first:
+      213: 928086452145979212
+    second: bounty_hunter.sprite.hook_and_slice_target_23
+  - first:
+      213: 4384266131612759577
+    second: bounty_hunter.sprite.hook_and_slice_target_24
+  - first:
+      213: 5807280090311311123
+    second: bounty_hunter.sprite.hook_and_slice_target_25
+  - first:
+      213: 2763831844399328065
+    second: bounty_hunter.sprite.hook_and_slice_target_26
+  - first:
+      213: 2766021856485723139
+    second: bounty_hunter.sprite.hook_and_slice_target_27
+  - first:
+      213: 6361772835948529443
+    second: bounty_hunter.sprite.hook_and_slice_target_28
+  - first:
+      213: 2583075601975037917
+    second: bounty_hunter.sprite.hook_and_slice_target_29
+  - first:
+      213: 612466785947791217
+    second: bounty_hunter.sprite.hook_and_slice_target_30
+  - first:
+      213: 7291064678021517953
+    second: bounty_hunter.sprite.hook_and_slice_target_31
+  - first:
+      213: -4148740768149008575
+    second: bounty_hunter.sprite.hook_and_slice_target_32
+  - first:
+      213: -416756175828759114
+    second: bounty_hunter.sprite.hook_and_slice_target_33
+  - first:
+      213: -6377653697442198263
+    second: bounty_hunter.sprite.hook_and_slice_target_34
+  - first:
+      213: -3380888456393619723
+    second: bounty_hunter.sprite.hook_and_slice_target_35
+  - first:
+      213: -6341149226816887813
+    second: bounty_hunter.sprite.hook_and_slice_target_36
+  - first:
+      213: -2830472892712632050
+    second: bounty_hunter.sprite.hook_and_slice_target_37
+  - first:
+      213: 6530698209381776013
+    second: bounty_hunter.sprite.hook_and_slice_target_38
+  - first:
+      213: 2964859844595368051
+    second: bounty_hunter.sprite.hook_and_slice_target_39
+  - first:
+      213: -7292071578739837778
+    second: bounty_hunter.sprite.hook_and_slice_target_40
+  - first:
+      213: 1103371962001297347
+    second: bounty_hunter.sprite.hook_and_slice_target_41
+  - first:
+      213: -3599336854206932170
+    second: bounty_hunter.sprite.hook_and_slice_target_42
+  - first:
+      213: -4461305134083851488
+    second: bounty_hunter.sprite.hook_and_slice_target_43
+  - first:
+      213: -5690953105084248845
+    second: bounty_hunter.sprite.hook_and_slice_target_44
+  - first:
+      213: 9030885751538549861
+    second: bounty_hunter.sprite.hook_and_slice_target_45
+  - first:
+      213: -7555618027798503829
+    second: bounty_hunter.sprite.hook_and_slice_target_46
+  - first:
+      213: 8335508985386092349
+    second: bounty_hunter.sprite.hook_and_slice_target_47
+  - first:
+      213: -8480844686135175238
+    second: bounty_hunter.sprite.hook_and_slice_target_48
+  - first:
+      213: -3332619365347961106
+    second: bounty_hunter.sprite.hook_and_slice_target_49
+  - first:
+      213: 440422862460976382
+    second: bounty_hunter.sprite.hook_and_slice_target_50
+  - first:
+      213: 8647960729118345744
+    second: bounty_hunter.sprite.hook_and_slice_target_51
+  - first:
+      213: 4614294693505266291
+    second: bounty_hunter.sprite.hook_and_slice_target_52
+  - first:
+      213: -2585054436497607317
+    second: bounty_hunter.sprite.hook_and_slice_target_53
+  - first:
+      213: 3281637517716460116
+    second: bounty_hunter.sprite.hook_and_slice_target_54
+  - first:
+      213: -7063314587551165594
+    second: bounty_hunter.sprite.hook_and_slice_target_55
+  - first:
+      213: 4956679639078124140
+    second: bounty_hunter.sprite.hook_and_slice_target_56
+  - first:
+      213: -5183643765416609095
+    second: bounty_hunter.sprite.hook_and_slice_target_57
+  - first:
+      213: -8563457447798189786
+    second: bounty_hunter.sprite.hook_and_slice_target_58
+  - first:
+      213: 1330312150689717664
+    second: bounty_hunter.sprite.hook_and_slice_target_59
+  - first:
+      213: -2975309632639494547
+    second: bounty_hunter.sprite.hook_and_slice_target_60
+  - first:
+      213: 7917303035721437618
+    second: bounty_hunter.sprite.hook_and_slice_target_61
+  - first:
+      213: -130272953503358632
+    second: bounty_hunter.sprite.hook_and_slice_target_62
+  - first:
+      213: -4694205746405438897
+    second: bounty_hunter.sprite.hook_and_slice_target_63
+  - first:
+      213: -5343939742018560405
+    second: bounty_hunter.sprite.hook_and_slice_target_64
+  - first:
+      213: -7165199146408516073
+    second: bounty_hunter.sprite.hook_and_slice_target_65
+  - first:
+      213: -6072883433158885246
+    second: bounty_hunter.sprite.hook_and_slice_target_66
+  - first:
+      213: 843814231101668753
+    second: bounty_hunter.sprite.hook_and_slice_target_67
+  - first:
+      213: 3341494823135539025
+    second: bounty_hunter.sprite.hook_and_slice_target_68
+  - first:
+      213: -8513908842962066128
+    second: bounty_hunter.sprite.hook_and_slice_target_69
+  - first:
+      213: 667320150733615228
+    second: bounty_hunter.sprite.hook_and_slice_target_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 492
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975293203b5a9fe60800000000000000
+      internalID: 7996604801628054905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 484
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9b0e0c3bcd77a60800000000000000
+      internalID: 7671843154842139133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 492
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88561502aa6f3050800000000000000
+      internalID: 5782457690669602956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 492
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37520f000fdf58200800000000000000
+      internalID: 181830567228089715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 492
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff08897dfa3dc9bc0800000000000000
+      internalID: -3774909635453484801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 492
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7023f61f874d74600800000000000000
+      internalID: 452563903485784583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 506
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578484f68e5029d0800000000000000
+      internalID: -2801135034503493801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 506
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3577f66ed6c21c0f0800000000000000
+      internalID: -1098547983572568237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 495
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfb6e8d41bd5ff20800000000000000
+      internalID: 3455909171661553625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 506
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96c18d1942c0acb0800000000000000
+      internalID: -4854666779021949286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 506
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f19cfc300e631460800000000000000
+      internalID: 7211228375652536824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 506
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39507badfe00008e0800000000000000
+      internalID: -1729381226743659117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 506
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c7d52c0ebf01920800000000000000
+      internalID: 2959141897934568588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 311
+        width: 148
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df1fcd70f8849c90800000000000000
+      internalID: -7163950540755361833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 480
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db681ea05f0ec4470800000000000000
+      internalID: 8380320349683812029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_15
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 449
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59555c9bdbd91d790800000000000000
+      internalID: -7507045665658808939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 444
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86555929f94ef7080800000000000000
+      internalID: -9187373340802329240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_17
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 358
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf821680699b394f0800000000000000
+      internalID: -823110252841850629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 432
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b5161007a29a9a0800000000000000
+      internalID: -6221394749687768174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b442541b71efb39b0800000000000000
+      internalID: -5099202775355153333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 432
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eff48b5c4d8dc9b0800000000000000
+      internalID: -5058231447374725144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 425
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e67020f87b59ed30800000000000000
+      internalID: 4461197480870049504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09404e7ff38f3dbd0800000000000000
+      internalID: -2606466805691841392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f730506b931ec00800000000000000
+      internalID: 928086452145979212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 415
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916fd8f51da08dc30800000000000000
+      internalID: 4384266131612759577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f343e497a979050800000000000000
+      internalID: 5807280090311311123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 399
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ba5584b6a1b5620800000000000000
+      internalID: 2763831844399328065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 388
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c4cc43932e26620800000000000000
+      internalID: 2766021856485723139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 377
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327017c20be894850800000000000000
+      internalID: 6361772835948529443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf43b3039de8d320800000000000000
+      internalID: 2583075601975037917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 388
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fa42dfb4bef7800800000000000000
+      internalID: 612466785947791217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 377
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182ded7e1b01f2560800000000000000
+      internalID: 7291064678021517953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 340
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f0c499046bc66c0800000000000000
+      internalID: -4148740768149008575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 320
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdc6c55772673af0800000000000000
+      internalID: -416756175828759114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 260
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d408f90c50e77a0800000000000000
+      internalID: -6377653697442198263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 315
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f680739cdba411d0800000000000000
+      internalID: -3380888456393619723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_36
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 318
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf326d30066bff7a0800000000000000
+      internalID: -6341149226816887813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 317
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01cd7b86e328b8d0800000000000000
+      internalID: -2830472892712632050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_38
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 323
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8afa799b63b1aa50800000000000000
+      internalID: 6530698209381776013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 309
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3704de5f15c452920800000000000000
+      internalID: 2964859844595368051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 301
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea47d70c88b5dca90800000000000000
+      internalID: -7292071578739837778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 306
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf863a14f6ff4f00800000000000000
+      internalID: 1103371962001297347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_42
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 297
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b160283369c0ec0800000000000000
+      internalID: -3599336854206932170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 267
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b3e481e924612c0800000000000000
+      internalID: -4461305134083851488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_44
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 275
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc0c0a8d4ca501b0800000000000000
+      internalID: -5690953105084248845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_45
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564879b4eb6245d70800000000000000
+      internalID: 9030885751538549861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 280
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e58826f6d052790800000000000000
+      internalID: -7555618027798503829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_47
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 269
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c300424dada370800000000000000
+      internalID: 8335508985386092349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 127
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab757aff0bcfd4a80800000000000000
+      internalID: -8480844686135175238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_49
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 266
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6d8dc185820c1d0800000000000000
+      internalID: -3332619365347961106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 233
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc72fb8242bc1600800000000000000
+      internalID: 440422862460976382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_51
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 151
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a80aad67ab30870800000000000000
+      internalID: 8647960729118345744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_52
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 141
+        width: 125
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372f95f7394490040800000000000000
+      internalID: 4614294693505266291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_53
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 185
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65338bafaa002cd0800000000000000
+      internalID: -2585054436497607317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_54
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 196
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452951d7fe7ba8d20800000000000000
+      internalID: 3281637517716460116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6639d204ec01afd90800000000000000
+      internalID: -7063314587551165594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_56
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 8
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ab9a0ced9a9c440800000000000000
+      internalID: 4956679639078124140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_57
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 97
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9babc20a57fff08b0800000000000000
+      internalID: -5183643765416609095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 86
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621d0d682dc782980800000000000000
+      internalID: -8563457447798189786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_59
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 88
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad1f3e4ad7367210800000000000000
+      internalID: 1330312150689717664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_60
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 84
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6699b927a395b6d0800000000000000
+      internalID: -2975309632639494547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_61
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 65
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b15c4fc929efdd60800000000000000
+      internalID: 7917303035721437618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_62
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 62
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8516792607d213ef0800000000000000
+      internalID: -130272953503358632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_63
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a08ee9eb4dadeb0800000000000000
+      internalID: -4694205746405438897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_64
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 16
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e14e73e1386d5b0800000000000000
+      internalID: -5343939742018560405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_65
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7166365d659109c90800000000000000
+      internalID: -7165199146408516073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280c53c61b8c8bba0800000000000000
+      internalID: -6072883433158885246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dfb3d8294d5bb00800000000000000
+      internalID: 843814231101668753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_68
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 5
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15feccf66df5f5e20800000000000000
+      internalID: 3341494823135539025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_69
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0356035140588d980800000000000000
+      internalID: -8513908842962066128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounty_hunter.sprite.hook_and_slice_target_70
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70ffe7342cc24900800000000000000
+      internalID: 667320150733615228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bounty_hunter.sprite.hook_and_slice_target_0: 7996604801628054905
+      bounty_hunter.sprite.hook_and_slice_target_1: 7671843154842139133
+      bounty_hunter.sprite.hook_and_slice_target_10: 7211228375652536824
+      bounty_hunter.sprite.hook_and_slice_target_11: -1729381226743659117
+      bounty_hunter.sprite.hook_and_slice_target_12: 2959141897934568588
+      bounty_hunter.sprite.hook_and_slice_target_13: -7163950540755361833
+      bounty_hunter.sprite.hook_and_slice_target_14: 8380320349683812029
+      bounty_hunter.sprite.hook_and_slice_target_15: -7507045665658808939
+      bounty_hunter.sprite.hook_and_slice_target_16: -9187373340802329240
+      bounty_hunter.sprite.hook_and_slice_target_17: -823110252841850629
+      bounty_hunter.sprite.hook_and_slice_target_18: -6221394749687768174
+      bounty_hunter.sprite.hook_and_slice_target_19: -5099202775355153333
+      bounty_hunter.sprite.hook_and_slice_target_2: 5782457690669602956
+      bounty_hunter.sprite.hook_and_slice_target_20: -5058231447374725144
+      bounty_hunter.sprite.hook_and_slice_target_21: 4461197480870049504
+      bounty_hunter.sprite.hook_and_slice_target_22: -2606466805691841392
+      bounty_hunter.sprite.hook_and_slice_target_23: 928086452145979212
+      bounty_hunter.sprite.hook_and_slice_target_24: 4384266131612759577
+      bounty_hunter.sprite.hook_and_slice_target_25: 5807280090311311123
+      bounty_hunter.sprite.hook_and_slice_target_26: 2763831844399328065
+      bounty_hunter.sprite.hook_and_slice_target_27: 2766021856485723139
+      bounty_hunter.sprite.hook_and_slice_target_28: 6361772835948529443
+      bounty_hunter.sprite.hook_and_slice_target_29: 2583075601975037917
+      bounty_hunter.sprite.hook_and_slice_target_3: 181830567228089715
+      bounty_hunter.sprite.hook_and_slice_target_30: 612466785947791217
+      bounty_hunter.sprite.hook_and_slice_target_31: 7291064678021517953
+      bounty_hunter.sprite.hook_and_slice_target_32: -4148740768149008575
+      bounty_hunter.sprite.hook_and_slice_target_33: -416756175828759114
+      bounty_hunter.sprite.hook_and_slice_target_34: -6377653697442198263
+      bounty_hunter.sprite.hook_and_slice_target_35: -3380888456393619723
+      bounty_hunter.sprite.hook_and_slice_target_36: -6341149226816887813
+      bounty_hunter.sprite.hook_and_slice_target_37: -2830472892712632050
+      bounty_hunter.sprite.hook_and_slice_target_38: 6530698209381776013
+      bounty_hunter.sprite.hook_and_slice_target_39: 2964859844595368051
+      bounty_hunter.sprite.hook_and_slice_target_4: -3774909635453484801
+      bounty_hunter.sprite.hook_and_slice_target_40: -7292071578739837778
+      bounty_hunter.sprite.hook_and_slice_target_41: 1103371962001297347
+      bounty_hunter.sprite.hook_and_slice_target_42: -3599336854206932170
+      bounty_hunter.sprite.hook_and_slice_target_43: -4461305134083851488
+      bounty_hunter.sprite.hook_and_slice_target_44: -5690953105084248845
+      bounty_hunter.sprite.hook_and_slice_target_45: 9030885751538549861
+      bounty_hunter.sprite.hook_and_slice_target_46: -7555618027798503829
+      bounty_hunter.sprite.hook_and_slice_target_47: 8335508985386092349
+      bounty_hunter.sprite.hook_and_slice_target_48: -8480844686135175238
+      bounty_hunter.sprite.hook_and_slice_target_49: -3332619365347961106
+      bounty_hunter.sprite.hook_and_slice_target_5: 452563903485784583
+      bounty_hunter.sprite.hook_and_slice_target_50: 440422862460976382
+      bounty_hunter.sprite.hook_and_slice_target_51: 8647960729118345744
+      bounty_hunter.sprite.hook_and_slice_target_52: 4614294693505266291
+      bounty_hunter.sprite.hook_and_slice_target_53: -2585054436497607317
+      bounty_hunter.sprite.hook_and_slice_target_54: 3281637517716460116
+      bounty_hunter.sprite.hook_and_slice_target_55: -7063314587551165594
+      bounty_hunter.sprite.hook_and_slice_target_56: 4956679639078124140
+      bounty_hunter.sprite.hook_and_slice_target_57: -5183643765416609095
+      bounty_hunter.sprite.hook_and_slice_target_58: -8563457447798189786
+      bounty_hunter.sprite.hook_and_slice_target_59: 1330312150689717664
+      bounty_hunter.sprite.hook_and_slice_target_6: -2801135034503493801
+      bounty_hunter.sprite.hook_and_slice_target_60: -2975309632639494547
+      bounty_hunter.sprite.hook_and_slice_target_61: 7917303035721437618
+      bounty_hunter.sprite.hook_and_slice_target_62: -130272953503358632
+      bounty_hunter.sprite.hook_and_slice_target_63: -4694205746405438897
+      bounty_hunter.sprite.hook_and_slice_target_64: -5343939742018560405
+      bounty_hunter.sprite.hook_and_slice_target_65: -7165199146408516073
+      bounty_hunter.sprite.hook_and_slice_target_66: -6072883433158885246
+      bounty_hunter.sprite.hook_and_slice_target_67: 843814231101668753
+      bounty_hunter.sprite.hook_and_slice_target_68: 3341494823135539025
+      bounty_hunter.sprite.hook_and_slice_target_69: -8513908842962066128
+      bounty_hunter.sprite.hook_and_slice_target_7: -1098547983572568237
+      bounty_hunter.sprite.hook_and_slice_target_70: 667320150733615228
+      bounty_hunter.sprite.hook_and_slice_target_8: 3455909171661553625
+      bounty_hunter.sprite.hook_and_slice_target_9: -4854666779021949286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

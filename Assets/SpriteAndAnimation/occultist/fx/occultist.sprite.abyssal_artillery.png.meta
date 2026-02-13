@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: ac04c2bbca60002449436fb8bb624c0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1186160050348051224
+    second: occultist.sprite.abyssal_artillery_0
+  - first:
+      213: 6659694342764883602
+    second: occultist.sprite.abyssal_artillery_1
+  - first:
+      213: -2130070448416102209
+    second: occultist.sprite.abyssal_artillery_2
+  - first:
+      213: 446098350839677428
+    second: occultist.sprite.abyssal_artillery_3
+  - first:
+      213: -7098584191830382397
+    second: occultist.sprite.abyssal_artillery_4
+  - first:
+      213: 439653932660632007
+    second: occultist.sprite.abyssal_artillery_5
+  - first:
+      213: -9091181867889463262
+    second: occultist.sprite.abyssal_artillery_6
+  - first:
+      213: 765749380321208883
+    second: occultist.sprite.abyssal_artillery_7
+  - first:
+      213: 6656989526071703076
+    second: occultist.sprite.abyssal_artillery_8
+  - first:
+      213: -9219964137012685768
+    second: occultist.sprite.abyssal_artillery_9
+  - first:
+      213: 5271039348425269578
+    second: occultist.sprite.abyssal_artillery_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: occultist.sprite.abyssal_artillery_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 723
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b41cff746167010800000000000000
+      internalID: 1186160050348051224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.abyssal_artillery_1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1
+        width: 320
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29eed2d58bcfb6c50800000000000000
+      internalID: 6659694342764883602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.abyssal_artillery_2
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 273
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8e99776387072e0800000000000000
+      internalID: -2130070448416102209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.abyssal_artillery_3
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 286
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1cfa8261cd03600800000000000000
+      internalID: 446098350839677428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.abyssal_artillery_4
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 270
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c82fb59943cc7d90800000000000000
+      internalID: -7098584191830382397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.abyssal_artillery_5
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 185
+        width: 181
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c927502ce6f91600800000000000000
+      internalID: 439653932660632007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.abyssal_artillery_6
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 266
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220f9ff1242a5d180800000000000000
+      internalID: -9091181867889463262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.abyssal_artillery_7
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 185
+        width: 118
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a6509110d70aa00800000000000000
+      internalID: 765749380321208883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.abyssal_artillery_8
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1
+        width: 352
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426fff624b0626c50800000000000000
+      internalID: 6656989526071703076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.abyssal_artillery_9
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 58
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8349483877b1c0080800000000000000
+      internalID: -9219964137012685768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.abyssal_artillery_10
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41aef73c5e762940800000000000000
+      internalID: 5271039348425269578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      occultist.sprite.abyssal_artillery_0: 1186160050348051224
+      occultist.sprite.abyssal_artillery_1: 6659694342764883602
+      occultist.sprite.abyssal_artillery_10: 5271039348425269578
+      occultist.sprite.abyssal_artillery_2: -2130070448416102209
+      occultist.sprite.abyssal_artillery_3: 446098350839677428
+      occultist.sprite.abyssal_artillery_4: -7098584191830382397
+      occultist.sprite.abyssal_artillery_5: 439653932660632007
+      occultist.sprite.abyssal_artillery_6: -9091181867889463262
+      occultist.sprite.abyssal_artillery_7: 765749380321208883
+      occultist.sprite.abyssal_artillery_8: 6656989526071703076
+      occultist.sprite.abyssal_artillery_9: -9219964137012685768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

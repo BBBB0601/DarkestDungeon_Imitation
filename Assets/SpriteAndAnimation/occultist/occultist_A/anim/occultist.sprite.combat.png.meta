@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: ff5df57666e78944cb510db26220fcee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7020846893858909525
+    second: occultist.sprite.combat_0
+  - first:
+      213: -4304155416507709164
+    second: occultist.sprite.combat_1
+  - first:
+      213: -303868008160263622
+    second: occultist.sprite.combat_2
+  - first:
+      213: -6703517510294579858
+    second: occultist.sprite.combat_3
+  - first:
+      213: -399911758205541783
+    second: occultist.sprite.combat_4
+  - first:
+      213: -4131384417235002271
+    second: occultist.sprite.combat_5
+  - first:
+      213: -1328207152796270881
+    second: occultist.sprite.combat_6
+  - first:
+      213: 1470403697313134308
+    second: occultist.sprite.combat_7
+  - first:
+      213: -3915318656160260540
+    second: occultist.sprite.combat_8
+  - first:
+      213: 8164706663392134704
+    second: occultist.sprite.combat_9
+  - first:
+      213: -7745455807514542049
+    second: occultist.sprite.combat_10
+  - first:
+      213: -4890348526870071716
+    second: occultist.sprite.combat_11
+  - first:
+      213: 4215548873195024350
+    second: occultist.sprite.combat_12
+  - first:
+      213: 1311694163242323720
+    second: occultist.sprite.combat_13
+  - first:
+      213: -8844665279895107732
+    second: occultist.sprite.combat_14
+  - first:
+      213: -6403190088024164117
+    second: occultist.sprite.combat_15
+  - first:
+      213: 7487691204086468173
+    second: occultist.sprite.combat_16
+  - first:
+      213: -5581543543913893137
+    second: occultist.sprite.combat_17
+  - first:
+      213: 541909309818399081
+    second: occultist.sprite.combat_18
+  - first:
+      213: -4028454089625519105
+    second: occultist.sprite.combat_19
+  - first:
+      213: -4783293754872147113
+    second: occultist.sprite.combat_20
+  - first:
+      213: -9025528952975251166
+    second: occultist.sprite.combat_21
+  - first:
+      213: 5583766030590037162
+    second: occultist.sprite.combat_22
+  - first:
+      213: -1632157012690910015
+    second: occultist.sprite.combat_23
+  - first:
+      213: -7827596833179209519
+    second: occultist.sprite.combat_24
+  - first:
+      213: -2678114968568218560
+    second: occultist.sprite.combat_25
+  - first:
+      213: -3956788104602480920
+    second: occultist.sprite.combat_26
+  - first:
+      213: 6125967705770088483
+    second: occultist.sprite.combat_27
+  - first:
+      213: -51350777346953376
+    second: occultist.sprite.combat_28
+  - first:
+      213: -7358209147709054538
+    second: occultist.sprite.combat_29
+  - first:
+      213: -3267708996521722794
+    second: occultist.sprite.combat_30
+  - first:
+      213: 7179538821826788966
+    second: occultist.sprite.combat_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: occultist.sprite.combat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 137
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d6dda4d0f0f6160800000000000000
+      internalID: 7020846893858909525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 498
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4190cfcf3719444c0800000000000000
+      internalID: -4304155416507709164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 501
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32800318a178cbf0800000000000000
+      internalID: -303868008160263622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 447
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65d745575258f2a0800000000000000
+      internalID: -6703517510294579858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 501
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96228aeef5a337af0800000000000000
+      internalID: -399911758205541783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 489
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c9f14f2cf5aa6c0800000000000000
+      internalID: -4131384417235002271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_6
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 441
+        width: 121
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdef175b1a2419de0800000000000000
+      internalID: -1328207152796270881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 295
+        width: 94
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e635c64f5ce76410800000000000000
+      internalID: 1470403697313134308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 295
+        width: 88
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e9b1d2d6ef9a9c0800000000000000
+      internalID: -3915318656160260540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 409
+        width: 124
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036c0cea37dde4170800000000000000
+      internalID: 8164706663392134704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 446
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f100c91fafc928490800000000000000
+      internalID: -7745455807514542049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_11
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 430
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56fd0cccedf12cb0800000000000000
+      internalID: -4890348526870071716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 261
+        width: 139
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf66108d53a08a30800000000000000
+      internalID: 4215548873195024350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 320
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f030e44e2143210800000000000000
+      internalID: 1311694163242323720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_14
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 308
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c670f9af9cf614580800000000000000
+      internalID: -8844665279895107732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 313
+        width: 136
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8740e5a8c4327a0800000000000000
+      internalID: -6403190088024164117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_16
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 189
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e04678a7f99e760800000000000000
+      internalID: 7487691204086468173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 268
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe233a618bf5a82b0800000000000000
+      internalID: -5581543543913893137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 273
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969e33865af358700800000000000000
+      internalID: 541909309818399081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 240
+        width: 155
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbb6e1695e0818c0800000000000000
+      internalID: -4028454089625519105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_20
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 110
+        width: 103
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75350844ca35e9db0800000000000000
+      internalID: -4783293754872147113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 248
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22928ef8c31eeb280800000000000000
+      internalID: -9025528952975251166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 75
+        width: 114
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac463aee958d7d40800000000000000
+      internalID: 5583766030590037162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 110
+        width: 178
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c445e038d96959e0800000000000000
+      internalID: -1632157012690910015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 191
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d07161172ace5390800000000000000
+      internalID: -7827596833179209519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_25
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 104
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb5d610ac65dad0800000000000000
+      internalID: -2678114968568218560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 98
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee8dadce2aa619c0800000000000000
+      internalID: -3956788104602480920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_27
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 61
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328d0ffeb2fc30550800000000000000
+      internalID: 6125967705770088483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1
+        width: 237
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f6b457db0994ff0800000000000000
+      internalID: -51350777346953376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 94
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a5cff3c362e990800000000000000
+      internalID: -7358209147709054538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 359
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c79f01bf3c6a2d0800000000000000
+      internalID: -3267708996521722794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: occultist.sprite.combat_31
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1
+        width: 136
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ebc160588d2a360800000000000000
+      internalID: 7179538821826788966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      occultist.sprite.combat_0: 7020846893858909525
+      occultist.sprite.combat_1: -4304155416507709164
+      occultist.sprite.combat_10: -7745455807514542049
+      occultist.sprite.combat_11: -4890348526870071716
+      occultist.sprite.combat_12: 4215548873195024350
+      occultist.sprite.combat_13: 1311694163242323720
+      occultist.sprite.combat_14: -8844665279895107732
+      occultist.sprite.combat_15: -6403190088024164117
+      occultist.sprite.combat_16: 7487691204086468173
+      occultist.sprite.combat_17: -5581543543913893137
+      occultist.sprite.combat_18: 541909309818399081
+      occultist.sprite.combat_19: -4028454089625519105
+      occultist.sprite.combat_2: -303868008160263622
+      occultist.sprite.combat_20: -4783293754872147113
+      occultist.sprite.combat_21: -9025528952975251166
+      occultist.sprite.combat_22: 5583766030590037162
+      occultist.sprite.combat_23: -1632157012690910015
+      occultist.sprite.combat_24: -7827596833179209519
+      occultist.sprite.combat_25: -2678114968568218560
+      occultist.sprite.combat_26: -3956788104602480920
+      occultist.sprite.combat_27: 6125967705770088483
+      occultist.sprite.combat_28: -51350777346953376
+      occultist.sprite.combat_29: -7358209147709054538
+      occultist.sprite.combat_3: -6703517510294579858
+      occultist.sprite.combat_30: -3267708996521722794
+      occultist.sprite.combat_31: 7179538821826788966
+      occultist.sprite.combat_4: -399911758205541783
+      occultist.sprite.combat_5: -4131384417235002271
+      occultist.sprite.combat_6: -1328207152796270881
+      occultist.sprite.combat_7: 1470403697313134308
+      occultist.sprite.combat_8: -3915318656160260540
+      occultist.sprite.combat_9: 8164706663392134704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

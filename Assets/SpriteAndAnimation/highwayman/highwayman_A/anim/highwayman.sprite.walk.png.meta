@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 0b8847b4ad27cea49b85ff999bc1f068
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5786157180135680936
+    second: highwayman.sprite.walk_0
+  - first:
+      213: 1767811140757299334
+    second: highwayman.sprite.walk_1
+  - first:
+      213: 8718834079142159340
+    second: highwayman.sprite.walk_2
+  - first:
+      213: -8421101768017995236
+    second: highwayman.sprite.walk_3
+  - first:
+      213: 4578666035345467863
+    second: highwayman.sprite.walk_4
+  - first:
+      213: 4712536876224475192
+    second: highwayman.sprite.walk_5
+  - first:
+      213: 5918894310678078830
+    second: highwayman.sprite.walk_6
+  - first:
+      213: 6260022205777778158
+    second: highwayman.sprite.walk_7
+  - first:
+      213: -4532693008271670003
+    second: highwayman.sprite.walk_8
+  - first:
+      213: -3840470822598003370
+    second: highwayman.sprite.walk_9
+  - first:
+      213: 7060378759001369161
+    second: highwayman.sprite.walk_10
+  - first:
+      213: -1158727560227324712
+    second: highwayman.sprite.walk_11
+  - first:
+      213: 8125004264553975664
+    second: highwayman.sprite.walk_12
+  - first:
+      213: 8424135257296124901
+    second: highwayman.sprite.walk_13
+  - first:
+      213: 2999993935973063535
+    second: highwayman.sprite.walk_14
+  - first:
+      213: -2545382864587797082
+    second: highwayman.sprite.walk_15
+  - first:
+      213: -6669619833351132540
+    second: highwayman.sprite.walk_16
+  - first:
+      213: -5572451517679288801
+    second: highwayman.sprite.walk_17
+  - first:
+      213: -2034063416431775413
+    second: highwayman.sprite.walk_18
+  - first:
+      213: 4253735220056760847
+    second: highwayman.sprite.walk_19
+  - first:
+      213: -7156774262466591524
+    second: highwayman.sprite.walk_20
+  - first:
+      213: 4898514755471077630
+    second: highwayman.sprite.walk_21
+  - first:
+      213: 9069507947289400694
+    second: highwayman.sprite.walk_22
+  - first:
+      213: -3605663898473696400
+    second: highwayman.sprite.walk_23
+  - first:
+      213: -430049489836317385
+    second: highwayman.sprite.walk_24
+  - first:
+      213: -1249976573735874709
+    second: highwayman.sprite.walk_25
+  - first:
+      213: 7287073997669213350
+    second: highwayman.sprite.walk_26
+  - first:
+      213: 8860649252668875464
+    second: highwayman.sprite.walk_27
+  - first:
+      213: -4535879286993091083
+    second: highwayman.sprite.walk_28
+  - first:
+      213: -6046052370758355100
+    second: highwayman.sprite.walk_29
+  - first:
+      213: -2432959382551268050
+    second: highwayman.sprite.walk_30
+  - first:
+      213: -1808061779596340248
+    second: highwayman.sprite.walk_31
+  - first:
+      213: 8376167311476570021
+    second: highwayman.sprite.walk_32
+  - first:
+      213: -7635833865002022655
+    second: highwayman.sprite.walk_33
+  - first:
+      213: 8273930682266744975
+    second: highwayman.sprite.walk_34
+  - first:
+      213: -4342464425657433194
+    second: highwayman.sprite.walk_35
+  - first:
+      213: 7097123138296786824
+    second: highwayman.sprite.walk_36
+  - first:
+      213: -7606443577510353410
+    second: highwayman.sprite.walk_37
+  - first:
+      213: 8490902746540710995
+    second: highwayman.sprite.walk_38
+  - first:
+      213: 485670694026740156
+    second: highwayman.sprite.walk_39
+  - first:
+      213: 7633693483171605593
+    second: highwayman.sprite.walk_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab20988c4f8c4050800000000000000
+      internalID: 5786157180135680936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 146
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68021d2cdd6888810800000000000000
+      internalID: 1767811140757299334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 192
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3a6de86658ff870800000000000000
+      internalID: 8718834079142159340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 196
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a9fd31f8c322b80800000000000000
+      internalID: -8421101768017995236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 196
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9a9e51080ba8f30800000000000000
+      internalID: 4578666035345467863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 194
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830f942225b466140800000000000000
+      internalID: 4712536876224475192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_6
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 194
+        width: 33
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e652c031403242250800000000000000
+      internalID: 5918894310678078830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_7
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 173
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee51175770110e650800000000000000
+      internalID: 6260022205777778158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_8
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 246
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05021669b3a811c0800000000000000
+      internalID: -4532693008271670003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_9
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 182
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6553bc07228e3bac0800000000000000
+      internalID: -3840470822598003370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_10
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 182
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a6df5e2118bf160800000000000000
+      internalID: 7060378759001369161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_11
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 239
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcf1355c6f5befe0800000000000000
+      internalID: -1158727560227324712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_12
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 208
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f064b9450d1c070800000000000000
+      internalID: 8125004264553975664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_13
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 211
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebbafe226a88e470800000000000000
+      internalID: 8424135257296124901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_14
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 211
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b1002179e12a920800000000000000
+      internalID: 2999993935973063535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 235
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adc0ea45cbfcacd0800000000000000
+      internalID: -2545382864587797082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_16
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 235
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aa4364910c073a0800000000000000
+      internalID: -6669619833351132540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 328
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eb3a86edcaaa2b0800000000000000
+      internalID: -5572451517679288801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 66
+        width: 141
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4177f4891e85c3e0800000000000000
+      internalID: -2034063416431775413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 164
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f022d0835ad480b30800000000000000
+      internalID: 4253735220056760847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_20
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 148
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4450cf9b70eac90800000000000000
+      internalID: -7156774262466591524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_21
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 154
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0fcd677350bf340800000000000000
+      internalID: 4898514755471077630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_22
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 184
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67554cdfc6d5ddd70800000000000000
+      internalID: 9069507947289400694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_23
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 191
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0737608b9cb16fdc0800000000000000
+      internalID: -3605663898473696400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_24
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 184
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735e77a7448280af0800000000000000
+      internalID: -430049489836317385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_25
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 93
+        width: 121
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fc9e8cde037aee0800000000000000
+      internalID: -1249976573735874709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 66
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a42f0b3133e02560800000000000000
+      internalID: 7287073997669213350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_27
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 86
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2a8a0bc8957fa70800000000000000
+      internalID: 8860649252668875464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_28
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 131
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f589b212d15d01c0800000000000000
+      internalID: -4535879286993091083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_29
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 148
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4673a83f66b181ca0800000000000000
+      internalID: -6046052370758355100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_30
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 86
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25f31af4546c3ed0800000000000000
+      internalID: -2432959382551268050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_31
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 80
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e31337146978e6e0800000000000000
+      internalID: -1808061779596340248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_32
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 110
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7bccb7acf1e3470800000000000000
+      internalID: 8376167311476570021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 349
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10908a06e81180690800000000000000
+      internalID: -7635833865002022655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_34
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 83
+        width: 113
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88f6bc4e18e2d270800000000000000
+      internalID: 8273930682266744975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_35
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 61
+        width: 91
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6930beabc977cb3c0800000000000000
+      internalID: -4342464425657433194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_36
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1
+        width: 84
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fa26164eb0e7260800000000000000
+      internalID: 7097123138296786824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1
+        width: 359
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5a17eeddb707690800000000000000
+      internalID: -7606443577510353410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_38
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 66
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c92fdaf0fb5d570800000000000000
+      internalID: 8490902746540710995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_39
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1
+        width: 200
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1084b4ce27db600800000000000000
+      internalID: 485670694026740156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highwayman.sprite.walk_40
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1
+        width: 164
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c68a427c350f960800000000000000
+      internalID: 7633693483171605593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      highwayman.sprite.walk_0: 5786157180135680936
+      highwayman.sprite.walk_1: 1767811140757299334
+      highwayman.sprite.walk_10: 7060378759001369161
+      highwayman.sprite.walk_11: -1158727560227324712
+      highwayman.sprite.walk_12: 8125004264553975664
+      highwayman.sprite.walk_13: 8424135257296124901
+      highwayman.sprite.walk_14: 2999993935973063535
+      highwayman.sprite.walk_15: -2545382864587797082
+      highwayman.sprite.walk_16: -6669619833351132540
+      highwayman.sprite.walk_17: -5572451517679288801
+      highwayman.sprite.walk_18: -2034063416431775413
+      highwayman.sprite.walk_19: 4253735220056760847
+      highwayman.sprite.walk_2: 8718834079142159340
+      highwayman.sprite.walk_20: -7156774262466591524
+      highwayman.sprite.walk_21: 4898514755471077630
+      highwayman.sprite.walk_22: 9069507947289400694
+      highwayman.sprite.walk_23: -3605663898473696400
+      highwayman.sprite.walk_24: -430049489836317385
+      highwayman.sprite.walk_25: -1249976573735874709
+      highwayman.sprite.walk_26: 7287073997669213350
+      highwayman.sprite.walk_27: 8860649252668875464
+      highwayman.sprite.walk_28: -4535879286993091083
+      highwayman.sprite.walk_29: -6046052370758355100
+      highwayman.sprite.walk_3: -8421101768017995236
+      highwayman.sprite.walk_30: -2432959382551268050
+      highwayman.sprite.walk_31: -1808061779596340248
+      highwayman.sprite.walk_32: 8376167311476570021
+      highwayman.sprite.walk_33: -7635833865002022655
+      highwayman.sprite.walk_34: 8273930682266744975
+      highwayman.sprite.walk_35: -4342464425657433194
+      highwayman.sprite.walk_36: 7097123138296786824
+      highwayman.sprite.walk_37: -7606443577510353410
+      highwayman.sprite.walk_38: 8490902746540710995
+      highwayman.sprite.walk_39: 485670694026740156
+      highwayman.sprite.walk_4: 4578666035345467863
+      highwayman.sprite.walk_40: 7633693483171605593
+      highwayman.sprite.walk_5: 4712536876224475192
+      highwayman.sprite.walk_6: 5918894310678078830
+      highwayman.sprite.walk_7: 6260022205777778158
+      highwayman.sprite.walk_8: -4532693008271670003
+      highwayman.sprite.walk_9: -3840470822598003370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

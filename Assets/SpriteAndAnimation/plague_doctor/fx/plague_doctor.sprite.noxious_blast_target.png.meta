@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 06f5c43558a921e4f885186d8208a4c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 860619874219624424
+    second: plague_doctor.sprite.noxious_blast_target_0
+  - first:
+      213: -1186533718521484164
+    second: plague_doctor.sprite.noxious_blast_target_1
+  - first:
+      213: -7189876189624990120
+    second: plague_doctor.sprite.noxious_blast_target_2
+  - first:
+      213: 3538676557031512051
+    second: plague_doctor.sprite.noxious_blast_target_3
+  - first:
+      213: 3705548565448196173
+    second: plague_doctor.sprite.noxious_blast_target_4
+  - first:
+      213: -1955303845105082008
+    second: plague_doctor.sprite.noxious_blast_target_5
+  - first:
+      213: -3483687187161433655
+    second: plague_doctor.sprite.noxious_blast_target_6
+  - first:
+      213: -2461953842751950854
+    second: plague_doctor.sprite.noxious_blast_target_7
+  - first:
+      213: -5492176552036582438
+    second: plague_doctor.sprite.noxious_blast_target_8
+  - first:
+      213: 2540291967736845008
+    second: plague_doctor.sprite.noxious_blast_target_9
+  - first:
+      213: -6761850043967831241
+    second: plague_doctor.sprite.noxious_blast_target_10
+  - first:
+      213: 6225782606427363379
+    second: plague_doctor.sprite.noxious_blast_target_11
+  - first:
+      213: 5392278536752525877
+    second: plague_doctor.sprite.noxious_blast_target_12
+  - first:
+      213: 5981941592602589705
+    second: plague_doctor.sprite.noxious_blast_target_13
+  - first:
+      213: 5257654207746258488
+    second: plague_doctor.sprite.noxious_blast_target_14
+  - first:
+      213: 2262641025004376368
+    second: plague_doctor.sprite.noxious_blast_target_15
+  - first:
+      213: 7270252137860496719
+    second: plague_doctor.sprite.noxious_blast_target_16
+  - first:
+      213: 1998823781597487904
+    second: plague_doctor.sprite.noxious_blast_target_17
+  - first:
+      213: 2411453809104930908
+    second: plague_doctor.sprite.noxious_blast_target_18
+  - first:
+      213: -7409012334052568339
+    second: plague_doctor.sprite.noxious_blast_target_19
+  - first:
+      213: -5370844194634086965
+    second: plague_doctor.sprite.noxious_blast_target_20
+  - first:
+      213: 4010896502494487705
+    second: plague_doctor.sprite.noxious_blast_target_21
+  - first:
+      213: -1142047039384826155
+    second: plague_doctor.sprite.noxious_blast_target_22
+  - first:
+      213: 41630845198755363
+    second: plague_doctor.sprite.noxious_blast_target_23
+  - first:
+      213: 3026134003800187780
+    second: plague_doctor.sprite.noxious_blast_target_24
+  - first:
+      213: -2469647481434852162
+    second: plague_doctor.sprite.noxious_blast_target_25
+  - first:
+      213: -8139220626090953945
+    second: plague_doctor.sprite.noxious_blast_target_26
+  - first:
+      213: -3343928927710144434
+    second: plague_doctor.sprite.noxious_blast_target_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 393
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e78081473981fb00800000000000000
+      internalID: 860619874219624424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 246
+        width: 212
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ce0899ed5988fe0800000000000000
+      internalID: -1186533718521484164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 413
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8560d5af2bd683c90800000000000000
+      internalID: -7189876189624990120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_3
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 402
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f79dd47497eb1130800000000000000
+      internalID: 3538676557031512051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_4
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 222
+        width: 208
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d408f7599c0cc6330800000000000000
+      internalID: 3705548565448196173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_5
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 222
+        width: 207
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8616e84338d5dd4e0800000000000000
+      internalID: -1955303845105082008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_6
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 376
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9b9ace5f477afc0800000000000000
+      internalID: -3483687187161433655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_7
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 394
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affac55260265ddd0800000000000000
+      internalID: -2461953842751950854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_8
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 360
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb3124568ed7c3b0800000000000000
+      internalID: -5492176552036582438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_9
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 376
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d29bbae51ee04320800000000000000
+      internalID: 2540291967736845008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_10
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 246
+        width: 146
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73386d8f5351922a0800000000000000
+      internalID: -6761850043967831241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_11
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 356
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33898e08b4c666650800000000000000
+      internalID: 6225782606427363379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_12
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 376
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532f81972c835da40800000000000000
+      internalID: 5392278536752525877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_13
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 323
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a363e4f20240350800000000000000
+      internalID: 5981941592602589705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_14
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 341
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836bd8c45a0f6f840800000000000000
+      internalID: 5257654207746258488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_15
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 341
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0319c953604866f10800000000000000
+      internalID: 2262641025004376368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 281
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4df2b8cccf15e460800000000000000
+      internalID: 7270252137860496719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 309
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023a8be93af3dbb10800000000000000
+      internalID: 1998823781597487904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_18
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 313
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5846f38674377120800000000000000
+      internalID: 2411453809104930908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_19
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 310
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de21f4c6986ed2990800000000000000
+      internalID: -7409012334052568339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 263
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5cdd239ade675b0800000000000000
+      internalID: -5370844194634086965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_21
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 272
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9946a0e4e1199a730800000000000000
+      internalID: 4010896502494487705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_22
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 280
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de4eacb442a620f0800000000000000
+      internalID: -1142047039384826155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_23
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 246
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32665cb7807e39000800000000000000
+      internalID: 41630845198755363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_24
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 246
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483ad33e7dcfef920800000000000000
+      internalID: 3026134003800187780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_25
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 259
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb433ac43bc0abdd0800000000000000
+      internalID: -2469647481434852162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_26
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1
+        width: 669
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723f059c6fdab0f80800000000000000
+      internalID: -8139220626090953945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plague_doctor.sprite.noxious_blast_target_27
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1
+        width: 387
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e481fad6b5af791d0800000000000000
+      internalID: -3343928927710144434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      plague_doctor.sprite.noxious_blast_target_0: 860619874219624424
+      plague_doctor.sprite.noxious_blast_target_1: -1186533718521484164
+      plague_doctor.sprite.noxious_blast_target_10: -6761850043967831241
+      plague_doctor.sprite.noxious_blast_target_11: 6225782606427363379
+      plague_doctor.sprite.noxious_blast_target_12: 5392278536752525877
+      plague_doctor.sprite.noxious_blast_target_13: 5981941592602589705
+      plague_doctor.sprite.noxious_blast_target_14: 5257654207746258488
+      plague_doctor.sprite.noxious_blast_target_15: 2262641025004376368
+      plague_doctor.sprite.noxious_blast_target_16: 7270252137860496719
+      plague_doctor.sprite.noxious_blast_target_17: 1998823781597487904
+      plague_doctor.sprite.noxious_blast_target_18: 2411453809104930908
+      plague_doctor.sprite.noxious_blast_target_19: -7409012334052568339
+      plague_doctor.sprite.noxious_blast_target_2: -7189876189624990120
+      plague_doctor.sprite.noxious_blast_target_20: -5370844194634086965
+      plague_doctor.sprite.noxious_blast_target_21: 4010896502494487705
+      plague_doctor.sprite.noxious_blast_target_22: -1142047039384826155
+      plague_doctor.sprite.noxious_blast_target_23: 41630845198755363
+      plague_doctor.sprite.noxious_blast_target_24: 3026134003800187780
+      plague_doctor.sprite.noxious_blast_target_25: -2469647481434852162
+      plague_doctor.sprite.noxious_blast_target_26: -8139220626090953945
+      plague_doctor.sprite.noxious_blast_target_27: -3343928927710144434
+      plague_doctor.sprite.noxious_blast_target_3: 3538676557031512051
+      plague_doctor.sprite.noxious_blast_target_4: 3705548565448196173
+      plague_doctor.sprite.noxious_blast_target_5: -1955303845105082008
+      plague_doctor.sprite.noxious_blast_target_6: -3483687187161433655
+      plague_doctor.sprite.noxious_blast_target_7: -2461953842751950854
+      plague_doctor.sprite.noxious_blast_target_8: -5492176552036582438
+      plague_doctor.sprite.noxious_blast_target_9: 2540291967736845008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
