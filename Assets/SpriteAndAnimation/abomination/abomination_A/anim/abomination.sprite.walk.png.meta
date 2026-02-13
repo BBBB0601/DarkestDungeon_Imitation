@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: bf43a2e8d01fcaf4f84be155f54a79c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4689466700852215629
+    second: abomination.sprite.walk_0
+  - first:
+      213: 5953420317806019335
+    second: abomination.sprite.walk_1
+  - first:
+      213: -3232398770312444430
+    second: abomination.sprite.walk_2
+  - first:
+      213: -298242769636771333
+    second: abomination.sprite.walk_3
+  - first:
+      213: -5451578948139081395
+    second: abomination.sprite.walk_4
+  - first:
+      213: 7548751583251269751
+    second: abomination.sprite.walk_5
+  - first:
+      213: 1831416398952471222
+    second: abomination.sprite.walk_6
+  - first:
+      213: 4909925224503101990
+    second: abomination.sprite.walk_7
+  - first:
+      213: 2921097424329931347
+    second: abomination.sprite.walk_8
+  - first:
+      213: 4689889498406667389
+    second: abomination.sprite.walk_9
+  - first:
+      213: -8315038493712854971
+    second: abomination.sprite.walk_10
+  - first:
+      213: 9067941619673210376
+    second: abomination.sprite.walk_11
+  - first:
+      213: -9173741805709367426
+    second: abomination.sprite.walk_12
+  - first:
+      213: 415063870323740428
+    second: abomination.sprite.walk_13
+  - first:
+      213: 2577779319393739636
+    second: abomination.sprite.walk_14
+  - first:
+      213: 5887546339544399880
+    second: abomination.sprite.walk_15
+  - first:
+      213: 8202864989756495768
+    second: abomination.sprite.walk_16
+  - first:
+      213: -5083051467045359624
+    second: abomination.sprite.walk_17
+  - first:
+      213: 3088782930440262411
+    second: abomination.sprite.walk_18
+  - first:
+      213: -3142891886778938664
+    second: abomination.sprite.walk_19
+  - first:
+      213: -4223087402456793548
+    second: abomination.sprite.walk_20
+  - first:
+      213: 3163343362082845249
+    second: abomination.sprite.walk_21
+  - first:
+      213: 6963672125215027468
+    second: abomination.sprite.walk_22
+  - first:
+      213: 8189033954343230279
+    second: abomination.sprite.walk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: abomination.sprite.walk_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 341
+        width: 128
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b04ea5a1eaabeeb0800000000000000
+      internalID: -4689466700852215629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 341
+        width: 98
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703cb698c3cce9250800000000000000
+      internalID: 5953420317806019335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 438
+        width: 134
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f50e13c1763423d0800000000000000
+      internalID: -3232398770312444430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_3
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 408
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9b8faf7cd6cdbf0800000000000000
+      internalID: -298242769636771333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 408
+        width: 47
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d412c2394d91854b0800000000000000
+      internalID: -5451578948139081395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_5
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 401
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7780c59e19d82c860800000000000000
+      internalID: 7548751583251269751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_6
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 429
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba1367f28f7a6910800000000000000
+      internalID: 1831416398952471222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_7
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 456
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62acc305afe832440800000000000000
+      internalID: 4909925224503101990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 382
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a7e7b71a2d98820800000000000000
+      internalID: 2921097424329931347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 165
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d744d5496a5d51140800000000000000
+      internalID: 4689889498406667389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 295
+        width: 123
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540db808b8c0b9c80800000000000000
+      internalID: -8315038493712854971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 267
+        width: 99
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e1a9cebdcc7dd70800000000000000
+      internalID: 9067941619673210376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 267
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77ea89ae6250b080800000000000000
+      internalID: -9173741805709367426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_13
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 323
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fceb5146a92c500800000000000000
+      internalID: 415063870323740428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 244
+        width: 102
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473efc122ac16c320800000000000000
+      internalID: 2577779319393739636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 292
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8000237c334c4b150800000000000000
+      internalID: 5887546339544399880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 295
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8979cee5f3e66d170800000000000000
+      internalID: 8202864989756495768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 66
+        width: 154
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffabb33f9f5579b0800000000000000
+      internalID: -5083051467045359624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 66
+        width: 156
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b039e2dc5bf8dda20800000000000000
+      internalID: 3088782930440262411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_19
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 114
+        width: 162
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da85111b743264d0800000000000000
+      internalID: -3142891886778938664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_20
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 66
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb221e1649465c0800000000000000
+      internalID: -4223087402456793548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1
+        width: 178
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142b987170476eb20800000000000000
+      internalID: 3163343362082845249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 114
+        width: 58
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c013bbb17eee3a060800000000000000
+      internalID: 6963672125215027468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.walk_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1
+        width: 359
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b9d3e7efa45a170800000000000000
+      internalID: 8189033954343230279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      abomination.sprite.walk_0: -4689466700852215629
+      abomination.sprite.walk_1: 5953420317806019335
+      abomination.sprite.walk_10: -8315038493712854971
+      abomination.sprite.walk_11: 9067941619673210376
+      abomination.sprite.walk_12: -9173741805709367426
+      abomination.sprite.walk_13: 415063870323740428
+      abomination.sprite.walk_14: 2577779319393739636
+      abomination.sprite.walk_15: 5887546339544399880
+      abomination.sprite.walk_16: 8202864989756495768
+      abomination.sprite.walk_17: -5083051467045359624
+      abomination.sprite.walk_18: 3088782930440262411
+      abomination.sprite.walk_19: -3142891886778938664
+      abomination.sprite.walk_2: -3232398770312444430
+      abomination.sprite.walk_20: -4223087402456793548
+      abomination.sprite.walk_21: 3163343362082845249
+      abomination.sprite.walk_22: 6963672125215027468
+      abomination.sprite.walk_23: 8189033954343230279
+      abomination.sprite.walk_3: -298242769636771333
+      abomination.sprite.walk_4: -5451578948139081395
+      abomination.sprite.walk_5: 7548751583251269751
+      abomination.sprite.walk_6: 1831416398952471222
+      abomination.sprite.walk_7: 4909925224503101990
+      abomination.sprite.walk_8: 2921097424329931347
+      abomination.sprite.walk_9: 4689889498406667389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

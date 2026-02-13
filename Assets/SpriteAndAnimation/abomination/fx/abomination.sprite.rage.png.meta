@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 1e5f93aebe1b9d947be3d4e3593ed536
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7160302348278042545
+    second: abomination.sprite.rage_0
+  - first:
+      213: 3962969391007509070
+    second: abomination.sprite.rage_1
+  - first:
+      213: -6145361085376425904
+    second: abomination.sprite.rage_2
+  - first:
+      213: 1528232709066072541
+    second: abomination.sprite.rage_3
+  - first:
+      213: -7950074236178035834
+    second: abomination.sprite.rage_4
+  - first:
+      213: 5711642279135289938
+    second: abomination.sprite.rage_5
+  - first:
+      213: -6357129045492621254
+    second: abomination.sprite.rage_6
+  - first:
+      213: 6878813267009205540
+    second: abomination.sprite.rage_7
+  - first:
+      213: 3311953424677645245
+    second: abomination.sprite.rage_8
+  - first:
+      213: -5147731595968864165
+    second: abomination.sprite.rage_9
+  - first:
+      213: -2451318459604976690
+    second: abomination.sprite.rage_10
+  - first:
+      213: -3984609329403691794
+    second: abomination.sprite.rage_11
+  - first:
+      213: 2035843430984116585
+    second: abomination.sprite.rage_12
+  - first:
+      213: -2738688783317868897
+    second: abomination.sprite.rage_13
+  - first:
+      213: 6349124676331320376
+    second: abomination.sprite.rage_14
+  - first:
+      213: -1824239305406154777
+    second: abomination.sprite.rage_15
+  - first:
+      213: -4452748701663659156
+    second: abomination.sprite.rage_16
+  - first:
+      213: -520689339186201902
+    second: abomination.sprite.rage_17
+  - first:
+      213: 1964788284160320236
+    second: abomination.sprite.rage_18
+  - first:
+      213: 2976039655392828386
+    second: abomination.sprite.rage_19
+  - first:
+      213: 6732019080094159332
+    second: abomination.sprite.rage_20
+  - first:
+      213: -8513072700878418369
+    second: abomination.sprite.rage_21
+  - first:
+      213: 3968551946738889741
+    second: abomination.sprite.rage_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: abomination.sprite.rage_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 900
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40fd7e73fe71ac90800000000000000
+      internalID: -7160302348278042545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_1
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 433
+        width: 128
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4aafb61aab4ff630800000000000000
+      internalID: 3962969391007509070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_2
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1
+        width: 49
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05011a107aa47baa0800000000000000
+      internalID: -6145361085376425904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_3
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 420
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1240e4d8f553510800000000000000
+      internalID: 1528232709066072541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_4
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 411
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b8f9e7a99aba190800000000000000
+      internalID: -7950074236178035834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_5
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 424
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25226fb2464d34f40800000000000000
+      internalID: 5711642279135289938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_6
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 291
+        width: 37
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30281c80d0f6c7a0800000000000000
+      internalID: -6357129045492621254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_7
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 420
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425f3588834767f50800000000000000
+      internalID: 6878813267009205540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_8
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 411
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbac8e971c66fd20800000000000000
+      internalID: 3311953424677645245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_9
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 423
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50a83723659f88b0800000000000000
+      internalID: -5147731595968864165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_10
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 396
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb33ef39da2bfdd0800000000000000
+      internalID: -2451318459604976690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_11
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 423
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec7f202de2d3b8c0800000000000000
+      internalID: -3984609329403691794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_12
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 423
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ee1a60d4c04c10800000000000000
+      internalID: 2035843430984116585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_13
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 418
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eddffcf093ef9d0800000000000000
+      internalID: -2738688783317868897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_14
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 397
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8343567014f9c1850800000000000000
+      internalID: 6349124676331320376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_15
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 362
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7f5f754000fa6e0800000000000000
+      internalID: -1824239305406154777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_16
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 397
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b7143c5a8a432c0800000000000000
+      internalID: -4452748701663659156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_17
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 396
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da39730ec326c8f0800000000000000
+      internalID: -520689339186201902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_18
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 93
+        width: 59
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2a938d884544b10800000000000000
+      internalID: 1964788284160320236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_19
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 362
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb5a218c440d4920800000000000000
+      internalID: 2976039655392828386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_20
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e11a228fafec6d50800000000000000
+      internalID: 6732019080094159332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_21
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 93
+        width: 45
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e01159b7d7bd980800000000000000
+      internalID: -8513072700878418369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abomination.sprite.rage_22
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1
+        width: 37
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d047e0228f0231730800000000000000
+      internalID: 3968551946738889741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      abomination.sprite.rage_0: -7160302348278042545
+      abomination.sprite.rage_1: 3962969391007509070
+      abomination.sprite.rage_10: -2451318459604976690
+      abomination.sprite.rage_11: -3984609329403691794
+      abomination.sprite.rage_12: 2035843430984116585
+      abomination.sprite.rage_13: -2738688783317868897
+      abomination.sprite.rage_14: 6349124676331320376
+      abomination.sprite.rage_15: -1824239305406154777
+      abomination.sprite.rage_16: -4452748701663659156
+      abomination.sprite.rage_17: -520689339186201902
+      abomination.sprite.rage_18: 1964788284160320236
+      abomination.sprite.rage_19: 2976039655392828386
+      abomination.sprite.rage_2: -6145361085376425904
+      abomination.sprite.rage_20: 6732019080094159332
+      abomination.sprite.rage_21: -8513072700878418369
+      abomination.sprite.rage_22: 3968551946738889741
+      abomination.sprite.rage_3: 1528232709066072541
+      abomination.sprite.rage_4: -7950074236178035834
+      abomination.sprite.rage_5: 5711642279135289938
+      abomination.sprite.rage_6: -6357129045492621254
+      abomination.sprite.rage_7: 6878813267009205540
+      abomination.sprite.rage_8: 3311953424677645245
+      abomination.sprite.rage_9: -5147731595968864165
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
