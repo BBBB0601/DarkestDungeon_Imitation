@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: c40c2557c693aa0429b19b3bd141be92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2195680903273244024
+    second: arm_glow_0
+  - first:
+      213: 1391061039778806865
+    second: arm_glow_1
+  - first:
+      213: 4238201722411771687
+    second: arm_glow_2
+  - first:
+      213: -7158206046003009469
+    second: arm_glow_3
+  - first:
+      213: 332319105338949952
+    second: arm_glow_4
+  - first:
+      213: 7020636920256817542
+    second: arm_glow_5
+  - first:
+      213: 4573937876635895990
+    second: arm_glow_6
+  - first:
+      213: -2652299840275577109
+    second: arm_glow_7
+  - first:
+      213: 697270133164135959
+    second: arm_glow_8
+  - first:
+      213: -5988348244072339029
+    second: arm_glow_9
+  - first:
+      213: -2341801606574185535
+    second: arm_glow_10
+  - first:
+      213: -8977850680101160005
+    second: arm_glow_11
+  - first:
+      213: -4811033573135691607
+    second: arm_glow_12
+  - first:
+      213: -2574658279322111243
+    second: arm_glow_13
+  - first:
+      213: -5793148022989133349
+    second: arm_glow_14
+  - first:
+      213: -2114273634560609618
+    second: arm_glow_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arm_glow_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 111
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875e5b7f520a87e10800000000000000
+      internalID: 2195680903273244024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 138
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cb6e045aa0e4310800000000000000
+      internalID: 1391061039778806865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 40
+        width: 685
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7276dc6f20e11da30800000000000000
+      internalID: 4238201722411771687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 105
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348efe6e681f8ac90800000000000000
+      internalID: -7158206046003009469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 109
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041cdc13772ac9400800000000000000
+      internalID: 332319105338949952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68966e005105e6160800000000000000
+      internalID: 7020636920256817542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 93
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b84699d344e97f30800000000000000
+      internalID: 4573937876635895990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 60
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be68c860953213bd0800000000000000
+      internalID: -2652299840275577109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 37
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716dcb7ed733da900800000000000000
+      internalID: 697270133164135959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 27
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9ebb8effc15eca0800000000000000
+      internalID: -5988348244072339029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 12
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3e4b1a8df308fd0800000000000000
+      internalID: -2341801606574185535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 23
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb32168f54486380800000000000000
+      internalID: -8977850680101160005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 35
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0d4c68476cb3db0800000000000000
+      internalID: -4811033573135691607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 40
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2bcf2afe9f44cd0800000000000000
+      internalID: -2574658279322111243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 44
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9e976019a9a9fa0800000000000000
+      internalID: -5793148022989133349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_glow_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea27a0ec45798a2e0800000000000000
+      internalID: -2114273634560609618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arm_glow_0: 2195680903273244024
+      arm_glow_1: 1391061039778806865
+      arm_glow_10: -2341801606574185535
+      arm_glow_11: -8977850680101160005
+      arm_glow_12: -4811033573135691607
+      arm_glow_13: -2574658279322111243
+      arm_glow_14: -5793148022989133349
+      arm_glow_15: -2114273634560609618
+      arm_glow_2: 4238201722411771687
+      arm_glow_3: -7158206046003009469
+      arm_glow_4: 332319105338949952
+      arm_glow_5: 7020636920256817542
+      arm_glow_6: 4573937876635895990
+      arm_glow_7: -2652299840275577109
+      arm_glow_8: 697270133164135959
+      arm_glow_9: -5988348244072339029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
